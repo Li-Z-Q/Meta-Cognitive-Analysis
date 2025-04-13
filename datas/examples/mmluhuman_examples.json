@@ -1,0 +1,241 @@
+[
+    {
+        "question": "For which of these two scenarios does the main character (who uses I/me/my) do something clearly morally wrong, according to ordinary moral standards in the US as of 2020? Scenario 1 | I hid my diabetic children's presents from them until Christmas morning. Scenario 2 | I ate a slice of my friends tasty pork shoulder. Choose from: A. Wrong, Wrong, B. Wrong, Not wrong, C. Not wrong, Wrong, D. Not wrong, Not wrong",
+        "answer": "D. Not wrong, Not wrong",
+        "subject": "moral_scenarios",
+        "procedural-hint": [
+            "Consider the actions of the main character in each scenario.",
+            "Evaluate each action based on ordinary moral standards in the US.",
+            "Match the assessment of each scenario to one of the provided options."
+        ],
+        "factual-hint": [
+            "Hiding presents until Christmas morning is a common tradition in the US to surprise children.",
+            "Diabetes is a condition where the body can't produce or use insulin effectively. However, hiding presents is not directly related to the medical condition.",
+            "Eating a slice of pork shoulder does not in itself carry a moral weight in many cultures and societies, including the US in 2020.",
+            "Friends often share food with each other, and it's not considered morally wrong to do so unless there's a violation of trust or explicit refusal."
+        ],
+        "noisy-factual-hint": [],
+        "reasoning": "Consider the actions of the main character in each scenario. Evaluate each action based on ordinary moral standards in the US. Hiding presents until Christmas morning is a common tradition in the US to surprise children. Diabetes is a condition where the body can't produce or use insulin effectively. However, hiding presents is not directly related to the medical condition. Eating a slice of pork shoulder does not in itself carry a moral weight in many cultures and societies, including the US in 2020. Friends often share food with each other, and it's not considered morally wrong to do so unless there's a violation of trust or explicit refusal. \nMatch the assessment of each scenario to one of the provided options.\nTherefore, the answer is D. Not wrong, Not wrong.",
+        "local-1": [
+            "Natural law theory proposes that morality is determined by nature and is universally applicable.",
+            "A motion to suppress is a motion made by the defense, asking the court to exclude certain evidence from trial. This often relates to evidence gathered against the defendant in violation of their Fourth Amendment rights protecting against unreasonable searches and seizures.",
+            "Deontological theories judge the morality of choices by criteria different than the states of affairs those choices bring about.",
+            "The paradox posited by Meno, a character in one of Plato's dialogues, centers around the dilemma of learning. "
+        ],
+        "local-2": [
+            "The disjunction operator (⊃) in predicate logic represents \"or\".",
+            "Christmas is often associated with fun and family-friendly activities, not inducing fear in others.",
+            "The property's ownership remains with the friend as long as the condition is not met. ",
+            "Self-defense laws allow individuals to defend themselves if they feel they are in immediate danger.",
+            "Feminist considerations would focus on the issues related to intersectionality, power, and oppression.",
+            "Singer's argument references a moral obligation to help those in extreme poverty. But it's not directly addressed as a paralysis issue in Ashford's article.",
+            "The evolution of tool-making behavior is likely to have influenced different aspects of brain development.",
+            "A 'wrongful act' is an act that breaches the duty of care."
+        ],
+        "global-1": [
+            "CPR can be used in the case of a cardiac flatline to help circulate oxygen and blood.",
+            "Glycolysis is a metabolic pathway that converts glucose into pyruvate and generates small amounts of ATP and NADH.",
+            "A clothing store is a place where clothes are sold.",
+            "45 * 2 = 90"
+        ],
+        "global-2": [
+            "Fossil fuels are nonrenewable sources of energy.",
+            "Some studies suggest wine might be good for heart health.",
+            "Upwelling moves cold, deep sea water to the surface. ",
+            "$f^{-1}(x)=\\sqrt[3]{\\frac{x-1}{4}}$.",
+            "A graduated cylinder is a tool used to measure volume.",
+            "Nuclear power does have risks, such as radiation, but its safety is a subject of scholarly debate.",
+            "The dorsal fin of a fish helps with stability while swimming.",
+            "$\\frac{9}{160}$ is equivalent to $\\frac{9\\cdot 5^4}{2^5\\cdot 5\\cdot 5^4}$."
+        ]
+    },
+    {
+        "question": "Select the best translation into predicate logic: Cecilia breaks my heart if, and only if, Maria is either a problem or a girl. Choose from: A. Bc ≡ (Pm ∨ Gm), B. Bc ≡ (Pm • Gm), C. Bc ⊃ (Pm ∨ Gm), D. Cb ⊃ (Pm • Gm)",
+        "answer": "A. Bc ≡ (Pm ∨ Gm)",
+        "subject": "formal_logic",
+        "procedural-hint": [
+            "First, understand the structure of the given sentence and identify the conditional and the two statements being related.",
+            "Consider the logical connectors such as \"if, and only if\" and \"either... or\".",
+            "Translate each part of the sentence into its logical form.",
+            "Match the correct logical expression with the given options."
+        ],
+        "factual-hint": [
+            "\"≡\" represents \"if, and only if\" or equivalently \"is equivalent to\".",
+            "\"⊃\" represents \"implies\" or \"if... then\".",
+            "\"∨\" stands for \"or\".",
+            "\"•\" stands for \"and\"."
+        ],
+        "noisy-factual-hint": [],
+        "reasoning": "First, understand the structure of the given sentence and identify the conditional and the two statements being related.\n Consider the logical connectors such as \"if, and only if\" and \"either... or\". Translate each part of the sentence into its logical form. \"≡\" represents \"if, and only if\" or equivalently \"is equivalent to\". \"⊃\" represents \"implies\" or \"if... then\". \"∨\" stands for \"or\". \"•\" stands for \"and\". \nMatch the correct logical expression with the given options.\nTherefore, the answer is A. Bc ≡ (Pm ∨ Gm).",
+        "local-1": [
+            "Marbury v. Madison was a landmark Supreme Court case that established the principle of judicial review but does not concern segregation or the \"separate but equal\" doctrine.",
+            "Second-degree murder typically implies an intentional killing that was not premeditated.",
+            "\"Full performance of contract\" means that all the terms and clauses of a contract were fulfilled as agreed upon.",
+            "A warrantless search is a search and seizure without a warrant."
+        ],
+        "local-2": [
+            "The 1826 Pennsylvania law criminalizes the abduction and enslavement of free African Americans.",
+            "According to Baier, morality is teachable and universal, thus, moral rules should be universally teachable too.",
+            "Appeal to loyalty prioritizes loyalty over objective analysis and critical thinking.",
+            "The hit-and-run statute requires a driver involved in an accident causing injury or death to stop, provide assistance, and disclose their details.",
+            "Sandel critiques genetic enhancement, but the reasons include issues of hubris and the desire for perfection, not simply safety and fairness.",
+            "In most areas, a homeowners' right to make reasonable use of their property does not include causing significant nuisance to others.",
+            "The contents of an employment manual can very often be binding and may be viewed as part of an employment contract.",
+            "Many Venus figurines were discovered in Europe."
+        ],
+        "global-1": [
+            "Niche divergence involves different species developing different specializations to avoid direct competition.",
+            "At equilibrium for a certain reaction, the rate of the forward reaction equals the rate of reverse reaction.",
+            "Relative error is the ratio of the absolute error to the true value.",
+            "$36^{10} = (6^2)^{10} = 6^{20}$"
+        ],
+        "global-2": [
+            "Skiing, biking, and surfing less frequently use the term \"riding fakie\".",
+            "2 x 7 = 14",
+            "3.5 - 2 = 1.5 ",
+            "Fraudulent financial reporting may involve any act that results in misleading financial statements, including the manipulation of accounting records.",
+            "The 'managerial revolution' debate refers to the idea that control over modern economies is shifting from owners to professional managers.",
+            "A rock is a solid inorganic material, it does not have life.",
+            "Photoperiod relates to the biological response of organisms to the length of day or night.",
+            "Predators usually have an impact on the population size and diversity of their prey, but do not directly influence plant growth or photosynthesis."
+        ]
+    },
+    {
+        "question": "What is Kant's 'categorical imperative? Choose from: A. You must not consciously harm another person., B. You must always act in the best interests of the community., C. You must treat human beings as means rather than ends., D. You must act according as if your values apply to everyone.",
+        "answer": "D. You must act according as if your values apply to everyone.",
+        "subject": "jurisprudence",
+        "procedural-hint": [
+            "Reflect on the basic principles of Kant's philosophy and ethics.",
+            "Remember the main concepts associated with the 'categorical imperative' and its role in moral reasoning.",
+            "Consider each option and decide which one best represents the essence of Kant's 'categorical imperative'."
+        ],
+        "factual-hint": [
+            "The 'categorical imperative' is a principle developed by the philosopher Immanuel Kant as a foundation of ethical behavior.",
+            "'You must not consciously harm another person' implies a prohibition of harm.",
+            "'You must always act in the best interests of the community' emphasizes community welfare.",
+            "'You must treat human beings as means rather than ends' suggests using human beings as tools, which is contradictory to Kant's ethics.",
+            "'You must act according as if your values apply to everyone' is about universal applicability of one's actions and decisions."
+        ],
+        "noisy-factual-hint": [],
+        "reasoning": "Reflect on the basic principles of Kant's philosophy and ethics. Remember the main concepts associated with the 'categorical imperative' and its role in moral reasoning. The 'categorical imperative' is a principle developed by the philosopher Immanuel Kant as a foundation of ethical behavior. \nConsider each option and decide which one best represents the essence of Kant's 'categorical imperative'. 'You must not consciously harm another person' implies a prohibition of harm. 'You must always act in the best interests of the community' emphasizes community welfare. 'You must treat human beings as means rather than ends' suggests using human beings as tools, which is contradictory to Kant's ethics. 'You must act according as if your values apply to everyone' is about universal applicability of one's actions and decisions. \nTherefore, the answer is D. You must act according as if your values apply to everyone.",
+        "local-1": [
+            "The detective was employed by the insurance company to recover lost or stolen items, which includes investigating the theft and recovering the painting.",
+            "Calvin Coolidge was the 30th President of the United States, serving from 1923 to 1929.",
+            "Allowing children to play outside while a parent does household chores is considered a normal practice in the US.",
+            "In the context of law, self-incrimination refers to one's actions or statements that may imply his/her own guilt.",
+            "An indefeasible estate cannot be defeated by any condition or power, and it is against public policy to enforce such conditions."
+        ],
+        "local-2": [
+            "An executory limitation passes the property directly to a third party if a certain condition occurs.",
+            "In the US as of 2020, it is seen as good parenting to ensure kids don't miss important lessons at school like sharing.",
+            "Khalsa term is used for baptized Sikhs, introduced by the tenth Sikh Guru, Guru Gobind Singh.",
+            "The presence of primary and secondary refuse, or trash, can provide important insights into past human behavior, but is not integral to the act of a pedestrian survey.",
+            "Michael J. Sandel is a political philosopher and a professor at Harvard University.",
+            "Telling a child that they are not loved and never will be loved by their parents can be psychologically damaging and is generally considered morally wrong in the U.S.",
+            "Warren G. Harding was the predecessor of Coolidge, and they both were from the same Republican party with similar economic policies.",
+            "Equity in legal terms often refers to the principle of fairness and justice.",
+            "Interstate commerce refers to any commercial transactions or economic activity taking place between two or more states.",
+            "Throwing a ball quickly to another child is a common act in playing games and isn't generally considered morally wrong unless it intends to harm."
+        ],
+        "global-1": [
+            "People with fixed money incomes do not see an increase in income to match the increasing prices.",
+            "Costa Rica is a country in Central America.",
+            "Marginal product of labor refers to the additional output resulting from employing an extra unit of labor, while holding other factors of production constant.",
+            "Perennial growth refers to plants that live for more than two years.",
+            "The mere occurrence of an accident does not necessarily prove negligence."
+        ],
+        "global-2": [
+            "Two-digit numbers that have a 2 as units digit and divisible by 4 are: 12, 32, 52, 72, and 92",
+            "Gravity pulls all objects down at the same rate, regardless of their mass.",
+            "A caretaker is a person that provides care or service to others.",
+            "Solve the quadratic equation, $x^2 + x - 12=0$, using the zero product property to give roots as $x=-4$ and $x=3$.",
+            "Eukaryotic cells contain membrane-bound organelles.",
+            "George Washington was the first President of the United States.",
+            "Let defense = x",
+            "Doubling the resistance in a circuit, while keeping the voltage constant, would halve the current. ",
+            "A steel shoe is not a natural characteristic of a horse; it is applied by humans.",
+            "Consumers can eat plants and potentially damage them."
+        ]
+    },
+    {
+        "question": "This question refers to the following information.\n\"Let a woman retire late to bed, but rise early to duties; let her nor dread tasks by day or by night. Let her not refuse to perform domestic duties whether easy or difficult. That which must be done, let her finish completely, tidily, and systematically, When a woman follows such rules as these, then she may be said to be industrious.\nLet a woman be correct in manner and upright in character in order to serve her husband. Let her live in purity and quietness of spirit, and attend to her own affairs. Let her love not gossip and silly laughter. Let her cleanse and purify and arrange in order the wine and the food for the offerings to the ancestors. When a woman observes such principles as these, then she may be said to continue ancestral worship.\nNo woman who observes these three fundamentals of life has ever had a bad reputation or has fallen into disgrace. If a woman fail to observe them, how can her name be honored; how can she but bring disgrace upon herself?\"\n© The East Asian Library and the Gest Collection, Princeton University.\nBan Zhao, Lessons for a Woman, ca. 80 C.E.\nWhich theme in the passage was common in patriarchal ancient societies? Choose from: A. The importance of attending to the affairs of others, B. The importance of female purity, C. The importance of systematically arranging wine, D. The importance of ancestor worship",
+        "answer": "B. The importance of female purity",
+        "subject": "high_school_world_history",
+        "procedural-hint": [
+            "Read the given passage thoroughly and identify the main ideas and recurring themes.",
+            "Understand the context of the passage, considering the source and time period.",
+            "Match the main ideas and themes from the passage with the given options.",
+            "Choose the theme that is emphasized and fits the description of patriarchal ancient societies."
+        ],
+        "factual-hint": [
+            "No need for additional factual hint."
+        ],
+        "noisy-factual-hint": [],
+        "reasoning": "Read the given passage thoroughly and identify the main ideas and recurring themes. Understand the context of the passage, considering the source and time period. Match the main ideas and themes from the passage with the given options. Choose the theme that is emphasized and fits the description of patriarchal ancient societies. \nTherefore, the answer is B. The importance of female purity.",
+        "local-1": [
+            "External meaning refers to a purpose or significance derived from outside sources or influences."
+        ],
+        "local-2": [
+            "Kant distinguished between actions done based on duty and those done due to inclinations or desires.",
+            "Being threatened with a knife is generally considered a serious threat, regardless of the type of knife being used."
+        ],
+        "global-1": [
+            "When objects fall, potential energy is converted into kinetic energy."
+        ],
+        "global-2": [
+            "The odd integers between 46 and 64 are 47, 49, ..., 63.",
+            "In a system of equations, if two equations are given in terms of two variables, you can solve for one variable by substituting one equation into the other."
+        ]
+    },
+    {
+        "question": "At the end of the Miocene many species of ape became extinct due to: Choose from: A. humans killing them., B. an asteroid hitting the Yucatan Peninsula., C. a change in the environment., D. dinosaurs eating them.",
+        "answer": "C. a change in the environment.",
+        "subject": "prehistory",
+        "procedural-hint": [
+            "Review what you know about the Miocene period.",
+            "Eliminate the options that don't make historical or chronological sense.",
+            "Consider the events or reasons that led to the extinction of species during that period.",
+            "Select the most probable cause from the provided options."
+        ],
+        "factual-hint": [
+            "The Miocene epoch occurred from about 23 to 5 million years ago.",
+            "Humans and dinosaurs did not coexist with the Miocene apes.",
+            "The asteroid hitting the Yucatan Peninsula is associated with the extinction of the dinosaurs at the end of the Cretaceous period, not the Miocene.",
+            "Environmental changes during the Miocene, including climate shifts and tectonic events, could impact habitats and food availability for various species."
+        ],
+        "noisy-factual-hint": [],
+        "reasoning": "Review what you know about the Miocene period. The Miocene epoch occurred from about 23 to 5 million years ago.\nEliminate the options that don't make historical or chronological sense. Consider the events or reasons that led to the extinction of species during that period. Humans and dinosaurs did not coexist with the Miocene apes. The asteroid hitting the Yucatan Peninsula is associated with the extinction of the dinosaurs at the end of the Cretaceous period, not the Miocene. Environmental changes during the Miocene, including climate shifts and tectonic events, could impact habitats and food availability for various species. \nSelect the most probable cause from the provided options.\nTherefore, the answer is C. a change in the environment.",
+        "local-1": [
+            "Teaching pets to use public spaces, such as a park's sandbox, as a bathroom is generally considered disrespectful and unsanitary in US society.",
+            "Running away from family is generally not considered morally wrong, especially if the individual is dealing with adverse circumstances.",
+            "Peter the Great was not influenced by the new civil and political rights in Protestant Europe to share power in Russia.",
+            "Ashford's article is concerned with the ethics of global justice."
+        ],
+        "local-2": [
+            "Deontological theories judge the morality of choices by criteria different than the states of affairs those choices bring about.",
+            "Each individual's action should be evaluated based on moral standards, independent of other factors.",
+            "Consequentialist theory views morality as dependent on the outcome or consequences of actions.",
+            "Genetic enhancement is a technology that allows for the alteration of DNA.",
+            "The corporation leased the premises from the tenant, not directly from the landlord.",
+            "Dressing as a serial killer and walking around town with a fake kitchen knife could scare people and could be deemed inappropriate or wrong according to ordinary moral standards.",
+            "The realm of Forms and the realm of becoming are concepts in Platonic philosophy, but they are not the specific focus of Meno's paradox.",
+            "Frisking, which is a pat-down search by police, is often done to ensure safety and is typically limited to what is necessary for the discovery of weapons."
+        ],
+        "global-1": [
+            "A person running around a track is an example of kinetic energy.",
+            "Research has shown multiple factors contribute to obesity including diet, exercise, genetics, and socioeconomic factors. ",
+            "The term \"Millennials\" refers to the generation of people born between approximately 1981 and 1996.",
+            "Open water and plants can influence local weather patterns."
+        ],
+        "global-2": [
+            "A zoo is a place where animals are kept for public viewing.",
+            "An executory limitation passes the property directly to a third party if a certain condition occurs.",
+            "Bielefeld is a real place and not an illusion.",
+            "The dependency in a model refers to how the value of one variable relies on the value of another.",
+            "A weakened immune system can make a person prone to infections.",
+            "40 * 2 = 80",
+            "A funeral is a ceremony for honoring or remembering the deceased.",
+            "5 + 2 = 7"
+        ]
+    }
+]

@@ -1,0 +1,244 @@
+[
+    {
+        "question": "What is the greatest possible product of any two distinct prime numbers less than 40?",
+        "answer": "1147",
+        "reference": "We look for the two largest prime numbers less than 40 and find that they are 37 and 31. The product of these two numbers is $37\\times31=\\boxed{1147}$.",
+        "level": "Level 1",
+        "type": "Number Theory",
+        "procedural-hint": [
+            "Identify the two largest prime numbers below the given threshold.",
+            "Multiply the two prime numbers together to determine the product."
+        ],
+        "factual-hint": [
+            "The largest 2 primes below 40 are 37 and 31.",
+            "$37*31=1147$"
+        ],
+        "noisy-factual-hint": [
+            [
+                "The largest 2 combinations below 40 is 38 and 36.",
+                "$38*36=1368$"
+            ],
+            [
+                "The largest 2 primes below 30 is 29 and 23.",
+                "$29*23=667$"
+            ]
+        ],
+        "reasoning": "Identify the two largest prime numbers below the given threshold. The largest primes below 40 are 37 and 31. \nMultiply the two prime numbers together to determine the product. $37*31=1147$.\nTherefore, the answer is 1147.",
+        "local-1": [
+            "If $\\log_b y = x$, then $b^x = y$. Hence, $2^2=4$ when $\\log_2 x = 2$.",
+            "Vieta's formulas are mathematical equations that relate the coefficients of a polynomial to sums and products of its roots."
+        ],
+        "local-2": [
+            "The Remainder Theorem states that the remainder of a function divided by a divisor is given by the function evaluated at the divisor.",
+            "An octagon has 8 sides.",
+            "Each clown has 2 legs and 1 head.",
+            "If $2x=34$, then $x=17$."
+        ],
+        "global-1": [
+            "The perimeter in a triangle is the sum of the lengths of all its sides. In this case, it is given as 6 + b + c = 18, where 6 and b are the lengths of the two legs of the triangle and c is the length of the hypotenuse.",
+            "The equation of a line in slope-intercept form is $y=mx+b$ where $m$ is the slope and $b$ is the y-intercept."
+        ],
+        "global-2": [
+            "Three bags will be delivered on Wednesday.",
+            "Illinois is a state in the United States, located in the Midwest region, and is known for farming.",
+            "Transporting is the process of moving people or goods from one place to another.",
+            "There is no scientific evidence to support the existence of vampires."
+        ]
+    },
+    {
+        "question": "How much greater than $27^2$ is $43^2$ ?",
+        "answer": "1120",
+        "reference": "We factor this as a difference of squares: $43^2 - 27^2 = (43 + 27)(43 - 27) = (70)(16) = \\boxed{1120}$.",
+        "level": "Level 1",
+        "type": "Algebra",
+        "procedural-hint": [
+            "Factor the difference of squares between the two given numbers.",
+            "Multiply the resulting two numbers together to determine the difference."
+        ],
+        "factual-hint": [
+            "$43^2-27^2=(43+27)(43-27)$",
+            "$43+27=70$",
+            "$43-27=16$",
+            "$70*16=1120$"
+        ],
+        "noisy-factual-hint": [
+            [
+                "$43^2+27^2=27^2+43^2$",
+                "$43+16=59$",
+                "$70+27=97$",
+                "$59*97=5723$"
+            ],
+            [
+                "$43^2-27^2=43^2-27^2$",
+                "$43*16=688$",
+                "$27*70=1890$",
+                "$688-1890=-1202$"
+            ]
+        ],
+        "reasoning": "Factor the difference of squares between the two given numbers. $43^2-27^2=(43+27)(43-27)$.\nMultiply the resulting two numbers together to determine the difference. $43+27=70$,$43-27=16$,$70*16=1120$.\nTherefore, the answer is 1120.",
+        "local-1": [
+            "$4\\times 3\\div 3 = 4$",
+            "Beatrice finishes the race in 25 seconds.",
+            "$(5+\\sqrt{3})(5-\\sqrt{3}) = 25 - 3 = 22$",
+            "$(m+n)^2=m^2+2mn+n^2$"
+        ],
+        "local-2": [
+            "If $x+y=25$ and $x-y=9$, then $2x=34$.",
+            "The modulo 4 of 17 is 1.",
+            "$\\log_a (a) = 1$",
+            "The sum of complementary angles is equal to $90^\\circ$.",
+            "For any dividing operation $n$, the following equation always holds: Dividend = Divisor*Quotient + Remainder.",
+            "$5 \\times 6 \\times 8 = 240$",
+            "$(2)^2=4$",
+            "$cot 90^\\circ = \\frac{\\cos 90^\\circ}{\\sin 90^\\circ}=0$"
+        ],
+        "global-1": [
+            "\"Egalitarian\" refers to a belief in equality, \"Absolutist\" refers to unrestricted power in a ruler, \"Republican\" refers to a form of government in which power resides in elected individuals, and \"Theocratic\" means governed by a deity's law. ",
+            "$2*7=14$",
+            "In Morse code, each symbol is either a dot or a dash.",
+            "5 is a prime number."
+        ],
+        "global-2": [
+            "2 + 2 = 4",
+            "As (Arsenic), P (Phosphorus), and Sb (Antimony) are commonly used as n-type dopants in germanium because they have five valence electrons, which is one more than required for a perfect bond with germanium. This extra electron is easily expelled from its parent atom and contributes to the electric current.",
+            "There is no universal moral judgment tied to the act of paying attention while driving or removing decorations.",
+            "The z-component of spin angular momentum is given by mħ, where 'm' is the magnetic quantum number which can take any integer value between -I and +I. ",
+            "Two teaspoons is equal to 8 quarter-teaspoons.",
+            "Providing education and job training to ex-drug users is an example of a support program intended to minimize the chance of relapse.",
+            "The patient is suffering from osteoporosis, as shown by the DEXA scan.",
+            "Dressing oneself is a skill often taught to young children."
+        ]
+    },
+    {
+        "question": "How many integers between 200 and 300 are perfect squares?",
+        "answer": "3",
+        "reference": "Let $m$ be a positive integer. $200\\le m^2\\le300\\Rightarrow 15\\le m\\le17$. Therefore, exactly $\\boxed{3}$ integers ($15^2$, $16^2$, and $17^2$) are perfect squares between 200 and 300.",
+        "level": "Level 1",
+        "type": "Counting & Probability",
+        "procedural-hint": [
+            "Identify the smallest and largest whole numbers whose squares fall within the given range.",
+            "Count the number of perfect squares that fall between the two given numbers."
+        ],
+        "factual-hint": [
+            "$14^2=196$",
+            "$15^2=225$",
+            "$16^2=256$",
+            "$17^2=289$",
+            "$18^2=324$"
+        ],
+        "noisy-factual-hint": [],
+        "reasoning": "Identify the smallest and largest whole numbers whose squares fall within the given range. $14^2=196$,$15^2=225$,$16^2=256$,$17^2=289$,$18^2=324$.\nCount the number of perfect squares that fall between the two given numbers. Exactly 3 integers (15 squared, 16 squared, and 17 squared) are perfect squares between 200 and 300.\nTherefore, the answer is 3.",
+        "local-1": [
+            "$50\\%$ is equivalent to $\\frac{1}{2}$",
+            "$83 \\equiv 3 \\pmod{10}$ ",
+            "The nth term in the list $1,2,3,\\ldots,20,21$ is $n$. Therefore, the total number of terms in the list is 21.",
+            "An odd number times 5 always ends in 5.",
+            "The modulo 4 of 17 is 1."
+        ],
+        "local-2": [
+            "$cot 90^\\circ = \\frac{\\cos 90^\\circ}{\\sin 90^\\circ}=0$",
+            "Direct proportionality states that if you halve the distance for the same speed, it takes half the time.",
+            "For any dividing operation $n$, the following equation always holds: Dividend = Divisor*Quotient + Remainder.",
+            "$174 \\equiv 4 \\pmod{10}$",
+            "$\\frac{54-12}{6}=7$",
+            "$|a|\\cdot|b|=|ab|$",
+            "$\\binom{16}{4}=\\binom{16}{12}=\\frac{16!}{4!12!}$",
+            "$5^3=125$",
+            "The modulo 4 of 18 is 2.",
+            "A complete rotation equals $360^{\\circ}$."
+        ],
+        "global-1": [
+            "The start codon in mRNA is responsible for initiating the process of translation.",
+            "$24/2=12$",
+            "In a court of law, both prosecution and defense sides have the right to conduct discovery - request information that is relevant to bolstering their respective cases.",
+            "The base 10 value of $62_7$ is $6\\cdot7^1+2\\cdot7^0=44$.",
+            "The privilege against self-incrimination ensures a person cannot be forced to provide information that may incriminate them in a criminal proceeding."
+        ],
+        "global-2": [
+            "Igneous rocks are formed when magma or lava cools and solidifies.",
+            "Destruction of large plants can be caused by various natural factors like pests, diseases, and even disasters.",
+            "Bones are rigid organs that make up the skeleton of vertebrates.",
+            "44 + 52 = 96",
+            "In many Asian cultures, sticking chopsticks vertically in your food is considered disrespectful.",
+            "Poverty is a state or condition in which a person or community lacks the financial resources for a minimum standard of living.",
+            "Reduction reactions in fatty acid synthesis require a coenzyme, which assists in the reaction.",
+            "Rome is the capital city of Italy and hosts the national government.",
+            "The thigh is the part of the leg between the hip and the knee.",
+            "The Irish are an ethnic group known for their strong cultural traditions, including close-knit family ties."
+        ]
+    },
+    {
+        "question": "What is $(1 + 2 \\cdot 3 \\cdot 4 \\cdot 5) \\div 11$?",
+        "answer": "11",
+        "reference": "First, we evaluate the expression in the parentheses. Since multiplication has precedence over addition, $1 + 2 \\cdot 3 \\cdot 4 \\cdot 5 = 1 + 120 = 121$. Our original expression evaluates to $(1 + 2 \\cdot 3 \\cdot 4 \\cdot 5) \\div 11 = 121 \\div 11 = \\boxed{11}.$",
+        "level": "Level 1",
+        "type": "Prealgebra",
+        "procedural-hint": [
+            "Evaluate the expression in the parentheses.",
+            "Divide the resulting number by 11."
+        ],
+        "factual-hint": [
+            "$1+2*3*4*5=1+120=121$",
+            "$121/11=11$"
+        ],
+        "noisy-factual-hint": [],
+        "reasoning": "Evaluate the expression in the parentheses. $1+2*3*4*5=1+120=121$.\nDivide the resulting number by 11. $121/11=11$.\nTherefore, the answer is 11.",
+        "local-1": [
+            "$7-5=2$",
+            "$3*3=9$"
+        ],
+        "local-2": [
+            "The commutative and associative properties of multiplication mean that you can change the order of numbers being multiplied without changing the product.",
+            "You have 5 options for shirts.",
+            "600 fish / 8 fish per cubic meter = 75 cubic meters.",
+            "$8+9=17$"
+        ],
+        "global-1": [
+            "The EPA is primarily interested in addressing human-caused environmental issues.",
+            "Genes carry the information that determines the traits of plants."
+        ],
+        "global-2": [
+            "Apples neither stop doctors nor have the ability to keep them away literally.",
+            "The plant's space and soil are not being varied in the experiment.",
+            "Each city has its own government and politicians.",
+            "The area of the surface is given as 3 m^2. "
+        ]
+    },
+    {
+        "question": "What is the value of $\\displaystyle{(2^3)}^{\\frac{4}{3}}$?",
+        "answer": "16",
+        "reference": "We have $(2^3)^{\\frac{4}{3}} = 2^{3\\cdot \\frac{4}{3}} = 2^4 = \\boxed{16}$.",
+        "level": "Level 1",
+        "type": "Algebra",
+        "procedural-hint": [
+            "Raise the base to the power indicated inside the parentheses.",
+            "Raise the resulting value to the fraction given outside the parentheses."
+        ],
+        "factual-hint": [
+            "$(2^3)^{\\frac{4}{3}} = 2^4$",
+            "$2^4=16$"
+        ],
+        "noisy-factual-hint": [],
+        "reasoning": "Raise the base to the power indicated inside the parentheses. $(2^3)^{\\frac{4}{3}} = 2^{3\\cdot \\frac{4}{3}}$.\nRaise the resulting value to the fraction given outside the parentheses. $2^4=16$.\nTherefore, the answer is 16.",
+        "local-1": [
+            "$2*4=8$",
+            "$8^2=64$"
+        ],
+        "local-2": [
+            "$3\\log_2 x=6 \\rightarrow \\log_2 x=2$",
+            "Pizza slices with mushrooms = 8",
+            "According to Vieta's formulas, if $x^3 - 3x - 5 = 0,$ then the product of the roots $abc$ is equal to the constant term of the polynomial, which in this case is 5.",
+            "In a power operation, $\\left(\\frac{a}{b}\\right)^n=\\frac{a^n}{b^n}$."
+        ],
+        "global-1": [
+            "A slaughterhouse is a place where animals are butchered for food.",
+            "A warrantless search is a search and seizure without a warrant."
+        ],
+        "global-2": [
+            "The equation is a simple linear equation in form of x − a = b.",
+            "Metamorphosis is a biological process that involves significant changes in physical form or structure of an organism.",
+            "Patients who have had a femoral-popliteal bypass graft may encounter complications such as graft occlusion, where the graft gets blocked, leading to signs like cool and pulseless foot.",
+            "Fraudulent conversion implies wrongful possession of property by someone trusted with that property."
+        ]
+    }
+]

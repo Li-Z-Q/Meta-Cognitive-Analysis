@@ -1,0 +1,229 @@
+[
+    {
+        "question": "If $x$ is a real number and $\\lfloor x \\rfloor = -9,$ how many possible values are there for $\\lfloor 5x \\rfloor$?",
+        "answer": "5",
+        "reference": "We get that $-9 \\le x < -8,$ so multiplying by $5$ gives $-45 \\le 5x < -40.$ Hence, the possible values for $\\lfloor 5x \\rfloor$ are $-45, -44, -43, -42, -41,$ of which there are $\\boxed{5}.$",
+        "level": "Level 2",
+        "type": "Intermediate Algebra",
+        "procedural-hint": [
+            "Determine the range of the real number based on the given floor value.",
+            "Multiply the boundaries of the range by the given factor.",
+            "List and count the integer values within the resulting range to determine the possible values for the new floor function."
+        ],
+        "factual-hint": [
+            "$ \\lfloor x \rfloor = -9$ implies $-9 < x < -8$",
+            "If $-9 < x < -8$, $-45 < 5x < -40$"
+        ],
+        "noisy-factual-hint": [
+            [
+                "$ \\lfloor x \rfloor = -10$ implies $-10 < x < -9$",
+                "If $-10 < x < -9$, $-30 < 3x < -27$"
+            ],
+            [
+                "$ \\lceil x \\rceil = -7$ implies $-8 < x < -7$",
+                "If $-8 < x < -7$, $-40 < 5x < -35$"
+            ]
+        ],
+        "reasoning": "Determine the range of the real number based on the given floor value. $ \\lfloor x \rfloor = -9$ implies $-9 < x < -8$ \nMultiply the boundaries of the range by the given factor. If $-9 < x < -8$, $-45 < 5x < -40$ \nList and count the integer values within the resulting range to determine the possible values for the new floor function. Possible values for $\\lfloor 5x \rfloor$ are: $-45, -44, -43, -42, -41$ \nTherefore, the answer is 5.",
+        "local-1": [
+            "76-(-34)+13 =76+34+13",
+            "Two sides of the triangle are each 8 units long. "
+        ],
+        "local-2": [
+            "Therefore, to paint 12 houses in three days, 5 workers * 3 (for more houses) * 2 (for less time) = 30 workers are needed.",
+            "g &= 8a \\\\",
+            "1080 divided by 5 equals 216.",
+            "$100$ can be written as the sum of $3$ (a $1$-digit prime number) and $97$ (a $2$-digit prime number)."
+        ],
+        "global-1": [
+            "NREM (Non-Rapid Eye Movement) sleep is divided into stages 1-3 and is not characterized by rapid eye movements.",
+            "A supermarket can also be located in a neighboring town."
+        ],
+        "global-2": [
+            "This type of intervention is particularly effective for those who experience acute (sudden) onset of significant symptoms.",
+            "Venus completes an orbit around the Sun in about 225 Earth days.",
+            "The exclusionary rule prevents the government from using most evidence gathered in violation of the United States Constitution. However, this rule does not apply to grand jury hearings.",
+            "Prokaryotic cells do not contain membrane-bound organelles."
+        ]
+    },
+    {
+        "question": "Find $r$ if $3(r-5)=24$.",
+        "answer": "13",
+        "reference": "We get rid of the 3 by dividing both sides by 3: \\[\\frac{3(r-5)}{3} = \\frac{24}{3}.\\] The 3's on the left cancel,  leaving $r-5$.  On the right we have $24/3 = 8$, so our equation is $r-5 = 8$. Adding 5 to both sides of this equation gives $r = \\boxed{13}$.",
+        "level": "Level 2",
+        "type": "Prealgebra",
+        "procedural-hint": [
+            "Divide both sides of the equation by the coefficient of the variable, which is 3.",
+            "Add the constant term to both sides of the equation, which is 5."
+        ],
+        "factual-hint": [
+            "$frac{3(r-5)}{3} = \\frac{24}{3}$ get $r-5 = 8$",
+            "5+8=13"
+        ],
+        "noisy-factual-hint": [],
+        "reasoning": "Divide both sides of the equation by the coefficient of the variable, which is 3. $frac{3(r-5)}{3} = \\frac{24}{3}$ get $r-5 = 8$ \nAdd the constant term to both sides of the equation, which is 5. 5+8=13 \nTherefore, the answer is 13.",
+        "local-1": [
+            "The system of equations representing the given information is:",
+            "$\\frac{10!(1+11+11\\cdot 12)}{10!(1+11)} = \\frac{1+11+11\\cdot 12}{1+11} = 12.$"
+        ],
+        "local-2": [
+            "The commutative property of addition state that the way terms (in a sum) are arranged won’t affect their sum; i.e., the sum remains the same even when the terms are re-arranged.",
+            "The $1$-digit prime numbers are $2,$ $3,$ $5,$ and $7.$ ",
+            "So, 3 + 6 + 9 + ... + 30 = 3 * (1 + 2 + 3 + ... + 10) = 3 * (10 * (10 + 1))/2",
+            "$4+1=5$"
+        ],
+        "global-1": [
+            "8 / 1 = 8",
+            "The damage suffered by the employee is stated to be $100,000."
+        ],
+        "global-2": [
+            "$2 + 1 + 1 = 3$",
+            "In reality, a carp that swims up a waterfall on the Yellow River would merely swim up the river - there would be no physical transformation.",
+            "The stems of a tree and a flower both have the role of supporting the plant.",
+            "A decrease in overall health can be caused by parasites."
+        ]
+    },
+    {
+        "question": "Compute $\\dbinom{31}{28}$.",
+        "answer": "4495",
+        "reference": "\\begin{align*}\n\\dbinom{31}{28} &= \\dbinom{31}{3} \\\\\n&= \\dfrac{31!}{28!3!} \\\\\n&= \\dfrac{31\\times 30\\times 29}{3\\times 2\\times 1} \\\\\n&= 31 \\times \\dfrac{30}{3\\times 2\\times 1} \\times 29 \\\\\n&= 31\\times 5\\times 29 \\\\\n&= \\boxed{4495}.\n\\end{align*}",
+        "level": "Level 2",
+        "type": "Counting & Probability",
+        "procedural-hint": [
+            "Identify the formula for dbinom",
+            "Excute the formula"
+        ],
+        "factual-hint": [
+            "dbinom{n}{k} = \\dfrac{n!}{k!(n-k)!}",
+            "\\dfrac{31!}{28!3!} = 4495"
+        ],
+        "noisy-factual-hint": [],
+        "reasoning": "Identify the formula for dbinom. dbinom{n}{k} = \\dfrac{n!}{k!(n-k)!} \nExcute the formula. dbinom{31}{28} = \\dfrac{31!}{28!3!} = \\dfrac{31\\times 30\\times 29}{3\\times 2\\times 1} = 4495 \nTherefore, the answer is 4495.",
+        "local-1": [
+            "$5\\%(\\$25,\\!000)=(0.05*25000)=\\$1,250$",
+            "Two consecutive odd numbers can be represented as $2n - 1$ and $2n + 1$ where $n$ is a whole number."
+        ],
+        "local-2": [
+            "Prime factors of 15 are 3 and 5.",
+            "The square formed by connecting the midpoints of the sides of a larger square has half the area of that larger square.",
+            "The commutative property of addition state that the way terms (in a sum) are arranged won’t affect their sum; i.e., the sum remains the same even when the terms are re-arranged.",
+            "Absolute value of a complex number is given by $\\sqrt{a^2 + b^2}$ where $a$ and $b$ are real parts and imaginary parts of the complex number respectively."
+        ],
+        "global-1": [
+            "There are 2 roots for the equation $x^2-9=0$, which are $x=3$ and $x=-3$",
+            "8 x 7 = 56"
+        ],
+        "global-2": [
+            "Decomposers break down dead plants and animals, returning matter back into the soil.",
+            "The immune system can recognize and remember specific pathogens. ",
+            "Anorexia nervosa isn't determined by career choices, ethnicity, academic performance, or experimenting with drugs alone.",
+            "Alice finishes the race 5 seconds before Beatrice."
+        ]
+    },
+    {
+        "question": "Given that the fraction $\\frac{8x^3+27y^3}{2x+3y}$ can be simplified and written in the form $ax^2 + bxy + cy^2$ where $a$, $b$, and $c$ are integers, what is $a+b+c$?",
+        "answer": "7",
+        "reference": "We notice that the terms in the numerator of our fraction are both perfect cubes, suggesting that we can use a sum of cubes factorization. Thus we have  \\begin{align*}\n\\frac{8x^3+27y^3}{2x+3y} & = \\frac{(2x)^3+(3y)^3}{2x+3y} \\\\\n& = \\frac{(2x+3y)((2x)^2-(2x)(3y)+(3y)^2)}{2x+3y} \\\\\n& = (2x)^2-(2x)(3y)+(3y)^2 \\\\\n& = 4x^2 - 6xy + 9y^2.\n\\end{align*}  Thus, $a=4$, $b=-6$, and $c=9$, so $a+b+c=4+(-6)+9=\\boxed{7}$.",
+        "level": "Level 2",
+        "type": "Intermediate Algebra",
+        "procedural-hint": [
+            "Recognize the terms in the numerator as perfect cubes.",
+            "Use the sum of cubes factorization to factor the numerator.",
+            "Simplify the fraction by canceling out the common factors from the numerator and the denominator.",
+            "Combine like terms to obtain the quadratic form $ax^2 + bxy + cy^2$.",
+            "Compute the sum of the coefficients a, b, and c."
+        ],
+        "factual-hint": [
+            "Sum of cubes formula: $a^3 + b^3 = (a + b)(a^2 - ab + b^2)$",
+            "$frac{8x^3+27y^3}{2x+3y}$ can be represented as \\frac{(2x)^3+(3y)^3}{2x+3y}$",
+            "$\\frac{(2x)^3+(3y)^3}{2x+3y} = \\frac{(2x+3y)((2x)^2-(2x)(3y)+(3y)^2)}{2x+3y}$",
+            "$\\frac{(2x+3y)((2x)^2-(2x)(3y)+(3y)^2)}{2x+3y} = (2x)^2-(2x)(3y)+(3y)^2$",
+            "$(2x)^2-(2x)(3y)+(3y)^2 = 4x^2 - 6xy + 9y^2$",
+            "$4-6+9=7$"
+        ],
+        "noisy-factual-hint": [],
+        "reasoning": "Recognize the terms in the numerator as perfect cubes.\nUse the sum of cubes factorization to factor the numerator. Sum of cubes formula: $a^3 + b^3 = (a + b)(a^2 - ab + b^2)$\nSimplify the fraction by canceling out the common factors from the numerator and the denominator. $frac{8x^3+27y^3}{2x+3y}$ can be represented as \\frac{(2x)^3+(3y)^3}{2x+3y}$, $\\frac{(2x)^3+(3y)^3}{2x+3y} = \\frac{(2x+3y)((2x)^2-(2x)(3y)+(3y)^2)}{2x+3y}$, $\\frac{(2x+3y)((2x)^2-(2x)(3y)+(3y)^2)}{2x+3y} = (2x)^2-(2x)(3y)+(3y)^2$ \nCombine like terms to obtain the quadratic form $ax^2 + bxy + cy^2$. $(2x)^2-(2x)(3y)+(3y)^2 = 4x^2 - 6xy + 9y^2$ \nCompute the sum of the coefficients a, b, and c. $4-6+9=7$\n Therefore, the answer is 7.",
+        "local-1": [
+            "The prime numbers less than 100 ending in 3 include 3, 13, 23, 43, 53, 73, and 83.",
+            "The only root of the equation is x=11.",
+            "The combination formula is: $\\dbinom{n}{k} = \\dfrac{n!}{k!(n-k)!}$",
+            "The distance between two points $(x_1, y_1)$ and $(x_2, y_2)$ in a plane can be found using the distance formula $\\sqrt{(x_1 - x_2)^2 + (y_1 - y_2)^2}$",
+            "182+21-32+9 can be rearranged as 182+21+(-32)+9.",
+            "To solve for $x$, we can divide both sides of the equation by the coefficient of $x$, which is 6."
+        ],
+        "local-2": [
+            "The difference between two odd numbers is always even.",
+            "$a+b=160$,",
+            "The side of the square base is 3 cm and the height equals twice the perimeter of the base.",
+            "The Trivial Inequality states that for any real number \"a\", $a^2 \\ge 0$.",
+            "A four-digit palindrome must have the first digit same as the fourth and the second digit same as the third.",
+            "$v+18+25=v+24+w$ gives $w=19$",
+            "5 is a prime number.",
+            "There are 2 roots for the equation $x^2-9=0$, which are $x=3$ and $x=-3$",
+            "To determine if a $2$-digit number is prime, check if it has any prime divisors less than or equal to its square root.",
+            "The number of ways to arrange n objects with repetition of m, m1, m2... objects is: $\\dfrac{n!}{m1!m2!...}$",
+            "Substitution method can be used to compute these type of problems.",
+            "$\\pi r^2h = 45\\pi$. Given radius $r=3$, so we get $9\\pi h = 45\\pi$"
+        ],
+        "global-1": [
+            "$\frac{a^3 - 1}{a - 1} = 0$ is equal with $(a - 1)(a^2 + a + 1) = 0$",
+            "High inertia in instruments leads to slower response times to changes, thus being unsuitable for dynamic measurements.",
+            "The maximum value of the z-component of the spin angular momentum is when 'm' equals +I.",
+            "5 - 2.25 = 2.75",
+            "Lewinsohn's model doesn't primarily link depression to perfectionism, accidental external reinforcements or physical and psychological stress per se.",
+            "5 * 5 = 25"
+        ],
+        "global-2": [
+            "Miranda warnings inform suspects of their right to remain silent and to have an attorney present during questioning.",
+            "An odd number times 5 always ends in 5.",
+            "If a catheter is bypassing, it means there is leakage of urine around the catheter. A bladder washout may not be the primary solution for this.",
+            "The YF virus is not known to have mutants or species.",
+            "Plant species diversity does not directly affect the rate of photosynthesis and hence, net primary productivity.",
+            "The act of sex is a biological process for reproduction.",
+            "Sound can be absorbed by some materials.",
+            "The size of molecules doesn't directly affect the speed of sound.",
+            "The metabolic pathways of the human body involve a complex interplay between carbohydrates, fatty acids, and amino acids.",
+            "The Declaration of Independence was adopted by the Continental Congress on July 4, 1776.",
+            "4 + 4 = 8",
+            "The formula for gravitational acceleration is g = GM/r^2, where G is the gravitational constant, M is the mass of the Earth, and r is the distance from the center of the Earth."
+        ]
+    },
+    {
+        "question": "If \\begin{align*}\n5x-2y&=7,\\\\\n3x+y&=2,\n\\end{align*}compute $24x-14y$.",
+        "answer": "38",
+        "reference": "Note that $6(5x-2y)-2(3x+y)=24x-14y$.  Thus, $24x-14y=6(7)-2(2)=\\boxed{38}$.",
+        "level": "Level 2",
+        "type": "Algebra",
+        "procedural-hint": [
+            "Identify a combination of the two given equations that will result in the coefficient for $x$ being 24 and for $y$ being -14.",
+            "Multiply the respective equations by the identified multipliers.",
+            "Sum the multiplied equations to get the result for $24x-14y$."
+        ],
+        "factual-hint": [
+            "$6(5x-2y) - 2(3x+y) = 24x-14y$",
+            "$6*7-2*2 = 38$"
+        ],
+        "noisy-factual-hint": [],
+        "reasoning": "Identify a combination of the two given equations that will result in the coefficient for $x$ being 24 and for $y$ being -14. $6(5x-2y) - 2(3x+y) = 24x-14y$ \nMultiply the respective equations by the identified multipliers. Sum the multiplied equations to get the result for $24x-14y$. $6*7-2*2 = 38$ \nTherefore, the answer is 38.",
+        "local-1": [
+            "The operator $\\&$ between two numbers, say A and B, gives the average of those two numbers.",
+            "Arithmetic series sum: S = n/2(a+l), where n is number of terms, a is the first term, and l is the last term."
+        ],
+        "local-2": [
+            "$(500 - 400) + (7-5) = (90 - 60) + N$ becomes $102 = 30 + N$",
+            "$(a+b)-(b+c)=160-180 => a-c=-20$",
+            "Combination equation $C(n, k) = \\frac{n!}{k!(n-k)!}$",
+            "$\\binom{10}{8}$ equals 45."
+        ],
+        "global-1": [
+            "The number 28 can be divided evenly by 4.",
+            "The earth's axis of rotation is tilted in relation to its orbital plane."
+        ],
+        "global-2": [
+            "The least common multiple (LCM) of 3, 4, and 5 is 60.",
+            "Costa Rica is a country in Central America.",
+            "\"Jure gestionis\" is a Latin term used in international law.",
+            "Wind direction does not influence the direction a compass needle points."
+        ]
+    }
+]

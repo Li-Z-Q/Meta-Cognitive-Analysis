@@ -1,0 +1,37 @@
+[
+    {
+        "question": "What number must be placed in the box in the equation below to produce an equation that has more than one solution: \\[4x + 6 + 7x - 9 = 12x - 7 - x + \\boxed{\\phantom{2}}?\\]",
+        "answer": "4",
+        "reference": "Simplifying both sides gives \\[11x - 3 = 11x - 7 + \\boxed{\\phantom{2}}.\\] Subtracting $11x$ from both sides gives \\[-3 = -7 + \\boxed{\\phantom{2}}.\\] If the number in the box is anything but 4, then the equation cannot be true, and the original equation has no solutions.  If the number in the box is $\\boxed{4}$, then the two sides of the original equation are equivalent, and all values of $x$ are solutions to the equation.",
+        "level": "Level 3",
+        "type": "Prealgebra"
+    },
+    {
+        "question": "What is the least, positive four-digit multiple of 7?",
+        "answer": "1001",
+        "reference": "Dividing 1000 by 7 gives a quotient of 142 and a remainder of 6. From this calculation we can see that $142\\cdot 7$ is the largest three-digit multiple of 7. Therefore, $143\\cdot 7=\\boxed{1001}$ is the least positive four-digit multiple of 7.",
+        "level": "Level 2",
+        "type": "Prealgebra"
+    },
+    {
+        "question": "One computer in a lab is programmed to back up data at the turn of the minute every five minutes. Another computer is programmed to back up data at the turn of the minute every two minutes. Find the number of times in twenty-four hours that the two computers back up data at the same time.\n\n(Assume that the computers do not back up at the start of the 24-hour period.)",
+        "answer": "144",
+        "reference": "First, we find the least common multiple of $5$ and $2$ so as to determine the intervals at which the computers back up together. Both $5$ and $2$ are prime, so the least common multiple is $10$. In one hour, there are $60/10=6$ ten minute intervals, so in $24$ hours, there are $6 \\cdot 24 = 144$ ten-minute intervals. Thus, the computers back up data at the same time $\\boxed{144}$ times.",
+        "level": "Level 3",
+        "type": "Prealgebra"
+    },
+    {
+        "question": "Cheldelin Middle School has 12 doors to enter or leave the building. In how many ways is it possible to enter the building by one door and leave the building by a different door?",
+        "answer": "132",
+        "reference": "You can enter the building through one of 12 different doors. Since only that door is eliminated from the doors for you to exit, there are 11 choices for the exit door. So the total number of ordered pairs of enter, exit doors is $12 \\cdot 11 = \\boxed{132}$.",
+        "level": "Level 3",
+        "type": "Prealgebra"
+    },
+    {
+        "question": "What is the greatest common factor of 180 and 450?",
+        "answer": "90",
+        "reference": "$180=2^2\\cdot3^2\\cdot5$ and $450=2\\cdot3^2\\cdot5^2$, so their GCF is $2\\cdot3^2\\cdot5=\\boxed{90}$.",
+        "level": "Level 3",
+        "type": "Prealgebra"
+    }
+]

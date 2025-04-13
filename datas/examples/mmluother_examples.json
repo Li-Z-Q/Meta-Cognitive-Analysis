@@ -1,0 +1,273 @@
+[
+    {
+        "question": "Who wrote musicals with Oscar Hammerstein II? Choose from: A. Richard Rodgers, B. Rogers Hornsby, C. Gilbert O' Sullivan, D. George Rogers Clark",
+        "answer": "A. Richard Rodgers",
+        "subject": "miscellaneous",
+        "procedural-hint": [
+            "Begin by identifying the question's focus, which is finding out who collaborated with Oscar Hammerstein II to write musicals.",
+            "Consider each of the provided options and evaluate if the person mentioned was known for writing musicals with Oscar Hammerstein II."
+        ],
+        "factual-hint": [
+            "Oscar Hammerstein II was a prominent lyricist and librettist in American theater.",
+            "Richard Rodgers was a composer who collaborated with Oscar Hammerstein II on well-known musicals like \"Oklahoma!\" and \"The Sound of Music\".",
+            "Rogers Hornsby was a baseball player.",
+            "Gilbert O'Sullivan is a singer-songwriter who did not collaborate with Oscar Hammerstein II.",
+            "George Rogers Clark was a soldier from the American Revolutionary War."
+        ],
+        "noisy-factual-hint": [],
+        "reasoning": "Begin by identifying the question's focus, which is finding out who collaborated with Oscar Hammerstein II to write musicals. Oscar Hammerstein II was a prominent lyricist and librettist in American theater.\nConsider each of the provided options and evaluate if the person mentioned was known for writing musicals with Oscar Hammerstein II. Richard Rodgers was a composer who collaborated with Oscar Hammerstein II on well-known musicals like \"Oklahoma!\" and \"The Sound of Music\". Rogers Hornsby was a baseball player. Gilbert O'Sullivan is a singer-songwriter who did not collaborate with Oscar Hammerstein II. George Rogers Clark was a soldier from the American Revolutionary War.\nTherefore, the answer is A. Richard Rodgers.",
+        "local-1": [
+            "Stride length can influence running speed, but its importance varies based on the runner's personal running style and efficiency.",
+            "A fiduciary is a person or organization that acts on behalf of another person or persons, putting their clients' interests ahead of their own.",
+            "The external marketing environment includes elements outside of a company’s control, such as political, economic, social, technological, legal, and environmental factors.",
+            "Distillation is a process used to separate components in a mixture based on differences in their boiling points.",
+            "Riboflavin is vital for energy production and also acts as an antioxidant."
+        ],
+        "local-2": [
+            "Argentina has been known to harbor several ex-Nazis after World War II.",
+            "The \"human side of the equation\" could also be a part of human factors, but might not encompass the interaction with the environment.",
+            "The loop of Henle is part of the nephron, which is the structural and functional unit of the kidney.",
+            "Vitamin B6 is crucial for brain development and function.",
+            "Old-fashioned steam engines were powered by coal, using the heat from its combustion to generate steam, which then powered the engine.",
+            "In America, summer months, particularly August, sees a high number of weddings due to favorable weather conditions.",
+            "New product concepts and improvements pertain to the development of new products or improvement of existing ones.",
+            "Non-exercise activity thermogenesis (NEAT) refers to the energy expended for everything we do that is not sleeping, eating, or sports-like exercise. It includes daily activities such as walking to work, typing, performing yard work, undertaking agricultural tasks and fidgeting.",
+            "Relationship dynamics studies suggest that friendship is a key dimension of successful long-term relationships.",
+            "Helen Hunt is a renowned actress known for roles in other productions like 'Mad About You', but not Star Trek."
+        ],
+        "global-1": [
+            "Grocery stores sell food products, some of which contain crops like corn and sugarcane.",
+            "Fossil fuels include coal, oil, and natural gas.",
+            "Ice melts when it comes into contact with heat.",
+            "Cortisol is a stress hormone that regulates a wide range of processes throughout the body, including metabolism.",
+            "A trapeze is a short horizontal bar suspended by ropes or metal straps from a support- used in acrobatics or gymnastics."
+        ],
+        "global-2": [
+            "A store is a place where goods are sold.",
+            "12 - 8 = 4",
+            "Continued investigation often results in further scientific discoveries.",
+            "200 + 700 = 900",
+            "Being shorter impacts a person's ability to reach or climb onto certain objects.",
+            "Some animals hibernate, but not all do.",
+            "Picking up a knife to harm someone is morally wrong, however, in a medical context, it is important for the operation and thus not morally wrong.",
+            "The reciprocal of a negative number is the negation of the reciprocal: $\\frac{1}{-x} = -\\frac{1}{x}$.",
+            "A light year does not measure time, it measures distance.",
+            "Gandhi was a political ethicist who led India to independence."
+        ]
+    },
+    {
+        "question": " There are three main types of buying situations in an organization, referred to by Robinson, Faris, and Wind (1967) as _____________. Choose from: A. Repeat purchases., B. Buyphases., C. Buyclasses., D. Tenders.",
+        "answer": "C. Buyclasses.",
+        "subject": "marketing",
+        "procedural-hint": [
+            "Identify the main subject of the question which is the types of buying situations.",
+            "Recall or review knowledge related to buying situations, especially as identified by Robinson, Faris, and Wind.",
+            "Choose the term from the given options that correctly completes the sentence."
+        ],
+        "factual-hint": [
+            "Robinson, Faris, and Wind in 1967 introduced a concept relating to organizational buying behavior.",
+            "Robinson, Faris, and Wind's terminology specifically referred to different buying situations as \"Buyclasses\".",
+            "Robinson, Faris, and Wind's terminology was proposed to help categorize the type of purchase decision an organization might be facing."
+        ],
+        "noisy-factual-hint": [],
+        "reasoning": "Identify the main subject of the question which is the types of buying situations. Robinson, Faris, and Wind in 1967 introduced a concept relating to organizational buying behavior. \nRecall or review knowledge related to buying situations, especially as identified by Robinson, Faris, and Wind. Robinson, Faris, and Wind's terminology specifically referred to different buying situations as \"Buyclasses\". Robinson, Faris, and Wind's terminology was proposed to help categorize the type of purchase decision an organization might be facing.\nChoose the term from the given options that correctly completes the sentence.\nTherefore, the answer is C. Buyclasses.",
+        "local-1": [
+            "This passage depicts the transition of workers, the 'sitters', from their workday into the evening.",
+            "Chromosomes contain the genetic material, DNA, that is responsible for the development and functioning of all living organisms.",
+            "Studying lists of high-frequency words is considered a sight word approach, not traditional phonics instruction."
+        ],
+        "local-2": [
+            "A decrease in pH (becoming more acidic), not an increase, is associated with exercise and can affect many bodily processes.",
+            "Geographical pricing refers to variations in price based on geographical location.",
+            "The anthrax vaccine was also developed by Louis Pasteur.",
+            "Micromarketing is a type of marketing strategy in which advertising efforts are focused on a small group of highly-targeted customers.",
+            "The Garnet is the birthstone for January. ",
+            "Meningococcal vaccines are not effective in curtailing an ongoing outbreak or preventing disease in those already exposed."
+        ],
+        "global-1": [
+            "Jogging is a form of running at a slow or leisurely pace.",
+            "A triangle is a shape with three sides.",
+            "The shape of a material changes with manipulation."
+        ],
+        "global-2": [
+            "Stamina, or endurance, is paramount in marathon running because it allows runners to maintain a steady pace over a long distance.",
+            "If $x+y=25$ and $x-y=9$, then $2x=34$.",
+            "The behavioural dimension relates to physical activities and interactions that a customer performs with a brand.",
+            "In source 2 he condemns the Spaniards for their ruthless behavior and destructive methods, attributing their actions to their desire for wealth and status.",
+            "Ashford's article is concerned with the ethics of global justice.",
+            "Jogging is a form of running at a slow or leisurely pace."
+        ]
+    },
+    {
+        "question": "A 72-year-old woman with advanced ovarian cancer metastatic to the liver is brought to the physician by her son because she cries all the time and will not get out of bed. On a 10-point scale, she rates the pain as a 1 to 2. She also has hypertension and major depressive disorder. She has received chemotherapy for 2 years. Current medications also include oxycodone (10 mg twice daily), hydrochlorothiazide (25 mg/d), and fluoxetine (20 mg/d). She is 165 cm (5 ft 5 in) tall and weighs 66 kg (145 lb); BMI is 24 kg/m2 . Her temperature is 37°C (98.6°F), pulse is 110/min, respirations are 12/min, and blood pressure is 120/80 mm Hg. Examination shows a firm, distended abdomen with moderate tenderness over the liver. On mental status examination, she is oriented to person, place, and time. She has good eye contact but appears sad and cries easily. Which of the following is the most appropriate next step in management? Choose from: A. Reassurance, B. Assess for suicidal ideation, C. Begin dextroamphetamine therapy, D. Increase oxycodone dosage",
+        "answer": "B. Assess for suicidal ideation",
+        "subject": "professional_medicine",
+        "procedural-hint": [
+            "Start by understanding the patient's symptoms and her medical history.",
+            "Take into account the patient's emotional state as well as her physical symptoms.",
+            "Consider the potential risks and benefits of each management option.",
+            "Match the most appropriate management option to the patient's presentation."
+        ],
+        "factual-hint": [
+            "Major depressive disorder (MDD) is a mental health disorder characterized by a persistent sad mood and lack of interest or pleasure in previously enjoyable activities, which can lead to suicidal ideation.",
+            "Oxycodone is an opioid analgesic used for pain management.",
+            "Fluoxetine is an antidepressant commonly prescribed for major depressive disorder.",
+            "It's crucial for physicians to assess for suicidal ideation in patients with depressive symptoms as early detection can prevent potential harm.",
+            "Dextroamphetamine is a stimulant and is not primarily used for treating depression or pain."
+        ],
+        "noisy-factual-hint": [],
+        "reasoning": "Start by understanding the patient's symptoms and her medical history. Take into account the patient's emotional state as well as her physical symptoms. Major depressive disorder (MDD) is a mental health disorder characterized by a persistent sad mood and lack of interest or pleasure in previously enjoyable activities, which can lead to suicidal ideation. \nConsider the potential risks and benefits of each management option. Oxycodone is an opioid analgesic used for pain management. Fluoxetine is an antidepressant commonly prescribed for major depressive disorder. It's crucial for physicians to assess for suicidal ideation in patients with depressive symptoms as early detection can prevent potential harm. Dextroamphetamine is a stimulant and is not primarily used for treating depression or pain. \nMatch the most appropriate management option to the patient's presentation.\nTherefore, the answer is B. Assess for suicidal ideation.",
+        "local-1": [
+            "Intra-arterial tissue plasminogen activator (tPA) therapy is a treatment for stroke.",
+            "The patient is suffering from osteoporosis, as shown by the DEXA scan.",
+            "Spain, Australia and United States are also known for producing various types of wines but not specifically Bordeaux.",
+            "\"Morty\" is not a recognized nickname for any federal organization in the United States.",
+            "Globalisation has increased the need for a cohesive approach to business ethics, due to increased interdependence and interconnectedness of businesses worldwide. "
+        ],
+        "local-2": [
+            "Autosomal dominant and recessive inheritance relate to genes found on the autosomes (non-sex chromosomes).",
+            "An organizational structure isn't designed to limit workers' rights, rather it is to streamline operations and improve efficiency. Workers' rights are typically protected by labor laws and unions, not organizational structure.",
+            "Age range is too narrow a category to define micromarketing which typically focusses on specific behaviors or attitudes.",
+            "Distillation is a process used to separate components in a mixture based on differences in their boiling points.",
+            "Chromosomes contain the genetic material, DNA, that is responsible for the development and functioning of all living organisms.",
+            "While some theories are more accepted than others, none can explain senescence completely on its own, indicating the need for a multifaceted approach.",
+            "Infants and children require a higher protein intake to support growth but it doesn't necessarily mean they need the most protein-dense food.",
+            "EWS is not exclusively used for patients over 60, in the Emergency Department, or those who have been in Intensive Care/High Dependency unit.",
+            "A group brought together to deliver training programs may not necessarily be a T-group.",
+            "Muttley is a fictional character known for his appearances in the Hanna-Barbera series Wacky Races and its spinoff, but not for being an enemy of Underdog."
+        ],
+        "global-1": [
+            "$a^3*a^2 = a^{3+2} = a^5$",
+            "13 + 7 = 20",
+            "Germany is known for its rich history and diverse culture.",
+            "Wind direction does not influence the direction a compass needle points.",
+            "A thermometer is a tool used to measure temperature."
+        ],
+        "global-2": [
+            "The tangent line is perpendicular to the radius at a point of tangency, forming a right triangle.",
+            "The volume of a right circular cylinder is $\\pi r^2 h$.",
+            "Objects of different weights fall at the same rate on the Moon.",
+            "The number of ways to arrange the 3 steps can be determined using the binomial coefficient $\\binom{3}{1}$, which evaluates to 3.",
+            "There are 8 factors of 4000 that are multiples of 100.",
+            "The arithmetic mean of an arithmetic progression, $2 \\log_{12} b = \\log_{12} a + \\log_{12}  c$, equates to the geometric mean of a geometric progression, $\\log_{12}  b^2 = \\log_{12}  ac$.",
+            "China is the most populous country worldwide.",
+            "420 / 7 = 60",
+            "The value of $\\tan 45^\\circ$ is 1.",
+            "Birth is the act or process of bearing or bringing forth offspring."
+        ]
+    },
+    {
+        "question": "Which of the following activities is not an element of a CPA firm's quality control system to be considered in establishing quality control policies and procedures? Choose from: A. Deciding whether to accept or continue a client relationship., B. Selecting personnel for advancement who have the necessary qualifications., C. Assessing a client's ability to establish effective internal controls., D. Monitoring the effectiveness of professional development activities.",
+        "answer": "C. Assessing a client's ability to establish effective internal controls.",
+        "subject": "professional_accounting",
+        "procedural-hint": [
+            "Start by understanding the main objective of the question, which is to determine which activity is not an element of a CPA firm's quality control system.",
+            "Review each option and consider if it relates directly to a CPA firm's internal quality control policies and procedures.",
+            "Eliminate options that clearly are components of a quality control system and identify the one that stands out as unrelated."
+        ],
+        "factual-hint": [
+            "Quality control policies and procedures in a CPA firm aim at ensuring the quality of audit and assurance services provided.",
+            "Deciding on client relationships is a key aspect of a firm's risk management and quality control.",
+            "Promotion of personnel based on qualifications ensures the firm's competence in delivering services.",
+            "Monitoring the effectiveness of professional development ensures that professionals are equipped with the latest skills and knowledge.",
+            "Assessing a client's ability to establish internal controls is part of audit risk assessment, not directly a quality control policy for the CPA firm itself."
+        ],
+        "noisy-factual-hint": [],
+        "reasoning": "Start by understanding the main objective of the question, which is to determine which activity is not an element of a CPA firm's quality control system. Quality control policies and procedures in a CPA firm aim at ensuring the quality of audit and assurance services provided.\nReview each option and consider if it relates directly to a CPA firm's internal quality control policies and procedures. Deciding on client relationships is a key aspect of a firm's risk management and quality control. Promotion of personnel based on qualifications ensures the firm's competence in delivering services. Monitoring the effectiveness of professional development ensures that professionals are equipped with the latest skills and knowledge. Assessing a client's ability to establish internal controls is part of audit risk assessment, not directly a quality control policy for the CPA firm itself.\nEliminate options that clearly are components of a quality control system and identify the one that stands out as unrelated.\nTherefore, the answer is C. Assessing a client's ability to establish effective internal controls.",
+        "local-1": [
+            "Freddie Mac is the Federal Home Loan Mortgage Corporation, not the Federal National Mortgage Association.",
+            "In the sport of bowling, there are typically 10 pins set up in a triangle formation.",
+            "Direct and quick evidence is often hard to gather when investigating aging processes due to their long-term nature.",
+            "The weighted-average cost of capital (WACC) takes into consideration the relative weights of each component of the capital structure and presents the expected average future costs of these sources.",
+            "Topaz is a birthstone for November."
+        ],
+        "local-2": [
+            "An audit committee's approval of accounting principles does not typically increase the risk of fraudulent financial reporting.",
+            "Serum albumin concentration can be affected by multiple factors and is not a reliable sole indicator of nutritional status.",
+            "Studying lists of high-frequency words is considered a sight word approach, not traditional phonics instruction.",
+            "Most grandparents take pride in their role and would not demand being waited on as this generally goes against their nurturing nature.",
+            "The CEO is the highest-ranking executive in a company.",
+            "Urbanisation usually leads to a shift from agriculture to other sectors, leading to changes in food availability and consumption.",
+            "Physical activity (non-resting) energy expenditure refers to the amount of calories burned from physical activity, not including resting energy expenditure.",
+            "The Earth's moon is the fifth largest moon in the Solar System.",
+            "In such exchanges, the basis of the property given up is generally the starting point in determining the basis of the property received. In this case, the basis is increased by any gain recognized or additional money or mortgage Vinton paid, and decreased by any money or relief of debt he received in the trade.",
+            "Research suggests that memories are not always accurate reproductions of events, but are shaped by personal interpretation and after-the-fact information."
+        ],
+        "global-1": [
+            "A lie is a statement used intentionally for the purpose of deception.",
+            "The testimonies cited in the text reveal the inhumane treatment of blacks, which was a social issue and not directly related to the problems identified in Federalist #15.",
+            "Photosynthesis, the process by which plants make food, occurs mainly in the leaves.",
+            "Vitamin D helps the body absorb calcium and phosphorous, which are needed for good bone health.",
+            "Highly viscous lava is usually associated with explosive eruptions."
+        ],
+        "global-2": [
+            "Exposed layers of ground are important for a pedestrian survey because they may reveal surface features, artifacts, ecofacts, and bones that provide evidence about past human activity.",
+            "8 * 30 = 240",
+            "The summoning of demons or invoking of elements is a belief associated with the pentagram in certain pagan or occult practices.",
+            "Additive inverse: For every $a$ there exists $-a$ such that $a + (-a) = 0$ or $-a + a =0$. ",
+            "Prophase is a stage of meiosis where the chromosomes condense and the nuclear envelope breaks down.",
+            "Bright sunshine refers to bright and clear sunlight.",
+            "Water, especially when it’s not pure, can conduct electricity to a certain degree.",
+            "A moral criterion of adequacy is a standard to examine ethical theories.",
+            "A bar graph is used to compare data across categories.",
+            "Hydrogen is the lightest among the three gases mentioned."
+        ]
+    },
+    {
+        "question": "Hydrogen ions are formed when: Choose from: A. glycogen becomes depleted., B. phosphocreatine breakdown occurs., C. pyruvate is converted to lactate., D. glycolysis is being used as a major means of resynthesising ATP.",
+        "answer": "D. glycolysis is being used as a major means of resynthesising ATP.",
+        "subject": "college_medicine",
+        "procedural-hint": [
+            "Start by understanding the process that leads to the formation of hydrogen ions.",
+            "Review each option and determine its connection to the formation of hydrogen ions within the context of metabolic pathways.",
+            "Choose the most accurate option that links directly to the generation of hydrogen ions."
+        ],
+        "factual-hint": [
+            "Hydrogen ions play a key role in various metabolic pathways.",
+            "Glycolysis is a metabolic pathway that breaks down glucose and plays a crucial role in ATP synthesis.",
+            "When glycolysis is utilized as a major pathway for ATP resynthesis, hydrogen ions are produced as a byproduct.",
+            "Pyruvate conversion to lactate also involves hydrogen ions but is not the direct cause of their formation.",
+            "Glycogen depletion and phosphocreatine breakdown do not directly lead to the formation of hydrogen ions."
+        ],
+        "noisy-factual-hint": [],
+        "reasoning": "Start by understanding the process that leads to the formation of hydrogen ions. Hydrogen ions play a key role in various metabolic pathways.\nReview each option and determine its connection to the formation of hydrogen ions within the context of metabolic pathways. Glycolysis is a metabolic pathway that breaks down glucose and plays a crucial role in ATP synthesis. When glycolysis is utilized as a major pathway for ATP resynthesis, hydrogen ions are produced as a byproduct. Pyruvate conversion to lactate also involves hydrogen ions but is not the direct cause of their formation. Glycogen depletion and phosphocreatine breakdown do not directly lead to the formation of hydrogen ions.\nChoose the most accurate option that links directly to the generation of hydrogen ions.\nTherefore, the answer is D. glycolysis is being used as a major means of resynthesising ATP.",
+        "local-1": [
+            "This clinical scenario is indicative of a Bartholin duct cyst or abscess, which is commonly seen in sexually active women and presents with a tender labial mass.",
+            "The descending limb of the loop of Henle is permeable to water (H2O) while the ascending limb is impermeable to it.",
+            "Metronidazole and penicillin are types of antibiotics and might not be the first line of treatment in this case.",
+            "The YF virus is not known to have mutants or species.",
+            "If a partner assumes a responsibility for a partnership’s liability or pays off a partnership debt, that partner’s capital account and basis increase."
+        ],
+        "local-2": [
+            "Adam Smith wrote \"The Wealth of Nations\", advocating economic liberalism and free markets, and is known as the \"father of economics.\"",
+            "January and November are typically low wedding season months due to cold weather in most parts of the country.",
+            "Acetaminophen is a common pain reliever that doesn't run a risk of addiction.",
+            "Melting is the process of changing a substance from a solid to a liquid via the application of heat.",
+            "Dick Dastardly is a cartoon character known from the television show Wacky Races, not as an enemy of Underdog.",
+            "Natural disasters can cause severe stress and displacement, affecting physical and mental health in ways that can also be passed on to offspring.",
+            "Endoscopic esophagogastroscopy is a minimally invasive procedure that allows medical professionals to visualize and remove foreign bodies from the upper digestive tract.",
+            "The initial basis of a partnership interest is the money plus the adjusted basis of any property contributed to the partnership.",
+            "The cost of debt is the effective interest rate a company pays on its debts. It is adjusted for the tax shield because interest expense is tax-deductible.",
+            "Adrenaline 1 in 1000 is a drug concentration expressing one gram of a substance in 1000 milliliters of solution, which is equivalent to 1 milligram per milliliter (1 mg/mL)."
+        ],
+        "global-1": [
+            "8 + 24 = 32",
+            "$\\frac{3^{100} + 2^{100}}{3^{96} + 2^{96}}$ can be written as $\\frac{81a + 16b}{a + b}$",
+            "The side length of a regular octagon with a perimeter of 96 cm is 12 cm.",
+            "$\\binom{5}{4}$ equals 5.",
+            "Extinction is when an entire species ceases to exist."
+        ],
+        "global-2": [
+            "A home is a place where a person lives.",
+            "50 + 1440 = 1490",
+            "The sum of the coordinates of point D is $2+0 = 2$.",
+            "In the context of securitization, extraordinary measures refer to actions that go beyond what is considered part of everyday political activities.",
+            "$\\cot 90^\\circ = \\frac{\\cos 90^\\circ}{\\sin 90^\\circ}$",
+            "The number 17 is a prime number, and the sum of its digits is 8.",
+            "Plants store energy in the form of starch.",
+            "Texas A&M is a large public university in College Station, Texas.",
+            "Returning broken items with the intent to deceive is generally seen as unethical or wrong, as it implies dishonesty.",
+            "An intellectual challenge is a task that requires thought and skill."
+        ]
+    }
+]

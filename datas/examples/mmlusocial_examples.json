@@ -1,0 +1,258 @@
+[
+    {
+        "question": "The term 'over-urbanization' means that: Choose from: A. life in modern Western cities is so far removed from that of the Third World that we find it difficult to understand these societies, B. in poorer countries, the rapidly developing cities drain resources from the rural areas, C. the extent to which urbanization affects development has been exaggerated, D. governments are so preoccupied with urbanization in the West that they forget to attend to problems in the Third World",
+        "answer": "B. in poorer countries, the rapidly developing cities drain resources from the rural areas",
+        "subject": "sociology",
+        "procedural-hint": [
+            "Understand what the term 'over-urbanization' implies.",
+            "Look at each option and decide if it accurately describes the concept of over-urbanization.",
+            "Pick the choice that best matches the definition of over-urbanization based on your understanding."
+        ],
+        "factual-hint": [
+            "'Over-urbanization' is a term often used in the context of rapidly growing cities in developing or less affluent countries.",
+            "'Over-urbanization' implies that the growth and development of urban areas are at a rate that exceeds their capacity and sustainability.",
+            "The rapid growth of urban areas in less affluent countries often leads to resource drain from rural areas.",
+            "Modern Western cities and their lifestyles do not directly relate to the concept of 'over-urbanization'.",
+            "The connection between urbanization and development in general or the attention of governments to urbanization are not primary factors defining 'over-urbanization'."
+        ],
+        "noisy-factual-hint": [],
+        "reasoning": "Understand what the term 'over-urbanization' implies. 'Over-urbanization' is a term often used in the context of rapidly growing cities in developing or less affluent countries.\n Look at each option and decide if it accurately describes the concept of over-urbanization. 'Over-urbanization' implies that the growth and development of urban areas are at a rate that exceeds their capacity and sustainability. The rapid growth of urban areas in less affluent countries often leads to resource drain from rural areas. Modern Western cities and their lifestyles do not directly relate to the concept of 'over-urbanization'. The connection between urbanization and development in general or the attention of governments to urbanization are not primary factors defining 'over-urbanization'.\nTherefore, the answer is B. in poorer countries, the rapidly developing cities drain resources from the rural areas.",
+        "local-1": [
+            "The Internet is generally considered a tool that accelerates and facilitates the diffusion of innovations.",
+            "The James-Lange theory suggests that physiological arousal precedes the experience of an emotion and the thalamic theory, largely discounted now, proposes that sensory information passes through the thalamus before being interpreted as an emotion.",
+            "Not all peace studies perspectives suggest that technologies will only lead to harmony or just reinforce the power of already dominant players.",
+            "The 'managerial revolution' debate refers to the idea that control over modern economies is shifting from owners to professional managers.",
+            "Catharsis pertains to the release of emotional tension, often through art or drama."
+        ],
+        "local-2": [
+            "In this case, the \"reward\" for the infant's crying could be considered the attention it receives from its parents.",
+            "Realism emphasizes the spread of power among states and views states as the main actors in the international system.",
+            "All components of a VAR do not necessarily need to be stationary before it can be used for forecasting.",
+            "This type of design is often used when researchers want to assess patterns of change and the effects of age over time.",
+            "Lewinsohn's model of depression focuses primarily on the role of reinforcement from the environment.",
+            "News aggregators generally compile multiple stories on a single news event based on reports from different sources.",
+            "Rapid time-to-market pressures can potentially compromise the inclusion of robust security systems during product development.",
+            "The electoral college is the group of people that officially elect the president in the U.S.",
+            "A person with genital herpes can be contagious even when no symptoms are present, like outbreaks or sores.",
+            "An investor's choice between an equity fund, a bond fund or a cash investment presents a scenario with more than two discrete outcomes."
+        ],
+        "global-1": [
+            "5 * 5 = 25",
+            "5 * 5 = 25",
+            "The hunting behaviour by a tiger is a learned behavior.",
+            "All of these factors individually and collectively can pose challenges for the establishment and enhancement of IT security in a commerce and marketing environment.",
+            "\"The Cowards die many times before their deaths\" is a quote from Shakespeare's play Julius Caesar."
+        ],
+        "global-2": [
+            "9 + 20 + 5 = 34",
+            "\"Winnie-the-Pooh\" was written by A. A. Milne.",
+            "Bolivar equates practicing justice to practicing liberty.",
+            "The EPS is a financial ratio that shows the profitability of a company on per share basis.",
+            "The prime numbers less than 100 ending in 3 include 3, 13, 23, 43, 53, 73, and 83.",
+            "A prime number is a number greater than 1 that has no divisors other than 1 and itself.",
+            "Farting is a natural process meant to release gas from the digestive system.",
+            "\\end{align*}",
+            "Community planners are typically concerned with the overall wellbeing and development of a community, which includes environmental aspects.",
+            "12 - 2 = 10"
+        ]
+    },
+    {
+        "question": "A person with Wernicke's aphasia has impaired language comprehension and: Choose from: A. nonfluent and unintelligible speech., B. nonfluent but intelligible speech., C. fluent but unintelligible speech., D. fluent and intelligible speech.",
+        "answer": "C. fluent but unintelligible speech.",
+        "subject": "professional_psychology",
+        "procedural-hint": [
+            "First, be sure to understand the characteristics of Wernicke's aphasia and how it affects a person's speech and comprehension.",
+            "Next, evaluate each of the answer choices and determine which one best matches the characteristics of Wernicke's aphasia.",
+            "Choose the answer choice that most accurately describes the speech pattern of someone with Wernicke's aphasia."
+        ],
+        "factual-hint": [
+            "Wernicke's aphasia is a type of nonsensical speech aphasia or receptive aphasia caused by damage to Wernicke's area of the brain.",
+            "In Wernicke's aphasia, the speech output is fluent in terms of rate and prosody, but content may seem nonsensical or contain nonsense words."
+        ],
+        "noisy-factual-hint": [],
+        "reasoning": "First, be sure to understand the characteristics of Wernicke's aphasia and how it affects a person's speech and comprehension. Wernicke's aphasia is a type of nonsensical speech aphasia or receptive aphasia caused by damage to Wernicke's area of the brain. In Wernicke's aphasia, the speech output is fluent in terms of rate and prosody, but content may seem nonsensical or contain nonsense words.\n Next, evaluate each of the answer choices and determine which one best matches the characteristics of Wernicke's aphasia. Choose the answer choice that most accurately describes the speech pattern of someone with Wernicke's aphasia.\nTherefore the answer is C. fluent but unintelligible speech.",
+        "local-1": [
+            "Random assignment of participants to treatment groups is related to the process of experimental design rather than external validity.",
+            "Assessment centers are often used in business environments as a tool for evaluating an individual's potential for a particular role."
+        ],
+        "local-2": [
+            "Reliability and validity are important aspects to consider in the selection of assessments.",
+            "Endorphins have a similar effect to opiate drugs in reducing pain and causing feelings of pleasure or euphoria.",
+            "The structural stability in a regression model can be tested by splitting the sample and comparing the results of separate regressions on each subsample.",
+            "A multinomial logit model is used in econometrics for modelling situations where individuals can choose from more than two discrete alternatives. "
+        ],
+        "global-1": [
+            "A mixture is a material made up of two or more different substances which are physically combined.",
+            "Homeowner's dogs caused the pilot's injuries."
+        ],
+        "global-2": [
+            "A mathematical equation comparing size and mass of kernels may show the potential for popping but does not actually demonstrate popping.",
+            "Genetic mutations can cause unexpected traits to occur.",
+            "A strike in bowling is when the bowler knocks down all the pins in their first try.",
+            "Tidal energy is renewable."
+        ]
+    },
+    {
+        "question": "Who argued that if an organization did not affect a public then there was no need for a practitioner to consider that public in its communications? Choose from: A. Cutlip (2006), B. Leitch and Neilson (2001), C. Amaral and Phillips (2010), D. Grunig and Hunt (1984)",
+        "answer": "D. Grunig and Hunt (1984)",
+        "subject": "public_relations",
+        "procedural-hint": [
+            "Understanding the specific concept of public relations mentioned in the question.",
+            "Evaluate each of the options provided and determine who of them held this particular belief in terms of public relations practice."
+        ],
+        "factual-hint": [
+            "Cutlip's work focuses on the understanding and management of public relations.",
+            "Leitch and Neilson's research generally covers the area of organisational management and strategic management.",
+            "Amaral and Phillips primarily delve into the field of corporate communication and reputation management.",
+            "Grunig and Hunt highlighted that an organization should only consider a public in its communications if that public is in some way impacted by the organization's actions. "
+        ],
+        "noisy-factual-hint": [],
+        "reasoning": "Understanding the specific concept of public relations mentioned in the question. \nEvaluate each of the options provided and determine who of them held this particular belief in terms of public relations practice. Cutlip's work focuses on the understanding and management of public relations. Leitch and Neilson's research generally covers the area of organisational management and strategic management. Amaral and Phillips primarily delve into the field of corporate communication and reputation management. Grunig and Hunt highlighted that an organization should only consider a public in its communications if that public is in some way impacted by the organization's actions. \nTherefore, the answer is D. Grunig and Hunt (1984).",
+        "local-1": [
+            "Debtors with fixed interest rates benefit from inflation because they repay their loans with money that is less valuable.",
+            "Potential complications of a chlamydia infection during pregnancy include premature delivery, spontaneous abortion, and ectopic or tubal pregnancies.",
+            "Realist theorists and peace researchers had opposing viewpoints on the East-West divide during the Cold War.",
+            "Reliability and validity are important aspects to consider in the selection of assessments."
+        ],
+        "local-2": [
+            "Masters and Johnson, and Kaplan also contributed significantly to the field of sexual health, but they did not discover women's capacity for multiple orgasms.",
+            "To obtain the total unrestricted residual sum of squares for the entire sample, you sum the RSS of each individual subsample.",
+            "Variable interval (VI) reinforcement schedule provides reinforcement on an unpredictable time schedule.",
+            "The concept of 'performance' can be based on different aspects such as speed or accuracy, and may vary from one individual to another within the same gender group.",
+            "Unlike 'relative' poverty, 'absolute' poverty isn’t dependent on the norms and values of a culture.",
+            "Market power is necessary for price discrimination as the firm needs to be able to set and manipulate prices.",
+            "An autocracy is a system of government where one person or a group holds absolute power and control over the country.",
+            "External validity is a critical concept in research design which relates to if a study's results can be generalized to other situations and populations."
+        ],
+        "global-1": [
+            "Being active means to engage in physical activity or exertion.",
+            "$\\dbinom{10}{4} = \\dfrac{10!}{4!6!}=\\dfrac{10\\times 9\\times 8\\times 7}{4\\times 3\\times 2\\times 1}=210$",
+            "Restaurants are establishments where meals are prepared and served to customers.",
+            "A voltage clamping device restricts voltage to a fixed level."
+        ],
+        "global-2": [
+            "Standard ethical norms uphold respect for others' property and the safety and welfare of others, especially children.",
+            "The other options for risk range from 1 in 10 to 1 in 100 and 1 in 1000, which are not typically mentioned as the typical miscarriage risks associated with amniocentesis.",
+            "Proteins are also found in the cell nucleus, where they interact with DNA and play crucial roles in gene regulation.",
+            "Pleasing parents is an act meant to make parents happy.",
+            "The Free Exercise Clause is the part of the First Amendment that protects the right to practice one's religion without government interference.",
+            "The peripheral nervous system transmits signals between different body parts and the brain and spinal cord (the central nervous system), and while it may experience changes with age, these are not centrally responsible for the overall slowing that occurs with advanced age.",
+            "Heirlooms are valuable objects that have been given by older members of a family to younger members of the same family over many years.",
+            "When soil becomes saturated during rainfall, excess water begins to collect on the surface."
+        ]
+    },
+    {
+        "question": "Which of the following is a characteristic of perfect competition? Choose from: A. Firms produce a homogeneous product., B. Barriers to entry exist., C. Firms are price-setting profit maximizers., D. The government regulates the price so that deadweight loss is eliminated.",
+        "answer": "A. Firms produce a homogeneous product.",
+        "subject": "high_school_microeconomics",
+        "procedural-hint": [
+            "Start by identifying the key focus of this question, which is the characteristics of perfect competition in economics.",
+            "Assess each given option by comparing it to known characteristics of perfect competition.",
+            "Choose the option that aligns best with the accepted characteristics of perfect competition."
+        ],
+        "factual-hint": [
+            "Perfect competition is a market structure characterized by a large number of small firms, homogeneous products, and free entry and exit.",
+            "Homogeneous products mean that the products offered by different companies are identical or similar in all respects.",
+            "In perfect competition, firms are price-takers, not price setters, because of the identical nature of their products.",
+            "Barriers to entry are typically not present in perfect competition.",
+            "Government regulation to eliminate deadweight loss is not a characteristic of perfect competition."
+        ],
+        "noisy-factual-hint": [],
+        "reasoning": "Start by identifying the key focus of this question, which is the characteristics of perfect competition in economics. Perfect competition is a market structure characterized by a large number of small firms, homogeneous products, and free entry and exit.\nAssess each given option by comparing it to known characteristics of perfect competition. Homogeneous products mean that the products offered by different companies are identical or similar in all respects. In perfect competition, firms are price-takers, not price setters, because of the identical nature of their products. Barriers to entry are typically not present in perfect competition. Government regulation to eliminate deadweight loss is not a characteristic of perfect competition.\nChoose the option that aligns best with the accepted characteristics of perfect competition.\nTherefore, the answer is A. Firms produce a homogeneous product.",
+        "local-1": [
+            "'Crowding' refers to the perception that there are too many people in a certain space, which can cause stress.",
+            "Failure to reconstruct is typically associated with issues in the retrieval of memories, where some details may be omitted or wrong.",
+            "The rooting reflex in neonates is an automatic response to touch on their cheek; they turn their head in the direction of the touch.",
+            "Time effects models generally include a time-specific effect, which is not represented in the equation.",
+            "The concept of ethics in research is not simply divided into ethical or clearly unethical, it is a matter of considering participant's rights."
+        ],
+        "local-2": [
+            "Bantu migration, the growth of human populations since their first appearance, and city population sizes may not necessarily follow S-Curve growth patterns.",
+            "In the given scenario, choosing pleasure (going out with Jacques) over responsibility (studying for a test) represents the behaviour driven by the pleasure principle, which is associated with the id.",
+            "Marginal product of labor refers to the additional output resulting from employing an extra unit of labor, while holding other factors of production constant.",
+            "UNICEF is a United Nations agency responsible for providing humanitarian and developmental aid to children worldwide.",
+            "Adler's individual psychology posits that individuals' behaviors are motivated by their subjective perceptions of themselves and the world, and are goal-oriented.",
+            "In a cross-sequential design, researchers can analyze multiple age groups over multiple points in time.",
+            "In Adler's therapy, misbehavior in children is seen as a form of communication and is believed to have one of four goals: attention, power, revenge or to display inadequacy.",
+            "Google News is a news aggregator that compiles articles from various sources.",
+            "The breakeven point in economics is the point at which cost or expenses and revenue are equal, there's no net loss or gain which indicates long-run equilibrium.",
+            "'Statistical significance' implies strong evidence against the null hypothesis."
+        ],
+        "global-1": [
+            "Poverty is a state or condition in which a person or community lacks the financial resources for a minimum standard of living.",
+            "A quitclaim deed transfers ownership with no warranties or guarantees and can be done without the co-owner's consent or knowledge.",
+            "Farming areas are places where agriculture is a main activity.",
+            "Both prokaryotic and eukaryotic cells can reproduce.",
+            "An airport is a place where planes take off and land."
+        ],
+        "global-2": [
+            "Event D means there are at least 48 times head and 48 times tail appear in 100 toss.",
+            "A lie is a statement used intentionally for the purpose of deception.",
+            "Adam Smith wrote \"The Wealth of Nations\", advocating economic liberalism and free markets, and is known as the \"father of economics.\"",
+            "Ultraviolet-visible spectroscopy involves the transition of electrons from ground state to an excited state. It uses light in the visible, near-ultraviolet, and near-infrared ranges.",
+            "Water exists naturally in three states on Earth: solid (ice), liquid (water), gas (vapor).",
+            "0.5 * 4 = 2",
+            "A luggage compartment is a storage area for bags and suitcases on an aircraft.",
+            "Earth's revolution around the sun causes the change in seasons.",
+            "$f(x) - g(x)= a_4 x^4 + a_3 x^3 + (a_2 - b_2) x^2 + (a_1 - b_1) x + (a_0 - b_0)$",
+            "Capacitance in an electrical circuit is analogous to a spring in a mechanical system."
+        ]
+    },
+    {
+        "question": "Which of the following statements is true within the postcolonial approach? Choose from: A. The international system is shaped through colonised discourse that establishes notions of certain states as inferior to others., B. European practices of free trade and democracy are best suited to creating a peaceful and stable international system., C. With the end of the Second World War and gradual dissolution of the British Empire, much of postcolonialism is redundant., D. Colonial power exists only through the military actions of occupying states.",
+        "answer": "A. The international system is shaped through colonised discourse that establishes notions of certain states as inferior to others.",
+        "subject": "security_studies",
+        "procedural-hint": [
+            "Start by understanding the main principles and themes of the postcolonial approach.",
+            "Assess each option to determine its alignment with postcolonial thought and its implications.",
+            "Select the statement that best captures the essence of the postcolonial approach or its perspective on the international system."
+        ],
+        "factual-hint": [
+            "The postcolonial approach critically examines the impacts of colonialism and imperialism on contemporary global politics and the international system.",
+            "One of the central themes of postcolonialism is the examination of how colonized discourses shape perceptions, identities, and power dynamics in the international system.",
+            "The promotion of European practices such as free trade and democracy as superior is often critiqued within postcolonial thought.",
+            "Postcolonialism suggests that the effects of colonialism are not just tied to the era of direct colonial rule but continue to shape contemporary global relations.",
+            "Colonial power is understood in postcolonialism to be exerted not only through military means but also through cultural, economic, and discursive means."
+        ],
+        "noisy-factual-hint": [],
+        "reasoning": "Start by understanding the main principles and themes of the postcolonial approach. The postcolonial approach critically examines the impacts of colonialism and imperialism on contemporary global politics and the international system.\nAssess each option to determine its alignment with postcolonial thought and its implications. One of the central themes of postcolonialism is the examination of how colonized discourses shape perceptions, identities, and power dynamics in the international system. The promotion of European practices such as free trade and democracy as superior is often critiqued within postcolonial thought. Postcolonialism suggests that the effects of colonialism are not just tied to the era of direct colonial rule but continue to shape contemporary global relations. Colonial power is understood in postcolonialism to be exerted not only through military means but also through cultural, economic, and discursive means. \nSelect the statement that best captures the essence of the postcolonial approach or its perspective on the international system.\nTherefore, the answer is A. The international system is shaped through colonised discourse that establishes notions of certain states as inferior to others.",
+        "local-1": [
+            "Burgess is known for his Concentric Zone Model, which depicts urban land usage as concentric rings radiating outward from downtown.",
+            "In the 1960s, major world events included the Cuban Missile Crisis and the escalation of the Vietnam War.",
+            "A true experiment requires the researcher to manipulate a variable and observe the outcome, which is not the case here.",
+            "A firm's pricing strategy or its demand curve are not directly related to its motive for profit maximization.",
+            "ARCH(q) stands for Autoregressive Conditional Heteroskedasticity model of 'q' order while GARCH(1,1) stands for Generalized Autoregressive Conditional Heteroskedasticity model of order 1,1."
+        ],
+        "local-2": [
+            "This technique helps in estimating the correlation had there been no error in the measurement. ",
+            "In Family A where the response to crying is delayed, the infant may learn to cry for longer periods to receive that reward or attention.",
+            "Peace studies often highlight that the development and access to technologies can have profound effects on social and international relations. ",
+            "The Copenhagen School views security in a more empirical and objective manner.",
+            "The Oedipus complex, according to Freud, is a child's feelings of desire for his or her opposite-sex parent.",
+            "Variable interval (VI) reinforcement schedule provides reinforcement on an unpredictable time schedule.",
+            "The James-Lange theory suggests that physiological arousal precedes the experience of an emotion and the thalamic theory, largely discounted now, proposes that sensory information passes through the thalamus before being interpreted as an emotion.",
+            "Masters and Johnson, and Kaplan also contributed significantly to the field of sexual health, but they did not discover women's capacity for multiple orgasms.",
+            "Realism, in the context of Security Studies, is a theoretical approach that primarily focuses on states and their behavior in an anarchic international system.",
+            "People with fixed money incomes do not see an increase in income to match the increasing prices."
+        ],
+        "global-1": [
+            "Utilitarianism and Egoism are examples of consequentialist theories, which are based on the outcomes of actions instead of universal principles.",
+            "$\\frac{1 + \\sin \\theta}{1 - \\sin \\theta} - \\frac{1 - \\sin \\theta}{1 + \\sin \\theta}$ is equal to $\\frac{(1 + \\sin \\theta)^2 - (1 - \\sin \\theta)^2}{(1 - \\sin \\theta)(1 + \\sin \\theta)}$",
+            "Rapid consumption of natural resources can lead to unsustainability and can hamper long-term growth. ",
+            "\"An individual who flosses daily will be less likely to get gum disease than one who flosses weekly.\" is a testable statement.",
+            "Arranged from lowest to highest, the temperatures were: 12, 18, 24, and 31 degrees Celsius."
+        ],
+        "global-2": [
+            "A motel room is a temporary lodging space that includes a bathroom.",
+            "Frisking, which is a pat-down search by police, is often done to ensure safety and is typically limited to what is necessary for the discovery of weapons.",
+            "The g(x) function multiplies the input by 5 and then adds 3.",
+            "Seeing other people is a social aspect of going to a market. ",
+            "An increase in the price level can lead to an increase in interest rates because as price levels rise, people demand more money for transactions, which can lead to a decrease in lending and consequently, an increase in interest rates.",
+            "A wedge is used to split or separate objects.",
+            "Therefore n=15 is the smallest positive integer.",
+            "Rewarding or punishing debtors can have different consequences on their livelihoods, mental and physical health.",
+            "Ground-penetrating radar is a geophysical method that uses radar pulses to image the subsurface and can be used on archaeological sites.",
+            "For each quart of water, $\\frac14$ teaspoon of salt is needed."
+        ]
+    }
+]

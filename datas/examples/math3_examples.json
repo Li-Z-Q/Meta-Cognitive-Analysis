@@ -1,0 +1,184 @@
+[
+    {
+        "question": "How many integers $x$ satisfy $-2 < 4 + 3x < 2$?",
+        "answer": "1",
+        "reference": "If we subtract 4 from all three expressions we get  \\[-6<3x<-2.\\] Dividing by 3 gives  \\[-2<x<-\\frac23.\\] The only integer in this range is $-1$.  Therefore there is only $\\boxed{1}$ integral solution.",
+        "level": "Level 3",
+        "type": "Prealgebra",
+        "procedural-hint": [
+            "Isolate $x$ by performing basic algebraic operations to the inequality.",
+            "Determine the range for $x$.",
+            "Count the integer values that lie within the given range."
+        ],
+        "factual-hint": [
+            "$-2 < 4 + 3x < 2$ is equal with $-6 < 3x < -2$",
+            "$-6 < 3x < -2$ is equal with $-2 < x < -\frac{2}{3}$",
+            "Only integer in the range $-2 < x < -\frac{2}{3}$ is -1."
+        ],
+        "noisy-factual-hint": [],
+        "reasoning": "Isolate $x$ by performing basic algebraic operations to the inequality. Determine the range for $x$. $-2 < 4 + 3x < 2$ is equal with $-6 < 3x < -2$, $-6 < 3x < -2$ is equal with $-2 < x < -\frac{2}{3}$\n Count the integer values that lie within the given range. Only integer in the range $-2 < x < -\frac{2}{3}$ is -1.\nTherefore, the answer is 1.",
+        "local-1": [
+            "$\\sqrt[3]{x\\sqrt{x}}= x^{1/2}$",
+            "Prime factorization of 315 is $3^2\\cdot5\\cdot7$.",
+            "5 is relatively prime to 17, hence 5 and 25 can be divided out in the congruence $5n \\equiv 25 \\pmod{17}$ to get $n \\equiv 5 \\pmod{17}$."
+        ],
+        "local-2": [
+            "$1002^2 - 502^2 = (1002+502)(1002-502)$",
+            "$(a+b\\sqrt{43})^2 = a^2 + 43b^2 + 2ab\\sqrt{43}$",
+            "The largest integer less than or equal to $11.1$ is $11$",
+            "The sum of the $y$-coordinates of the vertices of a square is constant, regardless of the orientation or scale of the square. ",
+            "The degree of a polynomial is the highest power of $x$ in its expression.",
+            "The equation $3*90 + 2x = 540$ solves to $x = 135$ degrees."
+        ],
+        "global-1": [
+            "Negligence, in legal terms, refers to a failure to exercise the care that a reasonably prudent person would exercise in like circumstances.",
+            "A higher mean value for a normal distribution increases the likelihood of greater values.",
+            "Snake fangs are primarily used for injecting venom into prey or for defense purposes."
+        ],
+        "global-2": [
+            "Cancer is a disease where abnormal cells divide uncontrollably and destroy body tissue.",
+            "$83 \\equiv 3 \\pmod{10}$ ",
+            "Somatic therapy typically involves the use of physical techniques such as touch, movement and body awareness.",
+            "The bases of RNA are Adenine, Uracil, Cytosine, and Guanine.",
+            "Each partner received a nonliquidating cash distribution of $10,000. ",
+            "There are 8 pints in a gallon. "
+        ]
+    },
+    {
+        "question": "Evaluate $\\left\\lceil\\left(\\frac{7}{4}\\right)^2\\right\\rceil^2$",
+        "answer": "16",
+        "reference": "Because $\\left(\\frac{7}{4}\\right)^2$ equals $\\frac{49}{16}$, the expression can be rewritten as $\\left\\lceil\\frac{49}{16}\\right\\rceil^2$. The smallest integer greater than $\\frac{49}{16}$ is $4$, and $4^2=\\boxed{16}$.",
+        "level": "Level 3",
+        "type": "Algebra",
+        "procedural-hint": [
+            "Calculate the square of the given fraction.",
+            "Determine the smallest integer greater than the squared fraction using the ceiling function.",
+            "Square the result to get the final value."
+        ],
+        "factual-hint": [
+            "$(\frac{7}{4})^2 = \frac{49}{16}$",
+            "$\\left\\lceil\frac{49}{16}\right\rceil = 4$"
+        ],
+        "noisy-factual-hint": [],
+        "reasoning": "Calculate the square of the given fraction. $(\frac{7}{4})^2 = \frac{49}{16}$\nDetermine the smallest integer greater than the squared fraction using the ceiling function. $\\left\\lceil\frac{49}{16}\\right\\rceil = 4$\nSquare the result to get the final value. $4^2 = 16$\nTherefore, the answer is 16.",
+        "local-1": [
+            "When $a=-3$, $b=1$ correspondingly, $(a+b\\sqrt{43})^2 = 52 - 6\\sqrt{43}$",
+            "$f(x) = a_4 x^4 + a_3 x^3 + a_2 x^2 + a_1 x + a_0$"
+        ],
+        "local-2": [
+            "To get a real number value from a square root, the expression inside the root must be non-negative. ",
+            "The greatest common divisor of two numbers cannot be larger than either of the number.",
+            "$10*6*7=420$",
+            "$(x+\frac{1}{x})^2 = x^2 + 2 + \frac{1}{x^2}$."
+        ],
+        "global-1": [
+            "A dwelling is a place where people live.",
+            "O3 represents ozone, a form of oxygen not likely to be present in large quantities in Earth's early atmosphere."
+        ],
+        "global-2": [
+            "Attempts have been made to reduce the use of CFCs. ",
+            "Nabisco, originally known as the National Biscuit Company, is well recognized as the producer of Oreo cookies.",
+            "15+15+10 = 40 cm",
+            "A shortest simple path between two vertices is the one with minimum length among all paths connecting these two vertices."
+        ]
+    },
+    {
+        "question": "If $x$ and $y$ are positive integers for which $2^x3^y = 1296$, what is the value of $x+y$?",
+        "answer": "8",
+        "reference": "Note that $1296 = 6^4 = 2^43^4$, so $x=y=4$ and $x+y=\\boxed{8}$.",
+        "level": "Level 3",
+        "type": "Prealgebra",
+        "procedural-hint": [
+            "Equally equate the base and exponent pairs to determine the values of x and y.",
+            "Sum the values of x and y to get the required result."
+        ],
+        "factual-hint": [
+            "$1296 = 6^4 = 2^4 \times 3^4$",
+            "$4 + 4 = 8$"
+        ],
+        "noisy-factual-hint": [],
+        "reasoning": "Equally equate the base and exponent pairs to determine the values of x and y. $1296 = 6^4 = 2^4 \times 3^4$ \nSum the values of x and y to get the required result. $4 + 4 = 8$\nTherefore, the answer is 8.",
+        "local-1": [
+            "$c = c^2 - 2$ gives $c^2 - c - 2 = 0$ and the two solutions are $c = 2$ or $c = -1$.",
+            "The Chinese Remainder Theorem states that the other integers which leave a remainder of 2 when divided by 3 and a remainder of 3 when divided by 7 differ from the first one by a multiple of 3 times 7."
+        ],
+        "local-2": [
+            "The prime numbers between 30 and 50 are: 31, 37, 41, 43, and 47.",
+            "The real numbers in the pattern are $-2, 4, -6, 8, -10, 12 \\dots$ which sum to 24 pairs of $2$.",
+            "$100 = 2^2\times 5^2$",
+            "Completing the square is a method used for solving quadratic equations, conic sections, quadratic programming, etc. The idea behind it is to rewrite the quadratic function into the form $(x – h)^2 = 4p (y – k)$."
+        ],
+        "global-1": [
+            "10 * 2 = 20",
+            "The roles of the vice president, the national security advisor, and the chair of the Federal Reserve Board don't typically involve managing the president's schedule or controlling access to the president."
+        ],
+        "global-2": [
+            "In computer logic, the AND operator returns True when both conditions are met.",
+            "The aggressiveness of men and women in crowded conditions isn't directly related to the concept of 'crowding' effects. ",
+            "Prostaglandins are a group of lipids made at sites of tissue damage or infection that are involved in dealing with injury and illness. They control processes such as inflammation, blood flow, and formation of blood clots.",
+            "Ice cubes are made of water which changes its state when heat is added or removed."
+        ]
+    },
+    {
+        "question": "A woman 5-feet tall casts an 8-foot shadow. At the same time of day, the shadow of a tree nearby is 120 feet long. In feet, how tall is the tree?",
+        "answer": "75",
+        "reference": "The ratio of the height of an object to the length of its shadow is a constant at a given time of day.  Therefore,  \\[\n\\frac{5}{8}=\\frac{h}{120},\n\\]where $h$ is the height of the tree. Since $8\\times15=120$, $h=5\\times15=\\boxed{75}$ feet.",
+        "level": "Level 3",
+        "type": "Prealgebra",
+        "procedural-hint": [
+            "Set up a proportion based on the ratio of the height to shadow length for the woman, which is $\frac{5}{8}$",
+            "Cross-multiply to find the height of the tree in relation to its shadow. $\frac{5}{8} = \frac{h}{120}$",
+            "Solve for the height of the tree."
+        ],
+        "factual-hint": [
+            "$120 * \frac{5}{8} = 75$"
+        ],
+        "noisy-factual-hint": [],
+        "reasoning": "Set up a proportion based on the ratio of the height to shadow length for the woman, which is $\frac{5}{8}$. Cross-multiply to find the height of the tree in relation to its shadow. $\frac{5}{8} = \frac{h}{120}$. Solve for the height of the tree. $120 * \frac{5}{8} = 75$.\nTherefore, the answer is 75.",
+        "local-1": [
+            "$f(1,0) = 1$."
+        ],
+        "local-2": [
+            "An equation of the form $y=a(x-h)^2+k$ corresponds to a parabola with vertex at $(h,k)$.",
+            "The greatest common divisor of two numbers cannot be larger than either of the number."
+        ],
+        "global-1": [
+            "Multiplying both sides of an equation by the same non-zero number will not change the solution of the equation."
+        ],
+        "global-2": [
+            "A park is a natural or semi-natural public space for recreation.",
+            "It's common and usually acceptable for siblings to go to and return from the same school together, unless done with wrong intentions."
+        ]
+    },
+    {
+        "question": "How many paths are there from $C$ to $D$ on the grid shown, if every step must be down or to the right?[asy]size(4cm,4cm);int w=5;int h=7;int i;for (i=0; i<h; ++i){draw((0,i) -- (w-1,i));}for (i=0; i<w; ++i){draw((i, 0)--(i,h-1));}label(\"D\", (w-1,0), SE);label(\"C\", (0,h-1), NW);[/asy]",
+        "answer": "210",
+        "reference": "There are 4 steps to the right, and 6 steps down.  These 10 steps can be made in any order, so the answer is $\\dbinom{10}{4} = \\dfrac{10 \\times 9 \\times 8 \\times 7}{4 \\times 3 \\times 2 \\times 1} = \\boxed{210}$.",
+        "level": "Level 3",
+        "type": "Counting & Probability",
+        "procedural-hint": [
+            "Identify the number of steps needed horizontally and vertically to go from C to D, which is there are 4 steps to the right and 6 steps downwards from C to D.",
+            "Use the combination formula to determine the number of ways to arrange these steps, which is $\\dbinom{10}{4}$.",
+            "Calculate the value using the combination formula."
+        ],
+        "factual-hint": [
+            "$\\dbinom{10}{4} = \\dfrac{10 \times 9 \times 8 \times 7}{4 \times 3 \times 2 \times 1} = 210$"
+        ],
+        "noisy-factual-hint": [],
+        "reasoning": "Identify the number of steps needed horizontally and vertically to go from C to D, which is there are 4 steps to the right and 6 steps downwards from C to D.\nUse the combination formula to determine the number of ways to arrange these steps, which is $\\dbinom{10}{4}$.\nCalculate the value using the combination formula. $\\dbinom{10}{4} = \\dfrac{10 \times 9 \times 8 \times 7}{4 \times 3 \times 2 \times 1} = 210$\n Therefore, the answer is 210.",
+        "local-1": [
+            "$f^{-1}(x)=\\sqrt[3]{\\frac{x-1}{4}}$."
+        ],
+        "local-2": [
+            "The only integer in the range $3\\frac{1}{3} < x < 4\\frac{2}{7}$ is 4.",
+            "Units digit of a product only depends on the units digits of the factors."
+        ],
+        "global-1": [
+            "A mixed number is a whole number and a proper fraction combined into one \"mixed\" number."
+        ],
+        "global-2": [
+            "Destruction of large plants can be caused by various natural factors like pests, diseases, and even disasters.",
+            "Gene therapy involves altering or replacing a person’s genes to treat or cure disease."
+        ]
+    }
+]

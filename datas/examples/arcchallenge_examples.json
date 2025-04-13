@@ -1,0 +1,324 @@
+[
+    {
+        "question": "Cities control the amount of pollution that is allowed to come from cars. How does this most likely help people? Choose from: A. The air stays cleaner., B. Cars can travel at faster speeds., C. The skills of the drivers improve., D. It becomes safer to drive on the roads.",
+        "answer": "A. The air stays cleaner.",
+        "procedural-hint": [
+            "Consider the advantages of ruducing pollution from cars.",
+            "Consider how can air stay cleaner.",
+            "Consider how can people travel at faster speeds.",
+            "Consider how can the skills of the drivers improve.",
+            "Consider how can it become safer to drive on the roads."
+        ],
+        "factual-hint": [
+            "Less pollution from cars means cleaner air.",
+            "More trees and less pollution can give people cleaner air to breathe.",
+            "People can drive faster if there is less cars on the road.",
+            "Drivers can improve their skills by driving more.",
+            "It is safer to drive on the roads if there is good rules."
+        ],
+        "noisy-factual-hint": [
+            [
+                "Reduced emissions from vehicles contribute to a healthier environment.",
+                "Using public transport can decrease the number of pollutants released into the atmosphere."
+            ],
+            [
+                "Planting trees can effectively absorb pollutants from the atmosphere.",
+                "Reduced pollution results in healthier respiratory systems for individuals."
+            ],
+            [
+                "Traffic congestion often slows down commute times.",
+                "Open highways allow for more consistent driving speeds."
+            ],
+            [
+                "Practicing on different terrains can enhance a driver's adaptability.",
+                "Attending driving schools can provide additional techniques and knowledge for drivers."
+            ],
+            [
+                "Proper road signs and signals improve traffic management.",
+                "Adhering to speed limits ensures the well-being of all road users."
+            ]
+        ],
+        "reasoning": "Consider the advantages of ruducing pollution from cars. Less pollution from cars means cleaner air. \nConsider how can air stay cleaner. More trees and less pollution can give people cleaner air to breathe.\nConsider how can people travel at faster speeds. People can drive faster if there is less cars on the road.\nConsider how can the skills of the drivers improve. Drivers can improve their skills by driving more.\nConsider how can it become safer to drive on the roads. It is safer to drive on the roads if there is good rules.\nTherefore, the answer is A. The air stays cleaner.",
+        "local-1": [
+            "The engineer should allow for some waste and error when ordering supplies as to not delay the project.",
+            "Oxygen has an atomic mass of 16.",
+            "The amount of sunlight refers to the length of time or intensity of sunlight exposure each plant receives.",
+            "A parasitic relationship is one where one organism benefits while the other is harmed.",
+            "Seashells are typically found in or near bodies of water, such as oceans."
+        ],
+        "local-2": [
+            "Bones have the capacity to form fossils due to their structure and organic composition.",
+            "Managing the manufacturing of products is a function of a manufacturing department.",
+            "Using multiple types of thermometers can increase accuracy by cross checking measurements, but it is not necessarily suitable in determining the melting point of the substance.",
+            "In a hardness test, if X scratches Y, it means X is harder than Y.",
+            "A crumpled sheet of paper has less air resistance than a flat sheet.",
+            "Rubber is a flexible material.",
+            "The freezing point of water in Celsius is 0°C.",
+            "Fewer predators of bison could potentially lead to an increase in the bison population.",
+            "Wolf are carnivores, they feed on other animals.",
+            "Date provides the timeline for the plant's growth."
+        ],
+        "global-1": [
+            "$15*5=75$",
+            "Ice cubes are made of water which changes its state when heat is added or removed.",
+            "The multiples of 12 between 0 and 100 are: 12, 24, 36, 48, 60, 72, 84, and 96.",
+            "Only a small proportion of violent offenses are committed by people with serious mental illness.",
+            "Under vicarious liability, an employer can be held liable for the acts of its employees, but only if these acts occurred during the course of employment."
+        ],
+        "global-2": [
+            "FEMA is short for the Federal Emergency Management Agency, which deals with disaster response coordination, not mortgages.",
+            "Birds building a nest in a bush can provide shelter for the birds but could damage the bush.",
+            "Doing nothing refers to idling or not doing any activities.",
+            "The EPA is primarily interested in addressing human-caused environmental issues.",
+            "Cheese has a high fat content and requires bile for digestion.",
+            "Among the options given, European trade networks were not yet developed on a large scale during Ibn Battuta's time between the 14th and 15th century.",
+            "The nucleus of an atom contains protons and neutrons.",
+            "5 * 8 = 40",
+            "A bladder washout is a technique used to flush out the bladder through a urinary catheter to clear any blockages.",
+            "The fallacy of appeal to loyalty occurs when loyalty to a person or a group is used as the primary reason for supporting an idea or argument."
+        ]
+    },
+    {
+        "question": "Air has no color and cannot be seen, yet it takes up space. What could be done to show that air takes up space? Choose from: A. observe clouds forming, B. measure the air temperature, C. blow up a beach ball or balloon, D. weigh a glass before and after it is filled with water",
+        "answer": "C. blow up a beach ball or balloon",
+        "procedural-hint": [
+            "Consider how can you show that air takes up space.",
+            "Consider clouds are forming can show what?",
+            "Consider air temperature can show what?",
+            "Consider blowing up a beach ball or balloon can show what?",
+            "Consider weighing a glass before and after it is filled with water can show what?"
+        ],
+        "factual-hint": [
+            "Volume changing can show that air takes up space.",
+            "Clouds forming can show that water vapor condenses.",
+            "Air temperature can show that air is hot or cold.",
+            "Blowing up a beach ball or balloon can show that air takes up space.",
+            "Weighing a glass before and after it is filled with water can show that water has mass."
+        ],
+        "noisy-factual-hint": [
+            [
+                "Air has weight and exerts pressure on surfaces.",
+                "A balloon expands when filled with air due to the space the air occupies."
+            ],
+            [
+                "Clouds forming can affect the temperature of an area.",
+                "Rain is possible when water vapor condenses in the atmosphere."
+            ],
+            [
+                "Different seasons can affect the air temperature.",
+                "People adjust their clothing based on the air temperature."
+            ],
+            [
+                "Air inside inflatables can resist external pressure and maintain shape.",
+                "Inflating an object demonstrates the tangible presence of air."
+            ],
+            [
+                "Water displaces a certain amount of space due to its volume.",
+                "When water is poured into a container, the overall weight of the container increases."
+            ]
+        ],
+        "reasoning": "Consider how can you show that air takes up space. Volume changing can show that air takes up space.\nConsider clouds are forming can show what? Clouds forming can show that water vapor condenses.\nConsider air temperature can show what? Air temperature can show that air is hot or cold.\nConsider blowing up a beach ball or balloon can show what? Blowing up a beach ball or balloon can show that air takes up space.\nConsider weighing a glass before and after it is filled with water can show what? Weighing a glass before and after it is filled with water can show that water has mass.\nTherefore, the answer is C. blow up a beach ball or balloon.",
+        "local-1": [
+            "The amount of sunlight each plant receives is not being varied.",
+            "Performing in a laboratory controls variables but does not necessarily increase validity.",
+            "Cutting down trees for paper production can cause loss of animal habitats.",
+            "Fruits do not require bile for digestion.",
+            "Height is an indication of plant's growth."
+        ],
+        "local-2": [
+            "The size of molecules doesn't directly affect the speed of sound.",
+            "Potential energy is the stored energy an object has because of its position.",
+            "Height can be affected by nutrition.",
+            "Phosphorus is located in Group 15 of the Periodic Table.",
+            "The amount of sunlight refers to the length of time or intensity of sunlight exposure each plant receives.",
+            "20 seconds is the total time Anna spent running.",
+            "The color of a dog's food dish is an environmental variable.",
+            "Refrigerators reduce the growth rate of bacteria.",
+            "An increase in air pollution can block sunlight, reducing the amount of solar energy reaching Earth.",
+            "The volume of water changes slightly when it freezes."
+        ],
+        "global-1": [
+            "Acutely ill patients rarely develop addiction from receiving opioids for severe pain.",
+            "Government spending impacts the economy, however, it's not directly tied to the simultaneous occurrence of falling prices and rising GDP.",
+            "Allowing water to evaporate from the acid solution could intensify the acidity.",
+            "Babysitting is the temporary care of a child by someone other than its parents.",
+            "A complete rotation equals $360^{\\circ}$."
+        ],
+        "global-2": [
+            "Velocity not only measures the speed of an object, but also the direction of movement.",
+            "Chinese cuisine is incredibly diverse, reflecting the vast range of cultural and regional differences in China.",
+            "Headache is a common condition that causes pain in any region of the head.",
+            "Some marine organisms can produce their own light, this is called bioluminescence.",
+            "Attracting mates often involves bright and unique colors, not blending into the environment.",
+            "The testimonies cited in the text reveal the inhumane treatment of blacks, which was a social issue and not directly related to the problems identified in Federalist #15.",
+            "The least common multiple of 3, 4 and 5 is $3\\times4\\times5=60$",
+            "The printing press was invented in the 15th century.",
+            "While drinking water can help prevent dehydration, it doesn't speed up the sobriety process.",
+            "Heating is more closely related to the process of metamorphic rock formation."
+        ]
+    },
+    {
+        "question": "Which statement correctly describes a physical characteristic of the Moon? Choose from: A. The Moon is made of hot gases., B. The Moon is covered with many craters., C. The Moon has many bodies of liquid water., D. The Moon has the ability to give off its own light.",
+        "answer": "B. The Moon is covered with many craters.",
+        "procedural-hint": [
+            "Consider the physical characteristics of the Moon.",
+            "Consider whether the Moon is made of hot gases.",
+            "Consider whether the Moon is covered with many craters.",
+            "Consider whether the Moon has many bodies of liquid water.",
+            "Consider whether the Moon has the ability to give off its own light."
+        ],
+        "factual-hint": [
+            "The Moon is made of rock and dust with no atmosphere and many craters.",
+            "There is no gases on the Moon.",
+            "There are many craters on the Moon.",
+            "There is no liquid water on the Moon.",
+            "The Moon does not have the ability to give off its own light."
+        ],
+        "noisy-factual-hint": [],
+        "reasoning": "Consider the physical characteristics of the Moon. The Moon is made of rock and dust with no atmosphere and many craters.\nConsider whether the Moon is made of hot gases. There is no gases on the Moon.\nConsider whether the Moon is covered with many craters. There are many craters on the Moon.\nConsider whether the Moon has many bodies of liquid water. There is no liquid water on the Moon.\nConsider whether the Moon has the ability to give off its own light. The Moon does not have the ability to give off its own light.\nTherefore, the answer is B. The Moon is covered with many craters.",
+        "local-1": [
+            "A clear window glass allows most of the light to pass through it due to its transparency.",
+            "Snakes are cold-blooded animals.",
+            "Type of insects that eat the needles can affect the health and appearance of the plant.",
+            "Tall shrubs and many trees aren't typically found in habitats where bison graze.",
+            "Ethanol is a type of alcohol made from plants like sugarcane and corn."
+        ],
+        "local-2": [
+            "Photographing each leaf type using a camera can show different shapes of leaves.",
+            "Nonrenewable resources, such as petroleum, are used less when people carpool.",
+            "Sound travels by vibrating molecules.",
+            "Height is an indication of plant's growth.",
+            "During the later stage of a tadpole's growth, their tail starts to shorten.",
+            "The Sun is the farthest from the Moon.",
+            "Pollination is the act of transferring pollen from the anther (male part) to the stigma (female part) of a flower.",
+            "The Earth's core is made of iron and nickel and is responsible for Earth's magnetic field.",
+            "Water is the liquid state of water above 0 degrees and below 100 degrees Celsius.",
+            "Discussing the data with a reporter who understands astronomy may not necessarily lead to peer review or expert scrutiny."
+        ],
+        "global-1": [
+            "The adoption process typically includes various stages such as knowledge, persuasion, decision, implementation, and confirmation.",
+            "The term “moderate drinking” is generally understood to mean one drink per day for women and two drinks per day for men.",
+            "0.5 * 100 = 50",
+            "The 1826 Pennsylvania law criminalizes the abduction and enslavement of free African Americans.",
+            "3 * 10 = 30"
+        ],
+        "global-2": [
+            "$7+5-7+5=10$",
+            "Both prokaryotic and eukaryotic cells have cell membranes.",
+            "A clear window glass allows most of the light to pass through it due to its transparency.",
+            "Deletion, duplication, and insertion are types of mutations that involve changes in large segments of DNA.",
+            "$\\pi r^2h = 45\\pi$. Given radius $r=3$, so we get $9\\pi h = 45\\pi$",
+            "1000 can be factored to $2^3 \\times 5^3$",
+            "The homeowner was injured due to the failure of a switch that had been modified by the mechanic.",
+            "A waterfall is a cascade of water falling from a height.",
+            "The coordinates of the provided vertices are (7,9) and (10,2).",
+            "Group 4 (4A) elements are carbon group elements which includes carbon and silicon."
+        ]
+    },
+    {
+        "question": "Which object in the solar system is orbited by a belt of asteroids? Choose from: A. Pluto, B. Saturn, C. the Sun, D. the Moon",
+        "answer": "C. the Sun",
+        "procedural-hint": [
+            "Consider which object in the solar system is orbited by a belt of asteroids.",
+            "Choose from Pluto, Saturn, the Sun, and the Moon."
+        ],
+        "factual-hint": [
+            "Pluto is not a planet.",
+            "Saturn is orbited by rings.",
+            "The Sun is orbited by a belt of asteroids.",
+            "The Moon is orbited by the Earth."
+        ],
+        "noisy-factual-hint": [],
+        "reasoning": "Consider which object in the solar system is orbited by a belt of asteroids. Pluto is not a planet. Saturn is orbited by rings. The Sun is orbited by a belt of asteroids. The Moon is orbited by the Earth.\nTherefore, the answer is C. the Sun.",
+        "local-1": [
+            "The ozone layer protects Earth from harmful solar radiation.",
+            "Less grass and more bare soil is a sign of overgrazing.",
+            "Wind can move sand to form dunes.",
+            "Goats are herbivores, they feed on plants."
+        ],
+        "local-2": [
+            "Writing the procedure of an experiment after completion can reflect on possible mistakes but does not improve accuracy of the specific experiment done.",
+            "Sunlight brightening a dark room is a process of illumination, not conduction.",
+            "Opening windows to cool a house utilizes natural wind, thus saving energy.",
+            "A large volcanic eruption can cause an increase in air pollution.",
+            "Slow movement of a glacier can cause physical weathering in rocks.",
+            "\"Flossing has proven to be an effective method of improving oral health.\" is a conclusion based on some study.",
+            "Sound travels by vibrating molecules.",
+            "Penguins can live in climates with freezing temperatures."
+        ],
+        "global-1": [
+            "In many countries, cannabis is still illegal to with strict penalties for possession.",
+            "Singer's argument references a moral obligation to help those in extreme poverty. But it's not directly addressed as a paralysis issue in Ashford's article.",
+            "The shape of water will change depending on the container in which it is placed.",
+            "Neither ducks nor turtles provide milk for their young. "
+        ],
+        "global-2": [
+            "The midpoint of a line segment with endpoints $(x_1, y_1)$ and $(x_2, y_2)$ is $\\left(\\frac{{x_1+x_2}}{2}, \\frac{{y_1+y_2}}{2}\\right)$",
+            "According to Freudian theory, the id is the component of personality that is driven by the pleasure principle and instant gratification.",
+            "Criminal intent refers to the decision by someone to carry out actions that they know are illegal or have illegal consequences.",
+            "Cerebrospinal fluid is a clear, colorless body fluid found in the brain and spinal cord.",
+            "To \"have money\" means possessing funds or currency.",
+            "Alternative splicing is a process that allows a single gene to produce multiple protein variants or traits.",
+            "Covariance matrices are used in Gaussian Bayes classifiers to account for the variance and covariance of data features.",
+            "During the larva stage, caterpillars mostly consume plant leaves."
+        ]
+    },
+    {
+        "question": "Light waves that cross from an air medium to a water medium will ? Choose from: A. be focused into a straight line., B. lose energy and dissipate., C. change length and direction., D. reflect off the water's surface.",
+        "answer": "C. change length and direction.",
+        "procedural-hint": [
+            "Consider how light waves behave when transitioning between different mediums.",
+            "Consider how light waves can be focused into a straight line.",
+            "Consider how light waves can lose energy and dissipate.",
+            "Consider how light waves can change in length and direction.",
+            "Consider how light waves can reflect off a surface."
+        ],
+        "factual-hint": [
+            "When light waves travel from one medium to another, they undergo refraction.",
+            "A straight line of light is a representation of it being undeviated.",
+            "Losing energy in light waves might result in them getting dimmer.",
+            "Refraction causes light to change speed, which can change its direction and wavelength.",
+            "Reflection occurs when light bounces back from a surface instead of passing through."
+        ],
+        "noisy-factual-hint": [],
+        "reasoning": "Consider how light waves behave when transitioning between different mediums. When light waves travel from one medium to another, they undergo refraction.\nConsider how light waves can be focused into a straight line. A straight line of light is a representation of it being undeviated.\nConsider how light waves can lose energy and dissipate. Losing energy in light waves might result in them getting dimmer.\nConsider how light waves can change in length and direction. Refraction causes light to change speed, which can change its direction and wavelength.\nConsider how light waves can reflect off a surface. Reflection occurs when light bounces back from a surface instead of passing through.\nTherefore, the answer is C. change length and direction.",
+        "local-1": [
+            "Heating a brown substance until it changes to a gray powder is a chemical change.",
+            "Group 1 (1A) elements are alkali metals which are soft, and react strongly with water.",
+            "As air masses move and collide, it can cause changes in wind speed and direction.",
+            "The Sun's gravitational pull can affect the tides, contributing to the formation of waves.",
+            "Both the Sun and the Earth are in the Milky Way galaxy."
+        ],
+        "local-2": [
+            "Learning to navigate a maze is considered an acquired trait.",
+            "Opening windows to cool a house utilizes natural wind, thus saving energy.",
+            "Skin is not stiff as it can bend and stretch.",
+            "Skin color can be affected by sun exposure.",
+            "In a hardness test, if X scratches Y, it means X is harder than Y.",
+            "The ozone layer protects Earth from harmful solar radiation.",
+            "Melting is a phase change from solid to liquid that occurs when heat is added. ",
+            "Photographing each leaf type using a camera can show different shapes of leaves.",
+            "Skin is not hard as it is soft to the touch.",
+            "An equinox happens twice a year."
+        ],
+        "global-1": [
+            "$(-1)*1003=-1003$",
+            "Water becomes solid when it is frozen.",
+            "Posttranscriptional modification does not occur in the cytoplasm; it occurs in the nucleus.",
+            "The existence of ghosts has not been proven nor disproven by scientific evidence.",
+            "One-celled organisms, also known as unicellular organisms, include bacteria, protists, and yeast."
+        ],
+        "global-2": [
+            "The equation $3*90 + 2x = 540$ solves to $x = 135$ degrees.",
+            "The phrase \"Luke, I am your father\" is a popular misquote.",
+            "Frisking, which is a pat-down search by police, is often done to ensure safety and is typically limited to what is necessary for the discovery of weapons.",
+            "Istanbul is the largest city in Turkey and Europe, but it does not host the national government.",
+            "The evolution of tool-making behavior is likely to have influenced different aspects of brain development.",
+            "During the later stage of a tadpole's growth, their tail starts to shorten.",
+            "People often attend plays for entertainment.",
+            "During a heart attack, immediate medical attention is essential.",
+            "Providing education and job training to ex-drug users is an example of a support program intended to minimize the chance of relapse.",
+            "\"Last several years\" refers to the car functioning properly over a long period of time."
+        ]
+    }
+]

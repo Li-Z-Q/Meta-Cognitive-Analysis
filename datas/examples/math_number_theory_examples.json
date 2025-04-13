@@ -1,0 +1,37 @@
+[
+    {
+        "question": "What is the remainder when $1999^{2000}$ is divided by $5?$",
+        "answer": "1",
+        "reference": "Since any positive integer(expressed in base ten) is some multiple of $5$ plus its last digit, its remainder when divided by $5$ can be obtained by knowing its last digit.\n\nNote that $1999^1$ ends in $9,$ $1999^2$ ends in $1,$ $1999^3$ ends in $9,$ $1999^4$ ends in $1,$ and this alternation of $9$ and $1$ endings continues with all even powers ending in $1.$ Therefore, the remainder when $1999^{2000}$ is divided by $5$ is $\\boxed{1}.$",
+        "level": "Level 3",
+        "type": "Number Theory"
+    },
+    {
+        "question": "A bus comes by Jerry's bus stop every 20 minutes starting at exactly 5:13 a.m. If Jerry shows up at exactly 8:35 a.m., how many minutes will he have to wait for the next bus?",
+        "answer": "18",
+        "reference": "Since 20 minutes evenly divides 60 minutes (which is an hour), the bus stops every 13 minutes, $13 + 20 = 33$ minutes, and $33 + 20 = 53$ minutes past the hour.  So after 8:35 AM, the next time that the bus stops is 8:53 AM, so Jerry must wait $53 - 35 = \\boxed{18}$ minutes.",
+        "level": "Level 2",
+        "type": "Number Theory"
+    },
+    {
+        "question": "Linda, Sherry, June, and Connie walked around their neighborhoods selling girl scout cookies. Linda earned $\\$27.47$, Sherry earned $\\$35.23$, June earned $\\$37.37$, and Connie earned $\\$26.52$. After the sale, they pooled their money together and went to the bank to convert the coins into dollars. How much money, in cents, was left after they converted as many of the coins into bills as they could?",
+        "answer": "59",
+        "reference": "Instead of adding large numbers together, we can find the residue for each person for easier computation. We convert the amount they earned to cents and find the modulo $100$ for each.  \\begin{align*}\n2747 &\\equiv 47 \\pmod{100},\\\\\n3523 &\\equiv 23 \\pmod{100},\\\\\n3737 &\\equiv 37 \\pmod{100},\\\\\n2652 &\\equiv 52 \\pmod{100}\n\\end{align*}We want to find the modulo $100$ of the total number of cents. We can add the separate residues to get $$47+23+37+52 \\equiv 159 \\equiv 59 \\pmod{100}$$Therefore, they have $\\boxed{59}$ cents left after converting as much of the money into bills as possible.",
+        "level": "Level 2",
+        "type": "Number Theory"
+    },
+    {
+        "question": "Find the remainder of $7^{17}$ when it is divided by 5.",
+        "answer": "2",
+        "reference": "$7^4 \\equiv 2^4 = 16 \\equiv 1 \\pmod{5}$, so $7^{17} = 7^{4 \\cdot 4 + 1} = (7^4)^4 \\cdot 7^1 \\equiv 1^4 \\cdot 2 \\equiv \\boxed{2} \\pmod{5}$.",
+        "level": "Level 3",
+        "type": "Number Theory"
+    },
+    {
+        "question": "What is the sum of the three digit cubes that are the cubes of either squares or cubes?",
+        "answer": "1241",
+        "reference": "The cube of a square is a sixth power, and the cube of a cube is a ninth power. Therefore we need three digit sixth powers and ninth powers. The only three digit sixth power is $3^6=729,$ and the only three digit ninth power is $2^9=512.$ So the requested sum is $729+512=\\boxed{1241}$.",
+        "level": "Level 3",
+        "type": "Number Theory"
+    }
+]

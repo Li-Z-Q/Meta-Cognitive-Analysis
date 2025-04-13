@@ -1,0 +1,235 @@
+[
+    {
+        "question": "In Python 3, which of the following function sets the integer starting value used in generating random numbers? Choose from: A. choice(seq), B. randrange ([start,] stop [,step]), C. random(), D. seed([x])",
+        "answer": "D. seed([x])",
+        "subject": "high_school_computer_science",
+        "procedural-hint": [
+            "Start by comprehending the intent of the question, which revolves around a Python function that assigns the initial value for random number generation.",
+            "Evaluate each option individually, considering its role within Python’s random number generation process.",
+            "Select the option that directly corresponds to setting the initial value for generating random numbers in Python 3."
+        ],
+        "factual-hint": [
+            "The function choice(seq) randomly selects an element from a non-empty sequence.",
+            "The function randrange([start,] stop [,step]) returns a randomly selected element from a range created by the start, stop, and step arguments.",
+            "The function random() returns a random float number between 0.0 to 1.0.",
+            "The function seed([x]) initializes the random number generator in Python 3. If x is omitted or None, the current system time is used."
+        ],
+        "noisy-factual-hint": [],
+        "reasoning": "Start by comprehending the intent of the question, which revolves around a Python function that assigns the initial value for random number generation. \nEvaluate each option individually, considering its role within Python’s random number generation process. The function choice(seq) randomly selects an element from a non-empty sequence. The function randrange([start,] stop [,step]) returns a randomly selected element from a range created by the start, stop, and step arguments. The function random() returns a random float number between 0.0 to 1.0. The function seed([x]) initializes the random number generator in Python 3. If x is omitted or None, the current system time is used. \nSelect the option that directly corresponds to setting the initial value for generating random numbers in Python 3.\nTherefore, the answer is D. seed([x]).",
+        "local-1": [
+            "Perennial growth refers to plants that live for more than two years.",
+            "Both experiments and observational studies can be conducted on human and nonhuman subjects.",
+            "Algorithms like Dijkstra's or Bellman-Ford can be used to find the shortest path in a graph, and they work in polynomial time. Convincing algorithms to find the longest path problem in graphs within polynomial time progress are not yet known.",
+            "A car that gets 24 miles per gallon of gasoline (mi/gal) covers this distance with 1 gallon of gasoline."
+        ],
+        "local-2": [
+            "Cyclic AMP (cAMP) is a second messenger important in many biological processes, but it is not directly associated with the release of calcium ions.",
+            "Plant species diversity does not directly affect the rate of photosynthesis and hence, net primary productivity.",
+            "Seventeen bags will be delivered on Monday.",
+            "The solar flux at Earth's surface is given as 1,000 W/m^2.",
+            "In calculations involving large exponents, the theorem can be used to break the calculations into smaller, more manageable parts.",
+            "A frameshift mutation often results in an altered sequence of amino acids and potentially a premature stop codon, which can have serious effects on the resulting protein.",
+            "Hexane has a straight-chain structure.",
+            "A dye laser uses an organic dye as the gain medium."
+        ],
+        "global-1": [
+            "Management’s assertions about internal controls are not directly tested in a nonissuer's audit.",
+            "A dwelling is a place where people live.",
+            "100 can be prime factorized into $2^2\\cdot5^2$",
+            "Express contract is an agreement with all the terms explicitly stated usually in written or spoken words."
+        ],
+        "global-2": [
+            "Not all Brits necessarily have a sense of humor.",
+            "The average-case search time in a height-balanced binary tree is also O(log n).",
+            "7 + 7 = 14",
+            "Singing is an activity that involves vocalizing musically.",
+            "Igneous rocks are formed through the cooling and solidification of magma or lava.",
+            "Barriers to the diffusion of an innovation could include factors like distance, cultural obstacles, and government interference that could slow down or prevent the spread of new ideas or technologies.",
+            "8 / 4 = 2",
+            "Philosophy often deals with abstract concepts like 'meaning', compared to more tangible ones like 'time'."
+        ]
+    },
+    {
+        "question": "You are training a linear regression model for a simple estimation task, and notice that the model is overfitting to the data. You decide to add in $\\ell_2$ regularization to penalize the weights. As you increase the $\\ell_2$ regularization coefficient, what will happen to the bias and variance of the model? Choose from: A. Bias increase ; Variance increase, B. Bias increase ; Variance decrease, C. Bias decrease ; Variance increase, D. Bias decrease ; Variance decrease",
+        "answer": "B. Bias increase ; Variance decrease",
+        "subject": "machine_learning",
+        "procedural-hint": [
+            "Understand the impact of $\\ell_2$ regularization on linear regression models.",
+            "Next, analyze each option and assess how increasing the $\\ell_2$ regularization coefficient would potentially affect both the bias and variance of the model."
+        ],
+        "factual-hint": [
+            "$\\ell_2$ regularization is a method used to prevent overfitting in machine learning models.",
+            "When you increase the penalty parameter (regularization coefficient), the fit becomes more simplified leading to an increase in bias and decrease in variance."
+        ],
+        "noisy-factual-hint": [],
+        "reasoning": "Understand the impact of $\\ell_2$ regularization on linear regression models. $\\ell_2$ regularization is a method used to prevent overfitting in machine learning models. When you increase the penalty parameter (regularization coefficient), the fit becomes more simplified leading to an increase in bias and decrease in variance. \nNext, analyze each option and assess how increasing the $\\ell_2$ regularization coefficient would potentially affect both the bias and variance of the model. \nTherefore, the answer is B. Bias increase ; Variance decrease.",
+        "local-1": [
+            "Convergent evolution is the process whereby organisms not closely related independently evolve similar traits as a result of having to adapt to similar environments or ecological niches.",
+            "Sampling error is the difference between the characteristics of a sample and the characteristics of the population from which it was drawn."
+        ],
+        "local-2": [
+            "Radiation therapy involves the use of radioactive substances to destroy cancer cells.",
+            "The surface web, also known as the \"Visible web\", contains information that is readily available and accessible to the general public via standard search engines.",
+            "The axial tilt, also known as obliquity, is expressed as the angle between an object's rotational axis and its orbital axis.",
+            "The reduced mass of a molecule affects its vibrational motion, and thus, its infrared absorption frequency."
+        ],
+        "global-1": [
+            "High inertia in instruments leads to slower response times to changes, thus being unsuitable for dynamic measurements.",
+            "Laws are written to apply to all citizens, regardless of their economic status."
+        ],
+        "global-2": [
+            "$3^{-4} \\cdot 3^{-8} \\cdot 3^{14} = 3^{(-4)+(-8)+14} = 3^2=9$",
+            "A dining room is a room where people eat meals.",
+            "Reptiles are vertebrates.",
+            "Confident refers to feeling sure about ability or a situation."
+        ]
+    },
+    {
+        "question": "Mars has an atmosphere that is almost entirely carbon dioxide.Why isn't there a strong greenhouse effect keeping the planet warm? Choose from: A. Mars does not have enough internal heat to drive the greenhouse effect, B. Mars is too far from the sun for the greenhouse effect to work, C. the greenhouse effect requires an ozone layer which Mars does not have, D. the atmosphere on Mars is too thin to trap a significant amount of heat",
+        "answer": "D. the atmosphere on Mars is too thin to trap a significant amount of heat",
+        "subject": "astronomy",
+        "procedural-hint": [
+            "Start by recalling the factors that contribute to a strong greenhouse effect.",
+            "Evaluate each option to determine whether it could prevent a greenhouse effect from keeping Mars warm."
+        ],
+        "factual-hint": [
+            "The presence of carbon dioxide in a planet's atmosphere contributes to the greenhouse effect because it traps heat.",
+            "The distance of a planet from the sun can slightly affect the strength of the greenhouse effect.",
+            "The internal heat of a planet does not significantly drive the greenhouse effect.",
+            "The ozone layer primarily protects Earth from harmful ultraviolet radiation, not contribute to the greenhouse effect.",
+            "The greenhouse effect is less significant on planets with thin atmospheres because they cannot trap as much heat."
+        ],
+        "noisy-factual-hint": [],
+        "reasoning": "Start by recalling the factors that contribute to a strong greenhouse effect. The presence of carbon dioxide in a planet's atmosphere contributes to the greenhouse effect because it traps heat. \nEvaluate each option to determine whether it could prevent a greenhouse effect from keeping Mars warm. The distance of a planet from the sun can slightly affect the strength of the greenhouse effect. The internal heat of a planet does not significantly drive the greenhouse effect. The ozone layer primarily protects Earth from harmful ultraviolet radiation, not contribute to the greenhouse effect. The greenhouse effect is less significant on planets with thin atmospheres because they cannot trap as much heat. \nTherefore, the answer is D. the atmosphere on Mars is too thin to trap a significant amount of heat.",
+        "local-1": [
+            "The optimality theory in evolution suggests that an animal's behavior will be geared toward maximizing the benefits and minimizing the cost of a certain trait.",
+            "The word \"approximate\" in the question implies an estimation.",
+            "14 multiplied by 3 equals 42.",
+            "In the number 24,513, the digit 5 represents 50 due to its position in the tens place.",
+            "A gas laser uses the transitions that occur between the energy levels of atoms or molecules in the gas phase."
+        ],
+        "local-2": [
+            "The equilibrium constant is the ratio of the concentration of the products to the concentration of the reactants at equilibrium.",
+            "The formula for calculating the radiation force is Force = 2 * (Power/Area) / Speed of Light, given that the surface is a perfect mirror (completely reflecting).",
+            "Hares in Sweden do not have any major predators other than foxes. As such, their population is largely influenced by the presence of foxes.",
+            "The relative intensities α and 3α, refer to the intensities of the DMSO and AN in the 1H NMR spectrum, respectively. ",
+            "Significance levels and confidence intervals are related; a 5 percent level of significance corresponds to a 95 percent confidence interval.",
+            "X-rays are a type of electromagnetic radiation.",
+            "In the symplastic pathway, sugar is transferred from one cell to the next through the plasmodesmata, which are microscopic channels between plant cells that allow for transport and communication between them.",
+            "There are already nine bags in the storage room.",
+            "A snubber circuit is used to prevent voltage spikes.",
+            "Seven days make a week, from Sunday to Saturday."
+        ],
+        "global-1": [
+            "There are several theories of senescence including genetic theories, damage theories, and evolvability theories.",
+            "420 / 7 = 60",
+            "15 * 2 = 30",
+            "Less upwelling means less carbon dioxide is brought to the surface, leading to a decrease in the release of carbon dioxide to the atmosphere.",
+            "In the number 24,513, the digit 5 represents 50 due to its position in the tens place."
+        ],
+        "global-2": [
+            "Adler believed that understanding individuals’ behavior required looking at them holistically and in their social context.",
+            "A swimming pool is a place for swimming, often towel is provided for swimmers but not often borrowed to use at home.",
+            "Air travel has revolutionized transportation by making it faster and more efficient.",
+            "In the case of imprisonment for debt, ethical questions may revolve around whether this punishment would be just, fair and appropriate in all similar cases.",
+            "In the symplastic pathway, sugar is transferred from one cell to the next through the plasmodesmata, which are microscopic channels between plant cells that allow for transport and communication between them.",
+            "For safety reasons, it's advisable not to break a mirror intentionally.",
+            "Masters and Johnson, and Kaplan also contributed significantly to the field of sexual health, but they did not discover women's capacity for multiple orgasms.",
+            "$\\frac{195}{3}=65$",
+            "The Earth's core is made of iron and nickel and is responsible for Earth's magnetic field.",
+            "$2x+7=81$"
+        ]
+    },
+    {
+        "question": "Which of the following is a radioactive element? Choose from: A. Na, B. Cr, C. Am, D. Al",
+        "answer": "C. Am",
+        "subject": "high_school_chemistry",
+        "procedural-hint": [
+            "First, differentiate between radioactive and non-radioactive elements.",
+            "Analyze each given option and determine if the element is radioactive or not."
+        ],
+        "factual-hint": [
+            "A radioactive element is one whose nucleus decays, producing radiation.",
+            "Am (Americium), is a synthetic radioactive element.",
+            "Na (Sodium) is not a radioactive element.",
+            "Cr (Chromium) is not a radioactive element.",
+            "Al (Aluminum) is not a radioactive element."
+        ],
+        "noisy-factual-hint": [],
+        "reasoning": "First, differentiate between radioactive and non-radioactive elements. A radioactive element is one whose nucleus decays, producing radiation.\nAnalyze each given option and determine if the element is radioactive or not. Am (Americium), is a synthetic radioactive element. Na (Sodium) is not a radioactive element. Cr (Chromium) is not a radioactive element. Al (Aluminum) is not a radioactive element. \nTherefore, the answer is C. Am.",
+        "local-1": [
+            "As (Arsenic), P (Phosphorus), and Sb (Antimony) are commonly used as n-type dopants in germanium because they have five valence electrons, which is one more than required for a perfect bond with germanium. This extra electron is easily expelled from its parent atom and contributes to the electric current.",
+            "The value of ΔG° (change in Gibbs free energy) is less than zero for a spontaneous reaction.",
+            "Signal averaging reduces random errors by increasing the number of observations and calculating an average.",
+            "Merge sort has an average and worst-case time complexity of O(n log n).",
+            "A voltage clamping device restricts voltage to a fixed level."
+        ],
+        "local-2": [
+            "The speed of light is approximately 3 x 10^8 m/s.",
+            "A treatment group represents all the experimental units assigned to a specific combination of factors.",
+            "Inositol triphosphate (IP3) is a second messenger that regulates the release of calcium ions from the endoplasmic reticulum into the cytoplasm.",
+            "Physiology is the study of the functioning of organisms, how they work, and the biological processes that occur within them.",
+            "The formula to calculate average induced EMF is -Δϕ/Δt = -N ΔB/Δt. Here, 'N' is the number of turns in the coil, 'ΔB' is the change in magnetic field and 'Δt' is the time taken for the change.",
+            "The extension field is Q(sqrt(2), sqrt(3), sqrt(18)).",
+            "The base field in this question is Q, the field of rational numbers.",
+            "Random errors cause readings to be spread out over a wide range or some reasonably small range. They are created by unknown and unpredictable changes in the experiment.",
+            "The g(x) function multiplies the input by 5 and then adds 3.",
+            "The current standard deviation of the house prices in the city is $23,000."
+        ],
+        "global-1": [
+            "Intra-arterial tissue plasminogen activator (tPA) therapy is a treatment for stroke.",
+            "May also sees a fair number of weddings, but not as much as August.",
+            "Sedentary behavior is associated with activities that require minimal movement and energy expenditure.",
+            "The conspiracy theory of \"Bielefeld Does Not Exist\" originated as an internet joke.",
+            "Legal theories of punishment address the legal implications of punishment, and preventive theories focus on preventing future crimes."
+        ],
+        "global-2": [
+            "Force of gravity doesn't directly produce waves in terms of voices or seismic activities.",
+            "Quartz, galena, and diamond are not used to produce aluminum.",
+            "Transference can manifest as irrational reactions towards the therapist, including hostility.",
+            "Higher adult illiteracy rates may hinder economic growth as it often results in a less skilled workforce.",
+            "Foxes are omnivores, meaning they eat a variety of foods including fruits.",
+            "There is speculation that Salieri might have been responsible for Mozart's death, but this is not proven.",
+            "Less grass and more bare soil is a sign of overgrazing.",
+            "Equal forces applied in opposite directions result in no net movement.",
+            "Asking questions is a way to obtain information.",
+            "When $a=3$, $b=1$ correspondingly, $(a+b\\sqrt{43})^2 = 52 + 6\\sqrt{43}$"
+        ]
+    },
+    {
+        "question": "A toy car and a toy truck collide. If the toy truck’s mass is double the toy car’s mass, then, compared to the acceleration of the truck, the acceleration of the car during the collision will be Choose from: A. double the magnitude and in the same direction, B. double the magnitude and in the opposite direction, C. half the magnitude and in the same direction, D. half the magnitude and in the opposite direction",
+        "answer": "B. double the magnitude and in the opposite direction",
+        "subject": "high_school_physics",
+        "procedural-hint": [
+            "Begin by understanding Newton's third law of motion and how it applies to collisions.",
+            "Consider the relationship between mass and acceleration, especially when one object has double the mass of the other.",
+            "Analyze each option and choose the best answer."
+        ],
+        "factual-hint": [
+            "Newton's third law of motion states that for every action, there is an equal and opposite reaction.",
+            "Acceleration is inversely proportional to mass when the force is constant. That is, a lighter object will have a greater acceleration than a heavier object when subjected to the same force."
+        ],
+        "noisy-factual-hint": [],
+        "reasoning": "Begin by understanding Newton's third law of motion and how it applies to collisions. Newton's third law of motion states that for every action, there is an equal and opposite reaction.\nConsider the relationship between mass and acceleration, especially when one object has double the mass of the other. Acceleration is inversely proportional to mass when the force is constant. That is, a lighter object will have a greater acceleration than a heavier object when subjected to the same force.\nAnalyze each option and choose the best answer.\nTherefore, the answer is B. double the magnitude and in the opposite direction.",
+        "local-1": [
+            "Second messengers are molecules that relay signals received at receptors on the cell surface to target molecules inside the cell.",
+            "The absolute value of a difference is the distance between the two numbers on a number line."
+        ],
+        "local-2": [
+            "Cyclic AMP (cAMP) is a second messenger important in many biological processes, but it is not directly associated with the release of calcium ions.",
+            "The number 17 is a prime number, and the sum of its digits is 8.",
+            "B (Boron) is used to create p-type semiconductors, not n-type. It has three valence electrons and can accept an additional electron, hence creating a hole (positive charge carrier).",
+            "The horizontal speed of the stone remains constant throughout the fall."
+        ],
+        "global-1": [
+            "Genetic engineering is the direct manipulation of an organism's genes using biotechnology.",
+            "Shabad in Sikhism means 'word' and is considered divine."
+        ],
+        "global-2": [
+            "A number times its reciprocal is one.",
+            "DeepMind is known for developing an AI program that can play video games and beat human professionals at the board game Go.",
+            "Stating one's name is a form of introduction.",
+            "If a/b = c, then a = b * c. This can be applied to the equation to find the value of y."
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "question": "Evaluate\n\\[\\begin{vmatrix} 0 & b - a & c - a \\\\ a - b & 0 & c - b \\\\ a - c & b - c & 0 \\end{vmatrix}.\\]",
+        "answer": "0",
+        "reference": "We can expand the determinant as follows:\n\\begin{align*}\n\\begin{vmatrix} 0 & b - a & c - a \\\\ a - b & 0 & c - b \\\\ a - c & b - c & 0 \\end{vmatrix} &= -(b - a) \\begin{vmatrix} a - b & c - b \\\\ a - c & 0 \\end{vmatrix} + (c - a) \\begin{vmatrix} a - b & 0 \\\\ a - c & b - c \\end{vmatrix} \\\\\n&= -(b - a)(-(c - b)(a - c)) + (c - a)(a - b)(b - c) \\\\\n&= \\boxed{0}.\n\\end{align*}",
+        "level": "Level 1",
+        "type": "Precalculus"
+    },
+    {
+        "question": "Point $D$ is on side $\\overline{BC}$ of triangle $ABC.$  If $\\angle CAD = \\angle BAD = 60^\\circ,$ $AC = 3,$ and $AB = 6,$ then find $AD.$",
+        "answer": "2",
+        "reference": "By the Angle Bisector Theorem,\n\\[\\frac{BD}{AB} = \\frac{CD}{AC},\\]or $\\frac{BD}{6} = \\frac{AC}{3},$ so $BD = 2CD.$  Let $x = CD$; then $BD = 2x.$\n\n[asy]\nunitsize (0.8 cm);\n\npair A, B, C, D;\n\nB = (0,0);\nC = (3*sqrt(7),0);\nA = intersectionpoint(arc(B,6,0,180),arc(C,3,0,180));\nD = interp(B,C,2/3);\n\ndraw(A--B--C--cycle);\ndraw(A--D);\n\nlabel(\"$A$\", A, N);\nlabel(\"$B$\", B, SW);\nlabel(\"$C$\", C, SE);\nlabel(\"$D$\", D, S);\nlabel(\"$3$\", (A + C)/2, NE);\nlabel(\"$6$\", (A + B)/2, NW);\nlabel(\"$x$\", (C + D)/2, S);\nlabel(\"$2x$\", (B + D)/2, S);\nlabel(\"$d$\", (A + D)/2, W);\n[/asy]\n\nLet $d = AD.$  Then by the Law of Cosines on triangle $ABD,$\n\\[4x^2 = d^2 + 36 - 2 \\cdot d \\cdot 6 \\cos 60^\\circ = d^2 - 6d + 36.\\]By the Law of Cosines on triangle $ACD,$\n\\[x^2 = d^2 + 9 - 2 \\cdot d \\cdot 3 \\cos 60^\\circ = d^2 - 3d + 9.\\]Hence, $4(d^2 - 3d + 9) = d^2 - 6d + 36.$  This simplifies to $3d^2 - 6d = 3d(d - 2) = 0.$  Therefore, $d = \\boxed{2}.$",
+        "level": "Level 3",
+        "type": "Precalculus"
+    },
+    {
+        "question": "Find the number of solutions to\n\\[\\sec \\theta + \\csc \\theta = \\sqrt{15}\\]where $0 \\le \\theta \\le 2 \\pi.$",
+        "answer": "4",
+        "reference": "Let $a = \\cos \\theta$ and $b = \\sin \\theta,$ so\n\\[\\frac{1}{a} + \\frac{1}{b} = \\sqrt{15}.\\]Then $\\frac{a + b}{ab} = \\sqrt{15},$ so\n\\[a + b = ab \\sqrt{15}.\\]Squaring both sides, we get\n\\[a^2 + 2ab + b^2 = 15a^2 b^2.\\]We know $a^2 + b^2 = \\cos^2 \\theta + \\sin^2 \\theta = 1,$ so\n\\[15a^2 b^2 - 2ab - 1 = 0.\\]This factors as $(3ab - 1)(5ab + 1) = 0,$ so $ab = \\frac{1}{3}$ or $ab = -\\frac{1}{5}.$\n\nIf $ab = \\frac{1}{3},$ then $a + b = ab \\sqrt{15} = \\frac{\\sqrt{15}}{3}.$  Then $a$ and $b$ are the roots of\n\\[t^2 - \\frac{\\sqrt{15}}{3} t + \\frac{1}{3} = 0.\\]We can check that both roots are real, and lie between $-1$ and 1.\n\nIf $ab = -\\frac{1}{5},$ then $a + b = ab \\sqrt{15} = -\\frac{\\sqrt{15}}{5}.$  Then $a$ and $b$ are the roots of\n\\[t^2 + \\frac{\\sqrt{15}}{5} t - \\frac{1}{5} = 0.\\]Again, we can check that both roots are real, and lie between $-1$ and 1.\n\nThus, there are four possible pairs $(a,b) = (\\cos \\theta, \\sin \\theta),$ where $a$ and $b$ are all between $-1$ and 1.  Each pair leads to a unique solution $\\theta \\in [0, 2 \\pi],$ so there are $\\boxed{4}$ solutions $\\theta.$",
+        "level": "Level 3",
+        "type": "Precalculus"
+    },
+    {
+        "question": "In a three-dimensional coordinate system with origin $O,$ points $A,$ $B,$ and $C$ are on the $x$-, $y$-, and $z$-axes, respectively.   If the areas of triangles $OAB,$ $OAC,$ and $OBC$ are 4, 6, and 12, respectively, compute the area of triangle $ABC.$",
+        "answer": "14",
+        "reference": "Let $A = (a,0,0),$ $B = (0,b,0),$ and $C = (0,0,c).$  Without loss of generality, we can assume that $a,$ $b,$ and $c$ are positive.\n\n[asy]\nimport three;\n\nsize(250);\ncurrentprojection = perspective(6,3,2);\n\ntriple A, B, C, O;\n\nA = (1,0,0);\nB = (0,2,0);\nC = (0,0,3);\nO = (0,0,0);\n\ndraw(O--(4,0,0));\ndraw(O--(0,4,0));\ndraw(O--(0,0,4));\ndraw(A--B--C--cycle);\n\nlabel(\"$A$\", A, S);\nlabel(\"$B$\", B, S);\nlabel(\"$C$\", C, NW);\nlabel(\"$O$\", O,  NE);\n[/asy]\n\nThen $\\frac{ab}{2} = 4,$ $\\frac{ac}{2} = 6,$ and $\\frac{bc}{2} = 12,$ so\n\\begin{align*}\nab &= 8, \\\\\nac &= 12, \\\\\nbc &= 24.\n\\end{align*}Multiplying all these equations, we get $a^2 b^2 c^2 = 2304,$ so $abc = 48.$  Hence, $a = \\frac{48}{24} = 2,$ $b = \\frac{48}{12} = 4,$ and $c = \\frac{48}{8} = 6.$\n\nThen\n\\begin{align*}\nAB &= \\sqrt{a^2 + b^2} = 2 \\sqrt{5}, \\\\\nAC &= \\sqrt{a^2 + c^2} = 2 \\sqrt{10}, \\\\\nBC &= \\sqrt{b^2 + c^2} = 2 \\sqrt{13}.\n\\end{align*}By Heron's Formula,\n\\begin{align*}\n[ABC]^2 &= (\\sqrt{5} + \\sqrt{10} + \\sqrt{13})(-\\sqrt{5} + \\sqrt{10} + \\sqrt{13})(\\sqrt{5} - \\sqrt{10} + \\sqrt{13})(\\sqrt{5} + \\sqrt{10} - \\sqrt{13}) \\\\\n&= ((\\sqrt{10} + \\sqrt{13})^2 - 5)(5 - (\\sqrt{10} - \\sqrt{13})^2) \\\\\n&= (2 \\sqrt{130} + 18)(2 \\sqrt{130} - 18) \\\\\n&= 196,\n\\end{align*}so $[ABC] = \\boxed{14}.$",
+        "level": "Level 3",
+        "type": "Precalculus"
+    },
+    {
+        "question": "Equiangular hexagon $ABCDEF$ has side lengths $AB=CD=EF=1$ and $BC=DE=FA=r$. The area of triangle $ACE$ is $70\\%$ of the area of the hexagon. What is the sum of all possible values of $r$?",
+        "answer": "6",
+        "reference": "It is clear that triangle $ACE$ is an equilateral triangle. From the Law of Cosines on triangle $ABC$, we get that\n\\[AC^2 = r^2+1^2-2r\\cos 60^\\circ = r^2+r+1.\\]Therefore, the area of triangle $ACE$ is $\\frac{\\sqrt{3}}{4}(r^2+r+1)$.\n\nIf we extend $\\overline{AB}$, $\\overline{CD},$ and $\\overline{EF}$ so that $\\overline{EF}$ and $\\overline{AB}$ meet at $X$, $\\overline{AB}$ and $\\overline{CD}$ meet at $Y$, and $\\overline{CD}$ and $\\overline{EF}$ meet at $Z$, we find that hexagon $ABCDEF$ is formed by taking equilateral triangle $XYZ$ of side length $2r+1$ and removing three equilateral triangles $FXA$, $BYC$ and $DZE$, of side length $r$. The area of $ABCDEF$ is therefore\n\\[\\frac{\\sqrt{3}}{4}(2r + 1)^2-\\frac{3\\sqrt{3}}{4} r^2 = \\frac{\\sqrt{3}}{4}(r^2+4r+1).\\][asy]\nunitsize (4 cm);\n\nreal r = 0.5;\n\npair A, B, C, D, E, F, X, Y, Z;\n\nA = (r,0);\nB = A + (1,0);\nC = B + r*dir(60);\nD = C + dir(120);\nE = D + (-r,0);\nF = E + dir(240);\nX = (0,0);\nY = B + (r,0);\nZ = D + r*dir(120);\n\ndraw(A--B--C--D--E--F--cycle);\ndraw(A--C--E--cycle);\ndraw(F--X--A,dashed);\ndraw(B--Y--C,dashed);\ndraw(D--Z--E,dashed);\n\nlabel(\"$A$\", A, S);\nlabel(\"$B$\", B, S);\nlabel(\"$C$\", C, NE);\nlabel(\"$D$\", D, NE);\nlabel(\"$E$\", E, NW);\nlabel(\"$F$\", F, NW);\nlabel(\"$X$\", X, SW);\nlabel(\"$Y$\", Y, SE);\nlabel(\"$Z$\", Z, N);\nlabel(\"$1$\", (A + B)/2, S);\nlabel(\"$r$\", (B + C)/2, SE);\n[/asy]\n\n\nBased on the initial conditions,\n$$\\frac{\\sqrt{3}}{4}(r^2+r+1) = \\frac{7}{10}\\left(\\frac{\\sqrt{3}}{4}\\right)(r^2+4r+1).$$Simplifying this gives us $r^2-6r+1 = 0$. By Vieta's Formulas, we know that the sum of the possibles value of $r$ is $\\boxed{6}$.",
+        "level": "Level 2",
+        "type": "Precalculus"
+    }
+]

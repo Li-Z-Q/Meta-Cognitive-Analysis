@@ -1,0 +1,360 @@
+[
+    {
+        "question": "Where would you keep a rug near your front door? Choose from: A. persia, B. desk, C. table, D. living room, E. hall",
+        "answer": "D. living room",
+        "reference": "A rug near the front door would typically be placed in an area that is adjacent to or near the entrance of the home to ensure cleanliness and add aesthetic appeal. The living room is a common area that is often close to the front door and where guests are frequently entertained. Therefore, placing a rug in the living room near the front door would be both functional and decorative. Other options such as Persia is a country and not a location within a house, a desk and table are furniture pieces not typically located near the front door, and the hall, while close to the entrance, is more of a passageway rather than a place to put a decorative rug. Thus, the most appropriate choice is the living room.",
+        "procedural-hint": [
+            "Consider what is a rug, which is near the front door in a house.",
+            "Consider the use and characteristics of each option and decide which one is the most likely place to keep a rug near the front door."
+        ],
+        "factual-hint": [
+            "A rug is a piece of cloth used to cover the floor.",
+            "Persia is a historical and geographical place.",
+            "A desk is used as a workplace.",
+            "A table is a piece of furniture used to hold items.",
+            "The living room is a room in a house often located near the front door.",
+            "A hall typically refers to a narrow passage or a larger public space in buildings."
+        ],
+        "noisy-factual-hint": [
+            [
+                "Carpets can add warmth and style to any room.",
+                "Floor mats come in various designs and serve both functional and decorative purposes."
+            ],
+            [
+                "The Persian Empire was once a dominant force in the ancient world.",
+                "Persia, known today as Iran, has a rich cultural and historical heritage."
+            ],
+            [
+                "Many professionals utilize tables to organize their materials and tasks.",
+                "An office often features a desk for employees to complete their duties."
+            ],
+            [
+                "The family typically gathers in the living room for relaxation and entertainment.",
+                "Living rooms are commonly decorated with comfortable furniture and decorative items."
+            ],
+            [
+                "Many buildings have corridors that connect different rooms.",
+                "Conventions and events are often held in the spacious areas known as halls."
+            ]
+        ],
+        "reasoning": "Consider what is a rug, which is near the front door in a house. A rug is a piece of cloth used to cover the floor.\n Consider the use and characteristics of each option and decide which one is the most likely place to keep a rug near the front door. Persia is a historical and geographical place. A desk is used as a workplace. A table is a piece of furniture used to hold items. The living room is a room in a house often located near the front door. A hall typically refers to a narrow passage or a larger public space in buildings. \nTherefore, the answer is D. living room.",
+        "local-1": [
+            "Papers might be referred to documents or sheets of paper that are typically written or printed on for work.",
+            "An automobile is a vehicle used for transportation.",
+            "Western Texas is a region in the U.S. state of Texas.",
+            "Enjoyable refers to something that brings pleasure or delight.",
+            "A forest is a large area covered primarily with trees and undergrowth.",
+            "A hot dog is a type of food often available at sporting events."
+        ],
+        "local-2": [
+            "A public building is a building that is accessible to the general public.",
+            "A closet is a small room or compartment for storing things.",
+            "Getting lost can be dangerous.",
+            "A satchel is a type of bag.",
+            "The countryside usually has lesser traffic and fewer buildings than towns or cities.",
+            "A kitchen is a room where food is prepared.",
+            "A family reunion is a gathering of relatives.",
+            "A mezzanine is an intermediate floor in a building. ",
+            "Fly in airplane involves travel via an aircraft. ",
+            "Accidental refers to something happening by chance, unintentionally, or unexpectedly.",
+            "Heartburn is a burning sensation in the chest caused by stomach acid reflux.",
+            "A fire extinguisher is a device used to put out small fires."
+        ],
+        "global-1": [
+            "An octagonal prism has 2 bases.",
+            "There is no physical reaction that occurs to an individual's pants when they lie.",
+            "A bounded function is restricted to a specific range of outputs.",
+            "Birds are vertebrates.",
+            "1 * 20 = 20",
+            "Hyperglycemia refers to high blood sugar, which is a symptom of diabetes."
+        ],
+        "global-2": [
+            "Seventeen bags will be delivered on Monday.",
+            "Effusive is characterized by expressing feelings or gratitude, pleasure, or approval in an unrestrained or heartfelt manner.",
+            "Seeing the full moon has no direct biological impact on human beings.",
+            "20 + 13 = 33",
+            "$16 - 21 = -5$",
+            "Water is a compound, it does not have life.",
+            "$\\frac{10!(1+11+11\\cdot 12)}{10!(1+11)} = \\frac{1+11+11\\cdot 12}{1+11} = 12.$",
+            "The phrase \"Luke, I am your father\" is a popular misquote.",
+            "Combination equation $C(n, k) = \\frac{n!}{k!(n-k)!}$",
+            "The relative fitness of an organism is defined as its genetic contribution to the next generation compared to the average for the population. Consequently, traits that enhance this fitness could potentially persist in a population's gene pool.",
+            "Solar emissions are often energetic particles.",
+            "$1 \\bmod 5 = 1$"
+        ]
+    },
+    {
+        "question": "Danny found an old film in a sealed what? Choose from: A. clingfilm, B. disneyland, C. cave, D. cabinet, E. movie",
+        "answer": "D. cabinet",
+        "procedural-hint": [
+            "Consider what is an old film, which is found in a sealed container.",
+            "Consider the use and characteristics of each option and decide which one is the most likely place to find an old film."
+        ],
+        "factual-hint": [
+            "An old film is a movie that was made a long time ago.",
+            "Clingfilm is a thin plastic film used to wrap food.",
+            "Disneyland is a theme park.",
+            "A cave is a natural underground space.",
+            "A cabinet is a piece of furniture used to store items.",
+            "A movie is a form of entertainment."
+        ],
+        "noisy-factual-hint": [
+            [
+                "Vintage movies offer a glimpse into past eras and cultures.",
+                "Classic cinema has a unique charm that captivates audiences even today."
+            ],
+            [
+                "Plastic wrap helps preserve the freshness of perishables.",
+                "Many households utilize clingfilm to keep leftovers sealed and fresh."
+            ],
+            [
+                "Disneyland offers a magical experience for visitors of all ages.",
+                "Families visit Disneyland to enjoy its rides and attractions."
+            ],
+            [
+                "Caves are often formed by the erosion of rock.",
+                "Caves are home to unique geological formations."
+            ],
+            [
+                "A wardrobe is a type of furniture designed for storing clothing and accessories.",
+                "Kitchen cabinets are commonly used for organizing cookware and utensils."
+            ],
+            [
+                "Watching films is a popular way to enjoy leisure time.",
+                "Movies provide a source of amusement and relaxation for many people."
+            ]
+        ],
+        "reasoning": "Consider what is an old film, which is found in a sealed container. An old film is a movie that was made a long time ago.\n Consider the use and characteristics of each option and decide which one is the most likely place to find an old film. Clingfilm is a thin plastic film used to wrap food. Disneyland is a theme park. A cave is a natural underground space. A cabinet is a piece of furniture used to store items. A movie is a form of entertainment. \nTherefore, the answer is D. cabinet.",
+        "local-1": [
+            "A public building is a building that is accessible to the general public.",
+            "'Done' in cooking refers to the desired level of cooking or doneness of meat.",
+            "Floors refer to a level of a building. ",
+            "A heifer is a young female cow.",
+            "Procreate means to produce young; reproduce.",
+            "Dust is a fine, dry powder that can accumulate in places that aren't frequently cleaned."
+        ],
+        "local-2": [
+            "Comparison shopping is the practice of comparing prices before buying.",
+            "A used car is a vehicle that has had one or more retail owners.",
+            "Compliments are positive remarks or statements.",
+            "Throwing things can be considered a physical activity.",
+            "Public restrooms are shared bathrooms used by the general public.",
+            "A water cooler is a machine that cools and dispenses water.",
+            "Heirlooms are valuable objects that have been given by older members of a family to younger members of the same family over many years.",
+            "Staying in place means not moving.",
+            "Most businesses typically deal with commerce or services.",
+            "Wrinkles are creases in the skin.",
+            "\"Looking good\" refers to the car's external appearances being appealing.",
+            "A sky is the expanse above the earth."
+        ],
+        "global-1": [
+            "Freezing is a phase transition where a liquid turns into a solid when its temperature is lowered below its freezing point.",
+            "$g(x)=x-1$",
+            "The number 26 cannot be divided evenly by 4.",
+            "A bounded function is restricted to a specific range of outputs.",
+            "Diffusion of innovation deals with how, why, and at what rate new ideas and technology spread. ",
+            "K-selected species are typically slow-growing and long-lived, investing energy in producing few offspring with high survival rates, in contrast with r-selected species."
+        ],
+        "global-2": [
+            "The discovery of tectonic plates and their movement is a major part of geology.",
+            "Increasing government spending during a recession can stimulate the economy and increase the real GDP.",
+            "Immigrating to the United States to become a resident is a legal process and isn't considered morally wrong provided the process is followed correctly.",
+            "Insulin controls blood sugar and plays a role in metabolism.",
+            "Infectious diseases are caused by pathogenic microorganisms, such as bacteria, viruses, parasites or fungi.",
+            "Composting grass clippings creates natural fertilizer and reduces waste.",
+            "Dick Dastardly is a cartoon character known from the television show Wacky Races, not as an enemy of Underdog.",
+            "Increasing available energy might not be related to parasite infection.",
+            "Parent isotopes are the original amount of the elemental isotopes being investigated in radioactive decay.",
+            "The rotation of Earth on its axis primarily causes day and night.",
+            "100 meters is the total distance ran by Anna.",
+            "A fair coin has an equal probability of landing on heads or tails (i.e., 1/2 or 50% for each outcome)."
+        ]
+    },
+    {
+        "question": "The earth is one planet in what? Choose from: A. tree, B. orbit, C. solar system, D. fotograph, E. dreams",
+        "answer": "C. solar system",
+        "procedural-hint": [
+            "Consider the nature of the earth, which is one planet in a system of celestial bodies.",
+            "Consider the use and characteristics of each option and decide which one is the most likely system of celestial bodies."
+        ],
+        "factual-hint": [
+            "The earth is a planet.",
+            "A tree is a type of plant.",
+            "An orbit is a path around a celestial body.",
+            "A solar system is a system of celestial bodies revolving around a star.",
+            "A photograph is a picture created using a camera.",
+            "Dreams are images, ideas, emotions and sensations experienced during sleep."
+        ],
+        "noisy-factual-hint": [],
+        "reasoning": "Consider the nature of the earth, which is one planet in a system of celestial bodies. The earth is a planet in solar system. \nConsider the use and characteristics of each option and decide which one is the most likely system of celestial bodies. A tree is a type of plant. An orbit is a path around a celestial body. A solar system is a system of celestial bodies revolving around a star. A photograph is a picture created using a camera. Dreams are images, ideas, emotions and sensations experienced during sleep. \nTherefore, the answer is C. solar system.",
+        "local-1": [
+            "Eating is the process of consuming food for energy.",
+            "A headache is a symptom of pain in the head.",
+            "A music class is a place where people learn to play musical instruments.",
+            "Throwing refers to propelling an object into the air by a quick movement of the arm.",
+            "A bodycam is a video recording system typically used by law enforcement officers.",
+            "Headache is a common condition that causes pain in any region of the head."
+        ],
+        "local-2": [
+            "Happiness is a state of well-being and contentment.",
+            "Being jobless means not having employment.",
+            "A house is a building for human habitation.",
+            "The phrase \"may fall\" suggests a possibility of moving downwards due to gravity.",
+            "A loving couple is two people in a relationship who love each other.",
+            "England is known for its aristocracy and fox hunting.",
+            "A classroom is a place where learning occurs.",
+            "High grass refers to tall grasses and is not a body of water.",
+            "A boscage is a mass of trees or shrubs.",
+            "A store is a place where goods are sold.",
+            "Bones are rigid organs that make up the skeleton of vertebrates.",
+            "A town is a human settlement that is larger than a village and smaller than a city."
+        ],
+        "global-1": [
+            "Improving a sports drink's taste could keep the same nutritional content.",
+            "The intensity of a peak in the 1H NMR spectrum is proportional to the number of protons that contribute to that peak.",
+            "A sink is a bowl-shaped plumbing fixture used for washing hands or small objects.",
+            "Each clown has 2 legs and 1 head.",
+            "Additive inverse: For every $a$ there exists $-a$ such that $a + (-a) = 0$ or $-a + a =0$. ",
+            "Stringent security measures can sometimes impact usability, making the system less attractive to end users."
+        ],
+        "global-2": [
+            "Light travels at a speed of about 300,000 kilometers per second.",
+            "The notion of replacing indigenous labor with African slave labor, the foundation of viceroyalties, or enfranchisement of natives are all potential policy responses, but not all were necessarily prompted by the described injustices.",
+            "Seed distribution refers to the movement or transport of seeds away from the parent plant.",
+            "An animal losing an ability can be due to genetic drift. ",
+            "G6PD deficiency is known to have an X-linked recessive pattern of inheritance, meaning it's tied to genes on the X chromosome and it needs two copies of the gene (one from each parent) to show the trait or disorder.",
+            "Weather changes might affect predators, but it's not likely the most crucial aspect for nighttime hunting.",
+            "In this case, Toft Co. had 120,000 shares of common stock outstanding at January 1, and it also issued an additional 40,000 shares on April 1.",
+            "Sampling error is the difference between the characteristics of a sample and the characteristics of the population from which it was drawn.",
+            "The kind of food is directly related to the dog's preference, which is what Sandy is investigating. ",
+            "There is no documented evidence of a real giant beanstalk existing. ",
+            "A bedroom is a room in a house typically used for sleeping.",
+            "Maximum likelihood (ML) estimation is a statistical method that finds the values of the parameters that maximize the likelihood function."
+        ]
+    },
+    {
+        "question": "What is someone operating a vehicle likely to be accused of after becoming inebriated? Choose from: A. punish, B. arrest, C. automobile accidents, D. drunk driving, E. talking nonsense",
+        "answer": "D. drunk driving",
+        "procedural-hint": [
+            "Consider the act of operating a vehicle while being inebriated.",
+            "Think about the legal implications and common phrases associated with such an act. Which option represents an accusation or consequence of that behavior?"
+        ],
+        "factual-hint": [
+            "Inebriation means being drunk or intoxicated.",
+            "Punish means to impose a penalty for an offense.",
+            "Arrest means to take someone into custody by legal authority.",
+            "Automobile accidents refer to collisions involving vehicles.",
+            "Drunk driving is the act of operating a vehicle after consuming alcohol beyond the legal limit.",
+            "Talking nonsense means speaking without making much sense."
+        ],
+        "noisy-factual-hint": [],
+        "reasoning": "Consider the act of operating a vehicle while being inebriated. Inebriation means being drunk or intoxicated. \nThink about the legal implications and common phrases associated with such an act. Which option represents an accusation or consequence of that behavior? Punish means to impose a penalty for an offense. Arrest means to take someone into custody by legal authority. Automobile accidents refer to collisions involving vehicles. Drunk driving is the act of operating a vehicle after consuming alcohol beyond the legal limit. Talking nonsense means speaking without making much sense. \nTherefore, the answer is D. drunk driving.",
+        "local-1": [
+            "North Dakota, the U.S. state, is known for its Great Plains with areas of rugged beauty.",
+            "Phoning refers to making a telephone call.",
+            "An ocean is a large body of salt water.",
+            "A kitchen is a room where food is prepared.",
+            "Spending a long time on your feet can lead to foot discomfort.",
+            "Traveling is associated with moving from one location to another."
+        ],
+        "local-2": [
+            "To \"start running\" usually refers to the engine of the car starting properly.",
+            "\"Found in ocean\" refers to something existing or located in the ocean.",
+            "A bathhouse is a place where people bathe.",
+            "A documentary is a type of non-fiction film.",
+            "A sailor suit is a type of clothing.",
+            "A stock certificate is a document that certifies ownership of shares in a corporation.",
+            "An ocean is a large body of salt water.",
+            "Making peace typically means ending conflict and promoting friendliness.",
+            "Turkey is a country.",
+            "Shopping malls are large enclosed buildings containing many individual shops.",
+            "New York City is a major metropolis.",
+            "A water cooler is a machine that cools and dispenses water."
+        ],
+        "global-1": [
+            "-4*8-2=-34",
+            "In the case of a negative externality, resources are often overallocated to produce a particular good, resulting in social costs.",
+            "The word \"Guru\" in Sikhism is used to refer to the enlightened ones who are spiritual leaders. ",
+            "Utilitarianism is an ethical theory that states that the best action is the one that maximizes utility, often defined as well-being or happiness.",
+            "Inherent powers are those powers that a president possesses by virtue of his or her status as the chief executive.",
+            "Goldfish do have long-term memory and can remember things for months."
+        ],
+        "global-2": [
+            "A trade-off occurs when improving one characteristic may lead to the deterioration of another characteristic.",
+            "When a dog has a tapeworm, it can lose weight and become ill.",
+            "The movement of molecules can affect the speed of sound.",
+            "In a variable ratio (VR) schedule, the number of responses needed for a reward varies. ",
+            "\"Baked in oven\" describes a cooking process.",
+            "A lizard is a type of reptile.",
+            "Language plays a critical role in securitization, particularly through \"speech acts\", which are utterances that in being said, perform a certain action.",
+            "Fatty acids are made from carbohydrates and amino acids, but they cannot be converted back.",
+            "The EPA is primarily interested in addressing human-caused environmental issues.",
+            "Nabisco, originally known as the National Biscuit Company, is well recognized as the producer of Oreo cookies.",
+            "11 - 6 - 3 = 2",
+            "In some countries like Japan and South Korea, the legal voting age is 19."
+        ]
+    },
+    {
+        "question": "The town house went right to the curb, a slot effectively made a mailbox of the what? Choose from: A. apartment building, B. front door, C. back door, D. street corner, E. porch",
+        "answer": "B. front door",
+        "procedural-hint": [
+            "Consider what a town house is and its positioning relative to the curb.",
+            "Think about the significance of a slot and its function in relation to a house.",
+            "Consider the use and characteristics of each option and decide which one is most likely to be made into a mailbox by the slot."
+        ],
+        "factual-hint": [
+            "A town house typically shares one or more walls with other similar houses and is often multi-storied.",
+            "An apartment building is a large building containing individual residences.",
+            "A front door is the primary entrance to a residence.",
+            "A back door is an entrance located at the rear of a building.",
+            "A street corner is where two streets intersect.",
+            "A porch is a covered entrance to a building, often elevated from the ground."
+        ],
+        "noisy-factual-hint": [],
+        "reasoning": "Consider what a town house is and its positioning relative to the curb. Think about the significance of a slot and its function in relation to a house. A town house typically shares one or more walls with other similar houses and is often multi-storied. \nConsider the use and characteristics of each option and decide which one is most likely to be made into a mailbox by the slot. An apartment building is a large building containing individual residences. A front door is the primary entrance to a residence. A back door is an entrance located at the rear of a building. A street corner is where two streets intersect. A porch is a covered entrance to a building, often elevated from the ground. \nTherefore, the answer is B. front door.",
+        "local-1": [
+            "A bathroom usually contains a toilet, sink and other fixtures.",
+            "Regret is a feeling of sorrow about something one has done or failed to do.",
+            "Remembering the past means recalling past events or experiences.",
+            "Obesity is a medical condition involving excess body fat.",
+            "Meeting is the act of coming together.",
+            "To teach is to impart knowledge or skills."
+        ],
+        "local-2": [
+            "Excitement is a feeling of great enthusiasm and eagerness.",
+            "Getting answers means receiving information or solution to a question or problem.",
+            "A bowling alley is a place where the game of bowling is played.",
+            "Listening to the radio involves audio entertainment or information.",
+            "A refrigerator is an appliance for preserving food at a low temperature.",
+            "A bodycam is a video recording system typically used by law enforcement officers.",
+            "An ocean is a large body of salt water that covers most of the earth's surface.",
+            "Buy a fat pig may be associated with livestock markets. ",
+            "Prehistoric times refers to the time prior to recorded history.",
+            "A big town typically has many buildings and is populated.",
+            "Getting wet can be uncomfortable.",
+            "To demote means to lower in rank or position."
+        ],
+        "global-1": [
+            "Nathanson suggests treating criminals humanely, not adhering to capital punishments like the death penalty.",
+            "Guru refers to a spiritual guide as per Sikh philosophy.",
+            "A corner is where two sides or edges meet at a right angle.",
+            "The Fifth Amendment of the U.S Constitution provides individuals the right to avoid self-incrimination.",
+            "$10.0000198$  is close to $10$",
+            "The ozone layer protects Earth from harmful solar radiation."
+        ],
+        "global-2": [
+            "Many scientists, based on the theory of evolution, argue that there was no 'first' man or woman, instead hominids gradually evolved into Homo Sapiens.",
+            "A stockyard is a large yard containing pens and sheds, typically adjacent to a slaughterhouse.",
+            "Increased light influx to the eyes can cause damage.",
+            "In reality, the action of sticking chopsticks vertically in food does not cause any supernatural events.",
+            "The area of a triangle with base 3 units and height 4 units is $6$ square units.",
+            "This method is designed to eliminate the chances of both experimenter and subject bias.",
+            "A resistor limits the flow of heat or electricity, while an insulator blocks the transfer of heat or electricity.",
+            "Because of its shape and size, a penny dropped from a great height would reach terminal velocity and would not continue to accelerate.",
+            "10 - 8 = 2",
+            "Phosphorus is located in Group 15 of the Periodic Table.",
+            "Group 4 (4A) elements are carbon group elements which includes carbon and silicon.",
+            "RNA stands for Ribonucleic Acid, a molecule involved in several essential roles in encoding, decoding, regulating, and expressing genes."
+        ]
+    }
+]

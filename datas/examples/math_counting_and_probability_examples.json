@@ -1,0 +1,37 @@
+[
+    {
+        "question": "How many prime numbers have squares between 100 and 300?",
+        "answer": "3",
+        "reference": "Since $10^2 =100$, $17^2 = 289$, and $18^2=324$, we know that the integers whose squares are between 100 and 300 are the integers between 10 and 18.  Between 10 and 18, 3 primes exist: 11, 13, 17, thus the answer is $\\boxed{3}$.",
+        "level": "Level 1",
+        "type": "Counting & Probability"
+    },
+    {
+        "question": "How many prime numbers less than 100 have a units digit of 3?",
+        "answer": "7",
+        "reference": "We list out all the positive integers less than 100 with a units digit of 3:  3, 13, 23, 33, 43, 53, 63, 73, 83, 93.  Of these, only 33, 63, and 93 are not prime.  Thus our answer is $\\boxed{7}$.",
+        "level": "Level 2",
+        "type": "Counting & Probability"
+    },
+    {
+        "question": "How many ordered pairs $(x, y)$ satisfy BOTH conditions below?\n\n$\\bullet$  Condition I: $x = 1$ or $y = 0$ or $y = 2$\n\n$\\bullet$  Condition II: $x = 0$ or $x = 2$ or $y = 1$",
+        "answer": "5",
+        "reference": "Proceed case-by-case in condition I. If $x = 1,$ then by condition II, $y = 1$ since the first two possibilities are excluded. If $y = 0,$ then either $x = 0$ or $x = 2.$ If $y = 2,$ then likewise, either $x = 0$ or $x = 2.$ This gives $\\boxed{5}$ possible ordered pairs.",
+        "level": "Level 3",
+        "type": "Counting & Probability"
+    },
+    {
+        "question": "Congruent segments are used to form equilateral triangles in this sequence so that each figure contains one more triangle than the preceding figure. Figure 3 of the sequence is made with seven congruent segments. How many congruent segments must be used to make Figure 25 of the sequence?\n\n[asy]\ndraw((0,0)--(10,0)--(5,8.7)--cycle);\ndraw((15,0)--(25,0)--(30,8.7)--(20,8.7)--cycle);\ndraw((20,8.7)--(25,0));\ndraw((35,0)--(55,0)--(50,8.7)--(40,8.7)--cycle);\ndraw((40,8.7)--(45,0)--(50,8.7));\ndraw((60,0)--(80,0)--(85,8.7)--(65,8.7)--cycle);\ndraw((65,8.7)--(70,0)--(75,8.7)--(80,0));\nlabel(\"Figure 1\",(2,0),S);\nlabel(\"Figure 2\",(20,-10),S);\nlabel(\"Figure 3\",(45,0),S);\nlabel(\"Figure 4\",(76,-10),S);\n[/asy]",
+        "answer": "51",
+        "reference": "It takes 2 additional segments to create an additional triangle after the first. Since Figure $n$ has $n$ triangles, Figure 25 has 25 triangles. It takes 3 segments to create the first triangle and $2\\cdot24=48$ segments to create the 24 additional triangles, for a total of $3+48=\\boxed{51}$ segments.",
+        "level": "Level 2",
+        "type": "Counting & Probability"
+    },
+    {
+        "question": "Fruit salad can be made with any $3$ of these $5$ fruits: apples, bananas, grapes, strawberries, and pineapples. If strawberries and pineapples do not taste good together and grapes and bananas do not look appetizing together, how many possible good tasting and appetizing salads are there?",
+        "answer": "4",
+        "reference": "The number of combinations of fruit possible is $\\binom{5}{3} = 10$. However, if strawberries and pineapples cannot go together, that decreases the number of combinations by three (because they could be paired with apples, grapes, or bananas). Similarly, if grapes and bananas cannot go together, the number of combinations is reduced by another three. Thus, $10 - 3 - 3 = \\boxed{4}$ such salads are possible.",
+        "level": "Level 3",
+        "type": "Counting & Probability"
+    }
+]

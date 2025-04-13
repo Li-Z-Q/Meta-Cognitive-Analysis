@@ -1,0 +1,37 @@
+[
+    {
+        "question": "Compute the square of 9997 without a calculator.",
+        "answer": "99940009",
+        "reference": "\\[9997^2=(10^4-3)^2=10^8-2\\cdot3\\cdot10^4+9.\\]We can factor out $10^4$ from the first two terms to make the computation easier: \\[9997^2=10^4(10^4-6)+9=10^4\\cdot9994+9=\\boxed{99940009}.\\]",
+        "level": "Level 3",
+        "type": "Algebra"
+    },
+    {
+        "question": "How many integers are in the solution set of $|x-2|\\leq5.6$ ?",
+        "answer": "11",
+        "reference": "Getting rid of the absolute value, we have $-5.6 \\le x-2 \\le 5.6$, or $-3.6 \\le x \\le 7.6$. Thus, $x$ can be any integer from -3 to 7, inclusive. There are $7-(-3)+1=\\boxed{11}$ integers in this range.",
+        "level": "Level 3",
+        "type": "Algebra"
+    },
+    {
+        "question": "If $70 + m + n - 20 = 80$ and $m = 2n$, then what is the value of $n$?",
+        "answer": "10",
+        "reference": "Substituting $m=2n$ into the first equation gives $70 + 2n + n - 20 = 80$.  Simplifying the left side gives $3n +50 = 80$.  Subtracting 50 from both sides gives $3n = 30$, so $n = \\boxed{10}$.",
+        "level": "Level 1",
+        "type": "Algebra"
+    },
+    {
+        "question": "If $a * b = 2a + 3b$ for all $a$ and $b$, then what is the value of $4 * 3$?",
+        "answer": "17",
+        "reference": "We have $4 * 3 = 2(4)+3(3) = 8+9 = \\boxed{17}$.",
+        "level": "Level 1",
+        "type": "Algebra"
+    },
+    {
+        "question": "Find the largest value of $x$ that satisfies the equation $|5x-1|=x+3$.",
+        "answer": "1",
+        "reference": "We can split the expression $|5x-1|=x+3$ into two separate cases. In the first case, \\begin{align*} 5x-1&=x+3\n\\\\\\Rightarrow \\qquad 4x&=4\n\\\\\\Rightarrow \\qquad x&=1\n\\end{align*}If we plug this value of $x$ back into the original equation in order to check our answer, we see that $|5(1)-1|=1+3$ or $4=4$. Since this is true, we can accept $x=1$ as a valid solution.\n\nIn the second case, \\begin{align*} 5x-1&=-(x+3)\n\\\\ 5x-1&=-x-3\n\\\\\\Rightarrow \\qquad 6x&=-2\n\\\\\\Rightarrow \\qquad x&=-\\frac13.\n\\end{align*}If we plug $-\\frac13$ back into the initial equation, we get that $\\left|5\\left(-\\frac13\\right)-1\\right|=-\\frac13+3$, which simplifies to $\\left|-\\frac{8}{3}\\right|=\\frac{8}{3}$, or $\\frac{8}{3}=\\frac{8}{3}$. Since this is also a true statement, we can accept $x=-\\frac13$ as a valid solution as well. Since both $x=1$ and $x=-\\frac13$ are possible values of $x$, the final answer is the larger of the two: $x=\\boxed{1}$.",
+        "level": "Level 1",
+        "type": "Algebra"
+    }
+]

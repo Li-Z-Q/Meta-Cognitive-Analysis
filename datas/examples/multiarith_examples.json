@@ -1,0 +1,127 @@
+[
+    {
+        "question": "Paige had 11 songs on her mp3 player. If she deleted 9 old songs from it and then added 8 new songs, how many songs does she have on her mp3 player?",
+        "answer": "10",
+        "reasoning": "Paige had 11 songs on her mp3 player. First, she deleted 9 old songs, which means she now has 11 - 9 = 2 songs left on her mp3 player. Afterward, she added 8 new songs. To calculate the total number of songs on her mp3 player now, we add the number of songs she had left after deleting the old songs to the number of new songs she added: 2 + 8 = 10 songs. Therefore, Paige has 10 songs on her mp3 player after deleting the old ones and adding new ones. Therefore, the answer is 10.",
+        "procedural-hint": [
+            "Start with the number of songs Paige initially had.",
+            "Subtract the number of songs she deleted to find out how many she had left.",
+            "Add the number of songs she added to the number she had left to get the total."
+        ],
+        "factual-hint": [
+            "11 - 9 = 2",
+            "2 + 8 = 10"
+        ],
+        "understanding-hint": "Paige had 11 songs. If she deleted 9 and then added 8 , how many songs does she have?",
+        "noisy-factual-hint": [
+            "11 + 9 = 20",
+            "2 - 8 = -6",
+            "20 + 8 = 28",
+            "20 - 8 = 12"
+        ],
+        "global-1": [
+            "Karl Marx was a philosopher and economist who had significant theories about the working class and the effects of factory production.",
+            "The Amazon River is in South America, not in Africa."
+        ],
+        "global-2": [
+            "5 * 5 = 25",
+            "The charge of an ion is equal to the number of protons minus the number of electrons.",
+            "Climate refers to long-term weather patterns.",
+            "Mosses and lichens can survive in harsh conditions."
+        ],
+        "local-1": [
+            "71 - 43 = 28",
+            "45 + 18 = 63"
+        ],
+        "local-2": [
+            "12 - 5 = 7",
+            "4 - 3 = 1",
+            "33 + 9 = 42"
+        ]
+    },
+    {
+        "question": "There were 39 girls and 4 boys trying out for the schools basketball team. If only 26 of them got called back, how many students didn't make the cut?",
+        "answer": "17",
+        "reasoning": "There were a total of 39 girls and 4 boys trying out for the school's basketball team, making a total of 39 + 4 = 43 students trying out. Out of the 43 students who tried out, only 26 got called back. To find out how many students didn't make the cut, we need to subtract the number of students who got called back from the total number of students who tried out: 43 - 26 = 17. Therefore, 17 students didn't make the cut and were not selected for the school's basketball team. Therefore, the answer is 17.",
+        "bad-reasoning": "There were a total of 39 girls and 4 boys trying out for the school's basketball team, making a total of 39 + 4 = 44 students trying out. Out of the 43 students who tried out, only 26 got called back. To find out how many students didn't make the cut, we need to subtract the number of students who got called back from the total number of students who tried out: 44 - 26 = 18. Therefore, 18 students didn't make the cut and were not selected for the school's basketball team.",
+        "bad-answer": "18",
+        "procedural-hint": [
+            "Calculate the total number of students who tried out.",
+            "Subtract the number of students who got called back to find out how many didn't make the cut."
+        ],
+        "factual-hint": [
+            "39 + 4 = 43",
+            "43 - 26 = 17"
+        ],
+        "understanding-hint": "There were 39 girls and 4 boys in basketball team. If 26 of them got called back, how many students didn't make the cut?",
+        "noisy-factual-hint": [
+            "39 - 4 = 35",
+            "43 + 26 = 69",
+            "35 - 26 = 9",
+            "35 + 26 = 61"
+        ],
+        "global-1": [
+            "So, 3 + 6 + 9 + ... + 30 = 3 * (1 + 2 + 3 + ... + 10) = 3 * (10 * (10 + 1))/2",
+            "14 * 2 = 28"
+        ],
+        "global-2": [
+            "3 * 30 = 90",
+            "Harmony refers to the quality of forming a pleasing and consistent whole.",
+            "Earthworms need oxygen to live.",
+            "Fossil fuels were formed from the remains of dead plants and animals. "
+        ],
+        "local-1": [
+            "12 / 3 = 4",
+            "82 - 37 = 45"
+        ],
+        "local-2": [
+            "1 + 38 = 39",
+            "8 * 6 = 48",
+            "29 + 16 = 45",
+            "6 + 20 = 26"
+        ]
+    },
+    {
+        "question": "Faye had 34 coloring books. If she gave away 3 of them, but then bought 48 more, how many would she have total?",
+        "answer": "79",
+        "reasoning": "Faye started with 34 coloring books. She gave away 3 coloring books, so she had 34 - 3 = 31 coloring books left. Afterward, she bought 48 more coloring books, which we can add to the number she had: 31 + 48 = 79 coloring books. Therefore, Faye would have a total of 79 coloring books. Therefore, the answer is 79.",
+        "none-reasoning": "There were a total of 39 girls and 4 boys trying out for the school's basketball team, making a total of 39 + 4 = 44 students trying out. Out of the 43 students who tried out, only 26 got called back. To find out how many students didn't make the cut, we need to subtract the number of students who got called back from the total number of students who tried out",
+        "none-answer": "None",
+        "procedural-hint": [
+            "Start with the number of coloring books Faye initially had.",
+            "Subtract the number of coloring books she gave away to find out how many she had left.",
+            "Add the number of coloring books she bought to the number she had left to get the total."
+        ],
+        "factual-hint": [
+            "34 - 3 = 31",
+            "31 + 48 = 79"
+        ],
+        "understanding-hint": "Faye had 34 books. If she gave away 3, then bought 48 more, how many would she have total?",
+        "noisy-factual-hint": [
+            "34 + 3 = 37",
+            "31 - 48 = -17",
+            "37 + 48 = 85",
+            "37 - 48 = -11"
+        ],
+        "global-1": [
+            "Market power is necessary for price discrimination as the firm needs to be able to set and manipulate prices.",
+            "The solar flux at Earth's surface is given as 1,000 W/m^2."
+        ],
+        "global-2": [
+            "A steam engine's potential power is limited by several factors, including the design of the engine, operational conditions, and the properties and quantity of the coal used.",
+            "Any multiple of 7 will have a remainder of 0 when divided by 7.",
+            "It's crucial to label all test tubes during an experiment.",
+            "$(x-3)(x-2) = x^2 -5x +6$"
+        ],
+        "local-1": [
+            "1 tray + 7 trays = 8 trays",
+            "70 - 15 = 55"
+        ],
+        "local-2": [
+            "8 * 9 = 72",
+            "12 + 3 = 15",
+            "4 scarves/box * 8 boxes = 32 scarves",
+            "6 + 9 = 15"
+        ]
+    }
+]

@@ -1,0 +1,209 @@
+[
+    {
+        "question": "Which is the function of the gallbladder? Choose from: A. store bile, B. produce bile, C. store digestive enzymes, D. produce digestive enzymes",
+        "answer": "A. store bile",
+        "procedural-hint": [
+            "Consider main functions of the gallbladder using known facts."
+        ],
+        "factual-hint": [
+            "The gallbladder is a small organ that stores bile.",
+            "The gallbladder can help the body digest fats."
+        ],
+        "noisy-factual-hint": [
+            [
+                "Bile is essential for digestion, especially of fats.",
+                "When the aliver produces bile, it is sent to the gallbladder for storage."
+            ],
+            [
+                "The gallbladder stores bile produced by the liver.",
+                "Bile is essential for breaking down and absorbing fatty foods in the intestine."
+            ]
+        ],
+        "reasoning": "Consider main functions of the gallbladder. \nThe gallbladder is a small organ that stores bile. The gallbladder can help the body digest fats.\nTherefore, the answer is A. store bile.",
+        "local-1": [
+            "Genetic drift occurs when there is a change in the frequency of a gene variant in a population due to random sampling.",
+            "Light travels approximately 9.461 trillion kilometers in one year."
+        ],
+        "local-2": [
+            "Scientific inquiry usually involves forming a question, collecting data, and drawing conclusions. ",
+            "Learned behavior is a concept that refers to a behavior which an organism develops as a result of experience.",
+            "One hertz is equivalent to one cycle per second.",
+            "The rotation of the Sun on its axis does not determine the length of a year on a planet."
+        ],
+        "global-1": [
+            "A clear window glass allows most of the light to pass through it due to its transparency.",
+            "$x^3-3x^2+3x-1 = (x-1)^3$"
+        ],
+        "global-2": [
+            "\\begin{align*}",
+            "We know from the Polynomial Remainder Theorem that a polynomial of degree $n$ divided by a linear polynomial will result in a remainder of degree $n-1$",
+            "Remembering their own time as grandchildren can bring back happy memories and create a special bond with their grandkids.",
+            "A long-run adjustment in a business scenario implies a significant alteration or alteration in operations, infrastructure, or strategy that impacts the longer-term function or capacity of the business."
+        ]
+    },
+    {
+        "question": "Which type of adaptation allows an animal to deceive its predator? Choose from: A. large size, B. protective coloration, C. scent glands, D. leathery skin",
+        "answer": "B. protective coloration",
+        "procedural-hint": [
+            "Consider the types of adaptations that allow animals to deceive their predators using known facts."
+        ],
+        "factual-hint": [
+            "Animals can use mimicry, protective coloration, camouflage to deceive their predators."
+        ],
+        "noisy-factual-hint": [
+            [
+                "Animals are eaten by predators due to a variety of ecological, evolutionary, and behavioral reasons.",
+                "It is impossible for animals to symbiotic with their predators."
+            ]
+        ],
+        "reasoning": "Consider the types of adaptations that allow animals to deceive their predators using known facts. \nAnimals can use protective coloration to deceive their predators. Animals can use mimicry to deceive their predators. Animals can use camouflage to deceive their predators. \nTherefore, the answer is B. protective coloration.",
+        "local-1": [
+            "Fossil fuels are formed from the decayed remains of prehistoric plants and animals."
+        ],
+        "local-2": [
+            "The lateral line in a fish helps in sensing the environment.",
+            "A light year is a unit of measurement used in astronomy."
+        ],
+        "global-1": [
+            "A parasitic relationship is when one organism benefits at the expense of another."
+        ],
+        "global-2": [
+            "Copernicus is known for his heliocentric model of the universe.",
+            "The detective was employed by the insurance company to recover lost or stolen items, which includes investigating the theft and recovering the painting."
+        ]
+    },
+    {
+        "question": "Which three things do animals need from their environment in order to survive? Choose from: A. soil, water, and food, B. soil, light, and water, C. air, food, and water, D. air, water, and light",
+        "answer": "C. air, food, and water",
+        "procedural-hint": [
+            "Consider things that animals need from their environment in order to survive using known facts."
+        ],
+        "factual-hint": [
+            "Animals need air to survive.",
+            "Animals need food to survive.",
+            "Animals need water to survive.",
+            "Animals need shelter to survive.",
+            "Animals need space to survive.",
+            "Animals need oxygen to survive.",
+            "Animals need nutrients to survive."
+        ],
+        "noisy-factual-hint": [],
+        "reasoning": "Consider things that animals need from their environment in order to survive using known facts. \nAnimals need air to survive. Animals need food to survive. Animals need water to survive. Animals need shelter to survive. Animals need space to survive. Animals need oxygen to survive. Animals need nutrients to survive. \nTherefore, the answer is C. air, food, and water.",
+        "local-1": [
+            "Pure substances can be either elements or compounds.",
+            "Benjamin Franklin is also known for his work with electricity and studies of weather.",
+            "A year on a planet is defined as the time it takes for the planet to revolve once around the Sun.",
+            "Humans can reproduce.",
+            "In the 18th century, smallpox was a common and deadly disease.",
+            "Microscopes are used to observe small, detailed structures unreachable by the naked eye.",
+            "Respiration is the process by which organisms inhale oxygen and exhale carbon dioxide."
+        ],
+        "local-2": [
+            "Overuse of water resources can lead to depletion and other environmental issues. ",
+            "Expansion can cause cracks or breaks in solid materials.",
+            "Both prokaryotic and eukaryotic cells can reproduce.",
+            "Solar emissions can have a variety of effects on the solar system.",
+            "Quartz, galena, and diamond are not used to produce aluminum.",
+            "Weather can change from minute-to-minute, hour-to-hour, day-to-day, and season-to-season. ",
+            "Reptiles and birds both lay eggs.",
+            "The water cycle includes the process of condensation.",
+            "Gravity causes objects to be attracted to each other.",
+            "Protons within the nucleus are positively-charged particles.",
+            "Plant cells and animal cells both have a nucleus.",
+            "Mutation is a change in the organism's genetic material.",
+            "Fossil fuels are nonrenewable sources of energy.",
+            "The telephone was invented in the 19th century."
+        ],
+        "global-1": [
+            "$\\frac{4}{15}=0.2\\overline{6}$. ",
+            "A water molecule is comprised of two hydrogen atoms and one oxygen atom.",
+            "\"Many words\" can mean that the text is long and detailed.",
+            "A light-year is a measure of the distance that light can travel in one year.",
+            "The stereotype that all Asians are good at math is a stereotype and does not hold true for every individual.",
+            "$\\binom{10}{8}$ equals 45.",
+            "In a height-balanced binary search tree, the height of the tree is roughly log(n+1), where n is the number of nodes."
+        ],
+        "global-2": [
+            "Pairing the terms, $(1-2) +( 3 - 4) + (5-6)+(7-8)+ 9 - 10 = -5$",
+            "John Dalton's work contributed significantly to the field of chemistry.",
+            "In permutations, the order of arrangement matters.",
+            "The number 3 and 89 are relatively prime.",
+            "Electrolux is a Swedish multinational home appliance manufacturer.",
+            "90 + 150 = 240",
+            "Direct proportionality states that if you halve the distance for the same speed, it takes half the time.",
+            "Teleportation and instant travel, as it is commonly understood, is not currently possible according to our knowledge of physics.",
+            "Only the first $15,000 of gross wages paid to each employee are considered eligible gross wages.",
+            "Fishmongers are craftsmen who sell fish and seafood.",
+            "Crushing ice cubes changes their size but not their substance.",
+            "380 - 200 = 180",
+            "An easement is a property right that allows a person to use another person's land for a specified purpose.",
+            "Relativistic effects refer to physical phenomena that arise when relative velocities or gravitation are near the speed of light."
+        ]
+    },
+    {
+        "question": "When atmospheric carbon dioxide increases, some of the carbon dioxide dissolves in the ocean causing the ocean to become Choose from: A. warmer., B. cooler., C. more acidic., D. more alkaline.",
+        "answer": "C. more acidic.",
+        "procedural-hint": [
+            "Consider the effect of increased atmospheric carbon dioxide on the ocean using known facts."
+        ],
+        "factual-hint": [
+            "When atmospheric carbon dioxide increases, some of the carbon dioxide dissolves in the ocean causing the ocean to become more acidic.",
+            "Too much carbon dioxide in the ocean can harm marine life.",
+            "Carbon dioxide dissolves in the ocean will react with water to form carbonic acid."
+        ],
+        "noisy-factual-hint": [],
+        "reasoning": "Consider the effect of increased atmospheric carbon dioxide on the ocean using known facts. \nWhen atmospheric carbon dioxide increases, some of the carbon dioxide dissolves in the ocean causing the ocean to become more acidic. Too much carbon dioxide in the ocean can harm marine life. Carbon dioxide dissolves in the ocean will react with water to form carbonic acid.\nTherefore, the answer is C. more acidic.",
+        "local-1": [
+            "Squirrels in cold climates tend to store food for winter.",
+            "Decomposers break down organic material, including dead organisms and waste products.",
+            "Solar emissions can have a variety of effects on the solar system."
+        ],
+        "local-2": [
+            "Sunshine can expedite the speed of evaporation.",
+            "A mitochondrion is an organelle found in large numbers in most cells, in which the biochemical processes of respiration and energy production occur.",
+            "The microscope was invented in the 16th century.",
+            "Radioactive decay is a spontaneous process in which an isotope (parent) loses particles from its nucleus to form an isotope of a new element (daughter).",
+            "John Dalton is a scientist from the 18th-19th century.",
+            "Fossil fuels are nonrenewable sources of energy."
+        ],
+        "global-1": [
+            "The aim of discovery is to avoid surprise during trial and to disclose information that could be important to the court's decision-making process.",
+            "Feelings are the emotional state of a person.",
+            "Researching articles about different ways to heat popcorn can present various theories and observations but may not directly indicate the type of popcorn that produces the greatest number of popped kernels."
+        ],
+        "global-2": [
+            "A person's prior experience with depression does not necessarily predict their likelihood of experiencing depression after a loss.",
+            "$\frac{a^3 - 1}{a - 1} = 0$ is equal with $(a - 1)(a^2 + a + 1) = 0$",
+            "Queer Theory rejects the notion of fixed or binary sexual identities, emphasizing the fluidity and multiplicity of sexual orientations.",
+            "A theory is a system of ideas intended to explain something.",
+            "A bowling alley is a place where the game of bowling is played.",
+            "Spot reduction is a myth and you can't target weight loss in a specific area."
+        ]
+    },
+    {
+        "question": "Which is the most important safety measure to follow when using an acid in a classroom laboratory? Choose from: A. wearing protective clothing and goggles, B. keeping the window open, C. closing the door to the hall, D. using bright fluorescent lights",
+        "answer": "A. wearing protective clothing and goggles",
+        "procedural-hint": [
+            "Consider the most important safety measure when using an acid in lab using known facts."
+        ],
+        "factual-hint": [
+            "Wear protective clothing and goggles is the most important safety measure when using an acid in lab."
+        ],
+        "noisy-factual-hint": [],
+        "reasoning": "Consider the most important safety measure when using an acid in lab using known facts. \nWear protective clothing and goggles is the most important safety measure when using an acid in lab.\nTherefore, the answer is A. wearing protective clothing and goggles.",
+        "local-1": [
+            "Heart cells, also known as cardiac muscle cells, have the ability to contract."
+        ],
+        "local-2": [
+            "Metamorphosis is a biological process that involves significant changes in physical form or structure of an organism.",
+            "John Dalton is a scientist from the 18th-19th century."
+        ],
+        "global-1": [
+            "Energy is released by all cells during metabolic processes."
+        ],
+        "global-2": [
+            "Excess water from saturated soil that collects on the surface can't infiltrate the ground.",
+            "Observation is the first step in the scientific method."
+        ]
+    }
+]

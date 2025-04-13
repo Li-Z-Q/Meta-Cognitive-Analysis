@@ -1,0 +1,37 @@
+[
+    {
+        "question": "Each edge of a cube has length 3 inches. What is the number of square inches in the cube's total surface area?",
+        "answer": "54",
+        "reference": "Each face of the cube has area $3\\cdot3=9$ square inches. Since the cube's surface area includes 6 faces, the total surface area is $9\\cdot6=\\boxed{54}$ square inches.",
+        "level": "Level 1",
+        "type": "Geometry"
+    },
+    {
+        "question": "Mrs. Read can knit one pair of children's mittens with a ball of yarn six inches in diameter. How many pairs of identical mittens can she knit with a ball of yarn twelve inches in diameter? Assume that the balls of yarn are rolled consistently.",
+        "answer": "8",
+        "reference": "A ball of yarn 12 inches in diameter has twice the diameter of a ball of yarn 6 inches in diameter.  Let the radius of the small ball be $r$ and the radius of the large ball be $2r$.  Then, the volume of the small ball is $\\frac{4}{3}\\pi r^3$ and the volume of the large ball is $\\frac{4}{3}\\pi (2r)^3 = 8\\cdot \\frac{4}{3}\\pi r^3$.  Hence the large ball has 8 times the volume of the small ball, so Mrs. Read can knit $\\boxed{8}$ pairs of identical mittens with the large yarn ball.",
+        "level": "Level 3",
+        "type": "Geometry"
+    },
+    {
+        "question": "Find $AX$ in the diagram if $CX$ bisects $\\angle ACB$. [asy]\nimport markers;\n\nreal t=1-.32;\npair A=(-4.07,0);\npair B=(40.008,0);\npair C=(0,20.616);\npair X=t*A+(1-t)*B;\n\ndraw(C--A--B--C--X);\n\nlabel(\"$A$\",A,SW);\nlabel(\"$B$\",B,E);\nlabel(\"$C$\",C,N);\nlabel(\"$X$\",X,S);\n\n//markangle(n=1,radius=15,A,C,X,marker(markinterval(stickframe(n=1),true)));\n//markangle(n=1,radius=15,X,C,B,marker(markinterval(stickframe(n=1),true)));\n\nlabel(\"$30$\",.5*(B+X),S);\nlabel(\"$45$\",.5*(B+C),NE);\nlabel(\"$21$\",.5*(A+C),NW);\n[/asy]",
+        "answer": "14",
+        "reference": "The Angle Bisector Theorem tells us that  \\[\\frac{AC}{AX}=\\frac{BC}{BX}\\]so \\[AX=\\frac{AC\\cdot BX}{BC}=\\frac{21\\cdot30}{45}=\\boxed{14}.\\]",
+        "level": "Level 3",
+        "type": "Geometry"
+    },
+    {
+        "question": "How many square units are in the area of the largest square that can be inscribed in a circle with radius 1 unit?",
+        "answer": "2",
+        "reference": "The diagonal of a square inscribed in a circle is a diameter of the circle, so the length of the diagonal of the square is 2 units.  Recall that the area of a square with diagonal $d$ is $d^2/2$.  The area of a square whose diagonal measures 2 units is $2^2/2=\\boxed{2}$ square units.\n\nNote: To derive the area formula $d^2/2$, divide the square into two 45-45-90 right triangles.  The side length of the square is $d/\\sqrt{2}$ and its area $(d/\\sqrt{2})^2=d^2/2$.",
+        "level": "Level 3",
+        "type": "Geometry"
+    },
+    {
+        "question": "Compute $\\tan 180^\\circ$.",
+        "answer": "0",
+        "reference": "Rotating the point $(1,0)$ about the origin by $180^\\circ$ counterclockwise gives us the point $(-1,0)$, so $\\tan 180^\\circ = \\frac{\\sin 180^\\circ}{\\cos 180^\\circ} = \\frac{0}{-1} = \\boxed{0}$.",
+        "level": "Level 1",
+        "type": "Geometry"
+    }
+]

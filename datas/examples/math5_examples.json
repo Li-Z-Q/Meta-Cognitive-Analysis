@@ -1,0 +1,37 @@
+[
+    {
+        "question": "How many integers between 100 and 500 have at least two 3s as digits?",
+        "answer": "22",
+        "reference": "First consider the two $3$s to appear in the units and tens places. Between $100$ and $500$, there are four such numbers: $133$, $233$, $333$, and $433$. Now consider the two $3$s to appear in the units and hundreds places. The numbers will be in the $300$s, so we don't need to worry about if they are between $100$ and $500$. There are $10$ choices for the tens digit, but we have already counted $333$, so such a scenario will add nine numbers. Finally, consider the two $3$s to appear in the tens and hundreds places. Again, these numbers are automatically between $100$ and $500$. There are $10$ choices for the units digit, but we again discard $333$ for a final count of nine such numbers. Thus, our answer is $4+9+9 = \\boxed{22}$.",
+        "level": "Level 5",
+        "type": "Prealgebra"
+    },
+    {
+        "question": "If the sum of three real numbers is $0$ and their product is $17$, then what is the sum of their cubes?",
+        "answer": "51",
+        "reference": "Let the three real numbers be $x,y,z$. We want to find a way to relate $x^3 + y^3 + z^3$, $x+y+z$, and $xyz$. As a guess, we can try to expand the quantity \\begin{align*}\n(x+y+z)^3 &= x^3 + y^3 + z^3 \\\\\n&\\;\\; + 3x^2y + 3x^2z + 3y^2x + 3y^2z \\\\\n& \\;\\; + 3z^2x + 3z^2y + 6xyz.\n\\end{align*} Substituting $x+y+z = 0$, we obtain $$x^3 + y^3 + z^3 = -3(x^2y + x^2z + y^2x + y^2z + z^2x + z^2y + 2xyz).$$ After some experimentation, we notice that we can group certain terms to factor out a $x+y+z$ term, such as that $x^2y + y^2x + xyz = xy(x+y+z) = 0$. Similarly, $z^2x + x^2x + xyz = xz(x+y+z)$ and $y^2z + z^2y + xyz = yz(x+y+z)$. Hence, the equation reduces to $x^3 + y^3 + z^3 = -3(-xyz) = 3xyz = \\boxed{51}.$\n\nThis also follows from the following identity about the sum of three cubes: $$x^3 + y^3 + z^3 - 3xyz = (x+y+z)(x^2 + y^2 + z^2 - xy - yz - zx).$$",
+        "level": "Level 5",
+        "type": "Algebra"
+    },
+    {
+        "question": "How many positive integers less than or equal to 100 have a prime factor that is greater than 4?",
+        "answer": "80",
+        "reference": "The easiest solution is to find the number of positive integers with only 2 and 3 as their prime factors. If the number has no factors of 3, the qualifying numbers are $2^0, 2^1, 2^2, 2^3, 2^4, 2^5, 2^6$ for 7 total. If there is one factor of 3, we have $2^0 \\cdot 3^1, 2^1 \\cdot 3^1, 2^2 \\cdot 3^1, 2^3 \\cdot 3^1, 2^4 \\cdot 3^1, 2^5 \\cdot 3^1$ for 6 total. With two factors of 3, we have $2^0 \\cdot 3^2, 2^1 \\cdot 3^2, 2^2 \\cdot 3^2, 2^3 \\cdot 3^2$ for 4 total. With three factors of 3, we have $2^0 \\cdot 3^3, 2^1 \\cdot 3^3$ for 2 total. Finally, $3^4$ gives us 1 more. So, there are $7+ 6+4+2+1 = 20$ positive integers less than or equal to 100 that have only 2 and 3 as prime factors. Therefore, there are $100-20 = \\boxed{80}$ positive integers less than or equal to 100 that have a prime factor greater than 4.",
+        "level": "Level 5",
+        "type": "Counting & Probability"
+    },
+    {
+        "question": "How many base-10 integers are exactly 4 digits in their base-3 representation and exactly 2 digits in their base-6 representation?",
+        "answer": "9",
+        "reference": "Base-10 integers that are exactly 4 digits in base 3 range from $1000_3=3^3=27$ to less than $10000_3=3^4=81$. Base-10 integers that are exactly 2 digits in base 6 range from $10_6=6^1=6$ to less than $100_6=6^2=36$. So, for a number $n$ to satisfy the conditions, it must be that $27\\le n <36$. $n$ could be a number from 27 to 35, inclusive, which means there are $\\boxed{9}$ integers that meet the conditions of the problem.",
+        "level": "Level 5",
+        "type": "Number Theory"
+    },
+    {
+        "question": "There are nonzero integers $a$, $b$, $r$, and $s$ such that the complex number $r+si$ is a zero of the polynomial $P(x)={x}^{3}-a{x}^{2}+bx-65$. For each possible combination of $a$ and $b$, let ${p}_{a,b}$ be the sum of the zeros of $P(x)$. Find the sum of the ${p}_{a,b}$'s for all possible combinations of $a$ and $b$.",
+        "answer": "80",
+        "reference": "Since the coefficients of $P(x)$ are real, if $r+si$ is a zero, then so is $r-si$. To avoid counting pairs of roots twice, we stipulate that $s > 0$.\n\nLetting $t$ denote the third root, we note that by Vieta's formulas, \\[a = (r+si) + (r-si) + t = 2r + t,\\]so $t = a - 2r$, which is an integer. By Vieta again, \\[65 =(r+si)(r-si)t = (r^2+s^2)t,\\]so $r^2+s^2$ must be a positive divisor of $65$. Testing cases, we find that the possible values for $(r, s)$ are $(\\pm 1, 2)$, $(\\pm 2, 1)$, $(\\pm 2, 3)$, $(\\pm 3, 2)$, $(\\pm 1, 8)$, $(\\pm 8, 1)$, $(\\pm 7, 4)$, and $(\\pm 4, 7)$.\n\nNow, given $r$ and $s$, we determine $p_{a, b}$. By Vieta's again, \\[p_{a, b} = (r+si) + (r-si) + t = 2r + t = 2r + \\frac{65}{r^2+s^2}.\\]Over all possible pairs $(r, s)$, the $2r$ terms all cancel with each other. Looking at the list of possible pairs $(r, s)$, we get that the sum of all the $p_{a, b}$'s is \\[4 \\left(\\frac{65}{1^2+2^2} + \\frac{65}{2^2+3^2} + \\frac{65}{1^2+8^2} + \\frac{65}{4^2+7^2}\\right) = 4 (13 + 5 + 1 + 1) = \\boxed{80}.\\]",
+        "level": "Level 5",
+        "type": "Intermediate Algebra"
+    }
+]

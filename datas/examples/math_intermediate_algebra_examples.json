@@ -1,0 +1,37 @@
+[
+    {
+        "question": "Find the magnitude of the complex number $5-12i$.",
+        "answer": "13",
+        "reference": "The magnitude is $$\n|5-12i| = \\sqrt{5^2 + (-12)^2} = \\sqrt{169} = \\boxed{13}.\n$$",
+        "level": "Level 1",
+        "type": "Intermediate Algebra"
+    },
+    {
+        "question": "Let $a,$ $b,$ $c$ be positive real numbers.  Find the minimum value of\n\\[\\frac{\\frac{1}{a} + \\frac{1}{b} + \\frac{1}{c}}{\\frac{1}{a + b} + \\frac{1}{a + c} + \\frac{1}{b + c}}.\\]",
+        "answer": "2",
+        "reference": "By AM-HM,\n\\[\\frac{a + b}{2} \\ge \\frac{2}{\\frac{1}{a} + \\frac{1}{b}},\\]so\n\\[\\frac{1}{a} + \\frac{1}{b} \\ge \\frac{4}{a + b}.\\]Similarly,\n\\begin{align*}\n\\frac{1}{a} + \\frac{1}{c} &\\ge \\frac{4}{a + c}, \\\\\n\\frac{1}{b} + \\frac{1}{c} &\\ge \\frac{4}{a + b}.\n\\end{align*}Adding these inequalities, we get\n\\[\\frac{2}{a} + \\frac{2}{b} + \\frac{2}{c} \\ge \\frac{4}{a + b} + \\frac{4}{a + c} + \\frac{4}{b + c},\\]so\n\\[\\frac{1}{a} + \\frac{1}{b} + \\frac{1}{c} \\ge 2 \\left( \\frac{1}{a + b} + \\frac{1}{a + c} + \\frac{1}{b + c} \\right).\\]Hence,\n\\[\\frac{\\frac{1}{a} + \\frac{1}{b} + \\frac{1}{c}}{\\frac{1}{a + b} + \\frac{1}{a + c} + \\frac{1}{b + c}} \\ge 2.\\]Equality occurs when $a = b = c,$ so the minimum value is $\\boxed{2}.$",
+        "level": "Level 3",
+        "type": "Intermediate Algebra"
+    },
+    {
+        "question": "Find the greatest integer less than $(\\sqrt{7} + \\sqrt{5})^6.$  (Do not use a calculator!)",
+        "answer": "13535",
+        "reference": "Let $x = \\sqrt{7} + \\sqrt{5}$ and $y = \\sqrt{7} - \\sqrt{5}.$\n\nFirst, we can square $x = \\sqrt{7} + \\sqrt{5}$ and $y = \\sqrt{7} - \\sqrt{5},$ to get\n\\begin{align*}\nx^2 &= (\\sqrt{7} + \\sqrt{5})^2 = 7 + 2 \\sqrt{35} + 5 = 12 + 2 \\sqrt{35}, \\\\\ny^2 &= (\\sqrt{7} - \\sqrt{5})^2 = 7 - 2 \\sqrt{35} + 5 = 12 - 2 \\sqrt{35}.\n\\end{align*}Note that $x^2$ and $y^2$ are radical conjugates.  Also, $x^2 y^2 = (12 + 2 \\sqrt{35})(12 - 2 \\sqrt{35}) = 12^2 - 2^2 \\cdot 35 = 4,$ so\n\\[y^2 = \\frac{4}{x^2} = \\frac{4}{12 + 2 \\sqrt{35}} < 1.\\]Then\n\\[x^4 = (12 + 2 \\sqrt{35})^2 = 12^2 + 2 \\cdot 12 \\cdot 2 \\sqrt{35} + 2^2 \\cdot 35 = 284 + 48 \\sqrt{35},\\]and\n\\begin{align*}\nx^6 &= x^2 \\cdot x^4 \\\\\n&= (12 + 2 \\sqrt{35})(284 + 48 \\sqrt{35}) \\\\\n&= 12 \\cdot 284 + 12 \\cdot 48 \\sqrt{35} + 2 \\sqrt{35} \\cdot 284 + 2 \\cdot \\sqrt{35} \\cdot 48 \\cdot \\sqrt{35} \\\\\n&= 6768 + 1144 \\sqrt{35}.\n\\end{align*}Then $y^6$ is the radical conjugate of $x^6,$ so $y^6 = 6768 - 1144 \\sqrt{35}.$  Hence,\n\\[x^6 + y^6 = (6768 + 1144 \\sqrt{35}) + (6768 - 1144 \\sqrt{35}) = 13536.\\]Since $0 < y^6 < 1,$ the greatest integer less than $x^6$ is $\\boxed{13535}.$",
+        "level": "Level 3",
+        "type": "Intermediate Algebra"
+    },
+    {
+        "question": "The function $f(x) = \\frac{6x^3+4x^2-11x+5}{3x^3-15x+20}$ has a horizontal asymptote $y = c$.  What is $c$?",
+        "answer": "2",
+        "reference": "When the degree (largest exponent) of the polynomial on the numerator and denominator are the same, the horizontal asymptote approaches the ratio of the leading coefficient of the numerator to the leading coefficient of the denominator. In this case, the ratio is $\\frac{6}{3} = \\boxed{2}$.",
+        "level": "Level 1",
+        "type": "Intermediate Algebra"
+    },
+    {
+        "question": "Find $|9i-12|\\cdot |3+4i|$.",
+        "answer": "75",
+        "reference": "We have $|9i-12|\\cdot |3+4i| = 15 \\cdot 5 = \\boxed{75}$.",
+        "level": "Level 1",
+        "type": "Intermediate Algebra"
+    }
+]
